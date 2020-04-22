@@ -1,0 +1,385 @@
+"0";"A recipe to make an ascended short bow with Assassin (+Precision, +Power, and +Ferocity) stats."
+"1";"A recipe to make an ascended short bow with Cavalier (+Toughness, +Power, and +Ferocity) stats."
+"2";"A recipe to make an ascended harpoon gun with Valkyrie (+Power, +Ferocity, and +Vitality) stats."
+"3";"Backpack Straps"
+"4";"Plush Quaggan Backpack Cover"
+"5";"Precise Infusion[s]"
+"6";"Mighty Infusion[s]"
+"7";"Malign Infusion[s]"
+"8";"Vital Infusion[s]"
+"9";"Resilient Infusion[s]"
+"10";"Healing Infusion[s]"
+"11";"((242704))"
+"12";"A recipe to make an ascended harpoon gun with Berserker (+Power, +Ferocity, and +Precision) stats."
+"13";"A recipe to make an ascended harpoon gun with Assassin (+Precision, +Power, and +Ferocity) stats."
+"14";"A recipe to make an ascended harpoon gun with Cavalier (+Toughness, +Power, and +Ferocity) stats."
+"15";"A recipe to make an ascended staff with Valkyrie (+Power, +Ferocity, and +Vitality) stats."
+"16";"A recipe to make an ascended staff with Berserker (+Power, +Ferocity, and +Precision) stats."
+"17";"A recipe to make an ascended staff with Assassin (+Precision, +Power, and +Ferocity) stats."
+"18";"A recipe to make an ascended staff with Cavalier (+Toughness, +Power, and +Ferocity) stats."
+"19";"A recipe to make an ascended torch with Valkyrie (+Power, +Ferocity, and +Vitality) stats."
+"20";"A recipe to make an ascended torch with Berserker (+Power, +Ferocity, and +Precision) stats."
+"21";"A recipe to make an ascended torch with Assassin (+Precision, +Power, and +Ferocity) stats."
+"22";"A recipe to make an ascended torch with Cavalier (+Toughness, +Power, and +Ferocity) stats."
+"23";"A recipe to make an ascended trident with Valkyrie (+Power, +Ferocity, and +Vitality) stats."
+"24";"A recipe to make an ascended trident with Berserker (+Power, +Ferocity, and +Precision) stats."
+"25";"A recipe to make an ascended trident with Assassin (+Precision, +Power, and +Ferocity) stats."
+"26";"A recipe to make an ascended trident with Cavalier (+Toughness, +Power, and +Ferocity) stats."
+"27";"A recipe to make an ascended warhorn with Valkyrie (+Power, +Ferocity, and +Vitality) stats."
+"28";"A recipe to make an ascended warhorn with Berserker (+Power, +Ferocity, and +Precision) stats."
+"29";"A recipe to make an ascended warhorn with Assassin (+Precision, +Power, and +Ferocity) stats."
+"30";"A recipe to make an ascended warhorn with Cavalier (+Toughness, +Power, and +Ferocity) stats."
+"31";"A recipe to make an ascended inscription for crafting weapons with Valkyrie (+Power, +Ferocity, and +Vitality) stats."
+"32";"A recipe to make an ascended inscription for crafting weapons with Berserker (+Power, +Ferocity, and +Precision) stats."
+"33";"Your name is synonymous with the bountiful goodwill we refugees have received from you, and from adventurers like you. Thanks to your efforts, we are healthy and prepared for the road ahead.
+
+While I prefer to remain anonymous, I want to give you my utmost thanks for everything you've done. Without your help, sickness may have taken my daughter from me. She sends her thanks as well, which I have attached to this letter."
+"34";"Anonymous"
+"35";"Thank You"
+"36";"Claw"
+"37";"Branded Heal"
+"38";"Avenger of the Dispossessed"
+"39";"Claim Buff"
+"40";"A recipe to make an ascended inscription for crafting weapons with Assassin (+Precision, +Power, and +Ferocity) stats."
+"41";"A recipe to make an ascended inscription for crafting weapons with Cavalier (+Toughness, +Power, and +Ferocity) stats."
+"42";"Guild Wars 2 uses Havok™. © Copyright 1999-2013 Havok.com, Inc. (and its licensors). All rights reserved. See Havok.com for details."
+"43";"Uses Autodesk® Scaleform® copyright © 2011, Autodesk, Inc."
+"44";"Uses FMOD Ex Sound System from Firelight Technologies."
+"45";"Uses Granny Animation. ©1999-2007 by RAD Game Tools, Inc."
+"46";"Mac version developed by TransGaming Inc. using Cider™. Cider is Copyright © 2000-2013 TransGaming Inc. Additional copyright and license information for sub-components of Cider can be found online at http://transgaming.com/ciderlicense."
+"47";"Destroy"
+"48";"For one hour, gain an additional 50%% karma each time you earn karma. This does not affect karma gained from consumable items."
+"49";"Never run out of mining picks again!"
+"50";"Double-click to transform into a toxic krait. You will be unable to fight while transformed."
+"51";"Splendid Chest[s]"
+"52";"<c=@flavor>"Watch out for those destroyer fissures; one wrong move'll get you a nasty burn."<br>—Kruppa</c>"
+"53";"Mini[pl:"Minis of"] Queen Jennah"
+"54";"A recipe to make an ascended insignia for crafting armor with Valkyrie (+Power, +Ferocity, and +Vitality) stats."
+"55";"A recipe to make an ascended insignia for crafting armor with Berserker (+Power, +Ferocity, and +Precision) stats."
+"56";"Spawns a guild banner that will give +10%% gathering chance to any ally that touches it for 30 minutes. Stacks with other gathering buffs."
+"57";"Enter Death Shroud form [lbracket]%str1%[rbracket] when you have low health. Every foe you kill increases your life force bar, which lets you stay in Death Shroud longer."
+"58";"Magi's Amulet"
+"59";"Rabid Amulet"
+"60";"Soldier's Amulet"
+"61";"Cavalier's Spineguard"
+"62";"Magi's Spineguard"
+"63";"Rabid Spineguard"
+"64";"Soldier's Spineguard"
+"65";"Cavalier's Ring"
+"66";"Magi's Ring"
+"67";"Rabid Ring"
+"68";"Soldier's Ring"
+"69";"Avenger of the Dispossessed"
+"70";"A recipe to make an ascended insignia for crafting armor with Assassin (+Precision, +Power, and +Ferocity) stats."
+"71";"A recipe to make an ascended insignia for crafting armor with Cavalier (+Toughness, +Power, and +Ferocity) stats."
+"72";"+5 Condition Damage
++1%% Damage to Guards, Lords, and Supervisors"
+"73";"+5 Healing
+-1%% Damage taken from Guards, Lords, and Supervisors"
+"74";"+5 Power
++1%% Damage to Guards, Lords, and Supervisors"
+"75";"+5 Precision
++1%% Damage to Guards, Lords, and Supervisors"
+"76";"+5 Toughness
+-1%% Damage taken from Guards, Lords, and Supervisors"
+"77";"Fire"
+"78";"Are you sure you want to convert this skin to a PvP item? This will be a permanent change."
+"79";"MONSTER ONLY Devourer Unarmed"
+"80";"Branded Barrier"
+"81";"+5 Vitality
+-1%% Damage taken from Guards, Lords, and Supervisors"
+"82";"%str1%, 
+
+Dragon Bash? Dragon? Bash? I'm beside myself with confusion and rage. Do those bilge-swilling simpletons in Lion's Arch think any public amusement featuring dragons is a well-thought out idea? I hear they've decorated with a dragon hologram flying above the city. Isn't that just festive of them? I swear, if it looks like Kralktorrik, I'll devote the rest of my life to ruining that sea-soaked burg for trivializing Snaff's death. Good thing I don't have to step foot in there to smash dragon pinatas, burn effigies, and battle dragon holograms. I hear they're scattering pinatas in the cities and the rest around outside. That's acceptable, but only just.
+
+Why don't you head to Lion's Arch and watch this disaster unfold. It's always good to have a laugh at someone else's idiocy.
+
+—Zojja
+
+<c=#ff8c00>[lbracket]Go to the Grand Piazza in Lion's Arch and speak with members of the Ship's Council to learn about Dragon Bash festivities.[rbracket]</c>"
+"83";"Zojja"
+"84";"Dragon Bash in Lion's Arch"
+"85";"%str1%,
+
+No doubt you've heard reports that Lion's Arch is throwing itself a party. Fancy that, a bunch of shady pirates celebrating themselves. Guess they win medals for getting through a day and not spilling their grog. Heard they'll have fireworks too. Ridiculous. Once you see Iron Legion cannons rip into the night, nothing else will do. Pfah! They've already started scattering pinatas inside the major cities, and hologram boxes and effigies around outside. So at least we can celebrate close to home.
+
+Most interesting to me is the Dragon Ball combat arena inside Lion's Arch. Enter and show no mercy, soldier. Given your recent valor on the battlefield, you've earned some leave. Go blow off some steam. Just don't misbehave and end up in the brig. You're a proud member of the Legions, after all.
+
+—Rytlock Brimstone, Blood Legion Tribune
+
+<c=#ff8c00>[lbracket]Go to the Grand Piazza in Lion's Arch and speak with members of the Ship's Council to learn about Dragon Bash.[rbracket]</c>"
+"86";"Rytlock Brimstone, Blood Legion Tribune"
+"87";"New Orders: Dragon Bash in Lion's Arch"
+"88";"%str1%, 
+
+After working so hard to defend Tyria, we could use some fun. Just in time, the Ship's Council of Lion's Arch is hosting a "Dragon Bash" festival to celebrate our victories—past, present, and future—against the Elder Dragons. I've overheard a few Seraph talking about Dragon Ball, which is a competitive combat arena, and moa race betting. Both should draw quite a crowd in Lion's Arch.
+
+I heard they're having giveaways and plenty of activities to occupy your time and mind. I know they've already placed pinatas inside Divinity's Reach and other cities, and there's hologram boxes and dragon effigies outside. I just hope they don't make too much of a mess.
+
+Bash some dragons for me.
+—Captain Logan Thackeray
+
+<c=#ff8c00>[lbracket]Go to the Grand Piazza in Lion's Arch and speak with members of the Ship's Council to learn about Dragon Bash.[rbracket]</c>"
+"89";"Captain Logan Thackeray"
+"90";"%str1%,
+
+I hear the people of Lion's Arch are hosting a moot, one that features dragons. It's called Dragon Bash, and the city elders are giving visitors a chance to take their fear and rage out on dragon holograms spread across Tyria. If you're itching for a fight, they've built an arena for the ancient game of Dragon Ball. Or you could call on Raven's luck at the moa races. 
+
+I spotted a pinata, a hologram box, and some effigies in the area surrounding Hoelbrak, and I heard the outlying areas around other cities had them too. Nice of them to include us. Head to the center of the festivities in Lion's Arch and revel. We must, once in a while, or we end up with nothing but cold and darkness as our friends. Perhaps I'll see you there. 
+
+—Eir Stegalkin
+
+<c=#ff8c00>[lbracket]Go to the Grand Piazza in Lion's Arch and speak with members of the Ship's Council to learn about Dragon Bash.[rbracket]</c>"
+"91";"Too many spawns of this type nearby."
+"92";"Eir Stegalkin"
+"93";"%str1%,
+
+Have you heard of the peculiar Dragon Bash festival taking place in Lion's Arch? Surely, they can't be celebrating dragons? The details I've gathered are few. The Lion's Arch Ship's Council has put together entertainments and other frivolities both in the city and around the world. I've heard there are fast-running moas you can wager on, and the city's night sky will be painted with fire and light. How exciting! Oh, and they've scattered pinatas in our city and others, and there are hologram boxes and dragon effigies scattered all over outside. They're very thoughtful. I just hope that no drakes eat the gifts and get indigestion.
+
+Of course, I've never understood organized gatherings. Perhaps you might find it interesting. I cannot make it to Lion's Arch to discover what the fuss is about, but you should. You can tell me all about it sometime.
+
+—Caithe
+
+<c=#ff8c00>[lbracket]Go to the Grand Piazza in Lion's Arch and speak with members of the Ship's Council to learn about Dragon Bash.[rbracket]</c>"
+"94";"Caithe"
+"95";"<c=@flavor>Straight from the dark depths of krait-infested waters.</c>"
+"96";"Grenth Statue <c=#ff8c00>[lbracket]Contested[rbracket]</c><br>• The area damages the living's health."
+"97";"Ascended Gear"
+"98";"Dragon Bash in Lion's Arch"
+"99";"%str1%,
+
+The situation has worsened. One of the Lion's Arch councillors, Theo Ashford, has succumbed to his wounds. The Lionguard is keeping the news quiet while the festival continues, but they're overwhelmed trying to maintain security in the city. At this very moment, a killer walks free, and this cannot be allowed.
+
+Go to Divinity's Reach, to the Eastern Commons.  There, in a back alley bar called the Dead End, you'll find one of the best investigative minds in Tyria, Marjory Delaqua. She will need your help to find those behind the councillor's death. Tell her E sent you. Work with her, sift through the clues, and solve the crime. 
+
+I will surely contact you again,
+—E
+
+<c=#ff8c00>[lbracket]Find Marjory Delaqua in the Dead End bar, Eastern Commons, Divinity's Reach.[rbracket]</c>"
+"100";"E"
+"101";"Seek out Marjory Delaqua"
+"102";"%str1%, 
+
+The Lionguard have tracked down three of the five missing suspects. I'd love to get lost in this mystery, but I must remain in Lion's Arch. I need someone who can travel to interrogate the suspects. I barely know you, but your reputation precedes you. Will you be my legs and ears on the ground? Do what you can to convince these suspects to return to Lion's Arch, and take good notes if they say anything. Here's where you can start:
+
+- We've discovered footprints from the ogre suspect Vorrk leaving the crime scene in Lion's Arch. Follow them.
+- Reports indicate that Morraloo, the quaggan suspect, is in Bloodtide Coast in the Sorrowful Sound. Find him.
+- The skritt suspect, Kasparak, was sighted in Gendarren Fields near Almuten Estates.
+
+I'll continue the investigation into the whereabouts of our last two suspects. Be wary, trust your instincts, and stay alive.
+-Marjory
+
+<c=#ff8c00>[lbracket]Search for tracks of Vorrk leaving the crime scene in Lion's Arch[rbracket]</c>
+<c=#ff8c00>[lbracket]Find Morraloo in the Sorrowful Sound of Bloodtide Coast[rbracket]</c>
+<c=#ff8c00>[lbracket]Locate Kasparak in the hills above Gendarran Fields's Almuten Estates[rbracket]</c>"
+"103";"Marjory Delaqua, Delaqua Investigations"
+"104";"Suspects Located"
+"105";"A recipe to make ascended heavy boots with Valkyrie (+Power, +Ferocity, and +Vitality) stats."
+"106";"A recipe to make an ascended heavy coat with Valkyrie (+Power, +Ferocity, and +Vitality) stats."
+"107";"%str1%, 
+
+Inspector Kiel and her Lionguard have tracked down the last two suspects. As with the previous three, I leave it to you to handle the questioning. Here are our leads:
+
+- The kodan suspect, Trembling Song, has been spotted in Snowden Drifts at the Lost Child's Sorrow camp.
+- Unsubstantiated rumors place our sylvari suspect, Astorra, hiding out in Caledon Forest in the Rowanwoods.
+
+I've been examining the clues already recovered. The Tassi box uncovered trace elements with magical properties. I'm not sure yet, but my guess is that these components formed a compound that turned the effigy into a deathtrap.  I think our last two suspects hold the final pieces to this puzzle.
+
+Whatever you discover, return to the crime scene in Lion's Arch afterward so we can share our findings.  Be wary, trust your instincts, stay alive.
+
+—Marjory
+
+<c=#ff8c00>[lbracket]Interrogate Trembling Song at Lost Child's Sorrow in northeast Snowden Drifts[rbracket]</c>
+<c=#ff8c00>[lbracket]Find Astorra in the Rowanwoods in north Caledon Forest.[rbracket]</c>"
+"108";"Last Two Suspects Found"
+"109";"%str1%, your name now appears on a list of those who have come to the defense of Lion's Arch. We keep this prestigious list to honor anyone who defended the city, despite the possible loss of their own lives. The first name on the list is, of course, Cobiah Marriner. It also serves as a list of those the Ship's Council considers allies and who may be called upon to help again in a time of crisis.
+
+You'll be pleased to know that Mai has been imprisoned in Fort Marriner.  She won't be troubling anyone else for a long while. I hope we can work again in the future. 
+
+—Inspector Ellen Kiel of the Lionguard"
+"110";"Lionguard Inspector Ellen Kiel"
+"111";"Honors"
+"112";"%str1%,
+
+You may not know me, but I know you. I'm calling upon you because you're capable in the face of danger. If you consider yourself a force for good in this world, then I implore you to attend the Dragon Bash effigy ceremony in Lion's Arch. I've heard whispers about a threat to the Ship's Council and, if left unchecked, to the city itself. I'd intervene myself, but circumstances prevent it. 
+
+I'd wish you luck, but luck is what fools and idiots require to stay alive. You, I believe, are neither.
+
+I will surely contact you again,
+—E
+
+<c=#ff8c00>[lbracket]Go to the Grand Piazza in Lion's Arch and talk to the Lionguard at the ceremony stage to attend the Dragon Bash effigy ceremony.[rbracket]</c>"
+"113";"Council Threat"
+"114";"Captain Magnus, Ship's Council, Lion's Arch"
+"115";"A recipe to make ascended heavy gloves with Valkyrie (+Power, +Ferocity, and +Vitality) stats."
+"116";"Box of Fun"
+"117";"Glacial Spike"
+"118";"Deserter's Reel"
+"119";"Chilblains Grenade"
+"120";"Blood Grenade"
+"121";"Life Siphon"
+"122";"%str1%,
+
+Dragon Bash is but a fading memory, and a new mystery calls—or will soon, I'm sure. In the lull between cases, I must take a moment to thank you for your valuable service. We wouldn't have discovered Mai Trin's involvement without your help. So, thank you. I'll see you later.
+
+—Marjory"
+"123";"Another Day, Another Debt"
+"124";"Sparkling objects have loot for you! <br><br>Click them and select what you want to claim, or turn on Autoloot in General Options."
+"125";"((243076))"
+"126";"ArenaNet Staff"
+"127";"World Ability Point Reset"
+"128";"Dragon Ball Arena"
+"129";"—First team to 500 points wins."
+"130";"—Go to a Dragon Ball power-up to unlock new skills."
+"131";"—Normal weapons and skills, including healing, are temporarily disabled."
+"132";"—Use launchers to move across the arena faster."
+"133";"Search Area"
+"134";"Vapor Blade"
+"135";"<c=@abilitytype>Dual Wield.</c> Throw a dagger that cripples nearby foes and returns to you."
+"136";"Dancing Dagger"
+"137";"Retaliation"
+"138";"Hylek Stomp"
+"139";"Dragon's Claw"
+"140";"Fireball"
+"141";"Turret Controller - DO NOT LOCALIZE"
+"142";"Mortar Controller"
+"143";"Upgrade Turret"
+"144";"Fire a standard explosive shot."
+"145";"Standard Shot"
+"146";"Reload the main cannon manually. Your next shot will blow out targets."
+"147";"Reload"
+"148";"Fire Caltrop Shot"
+"149";"Fire Napalm Shot"
+"150";"Tracker"
+"151";"Fire a supercharged shot that will blow out targets. Using another skill wastes this opportunity."
+"152";"Super Shot"
+"153";"You're out of ammunition. Reload manually for a faster recharge time."
+"154";"Depleted"
+"155";"Throw"
+"156";"Incendiary Mine"
+"157";"Press and hold to fire a mortar shot. Hold down to shoot farther."
+"158";"Fire"
+"159";"This mortar has no shells. Retrieve mortar shells from the ordnance forge."
+"160";"Out of Mortar Shells"
+"161";"Infinite Toxic Krait Tonic[s]"
+"162";"Taking and holding objectives will score points over time. Open the scoreboard [lbracket]%str1%[rbracket] to view the current state of World vs. World."
+"163";"Steal from the enemy! Use [lbracket]%str1%[rbracket] to Shadowstep to a foe and steal one of their skills. Your Steal skill [lbracket]%str1%[rbracket] will change based on what was stolen."
+"164";"Not sure what to do?<br><br>Speak with the Instructor (near your starting location), and they can tell you many useful things about World vs. World."
+"165";"Take a normal screenshot."
+"166";"Plastic Fangs"
+"167";"Cobbled together from delicious candy corn."
+"168";"Candy Corn Cob[s]"
+"169";"<c=@flavor>"Working with dolyaks takes good boots. You never know what you might step in."<br>—Lyot</c>"
+"170";"<c=@flavor>"Working with Dolyaks takes good boots. You never know what you might step in."<br>—Lyot</c>"
+"171";"<c=@flavor>"Careful walking around the ettins; they leave all manner of nasty and sharp things lying about."<br>—Bramm</c>"
+"172";"<c=@flavor>"Watch your head."<br>—Rebel Isaak</c>"
+"173";"<c=@flavor>"How do you improve pants? Well, put these on and let me show you."<br>—Explorer Trebb</c>"
+"174";"<c=@flavor>"These help neutralize naturally occurring red-cap toxins."<br>—Elain</c>"
+"175";"Supply Barrel"
+"176";"You did say you'd go along with my soldier, Rox, to defend our hatchery, right? I read it in your eyes. In any case, I wanted to make sure you knew how appreciative I'd be if you did, and also where to go. Exit the city via the northeastern gate that leads to Diessa Plateau. Pass through Nolan and head into the foothills. The hatchery is there.
+
+—Rytlock Brimstone, Blood Legion Tribune"
+"177";"Quaggan Spear"
+"178";"Memorials on the Pyre"
+"179";"The Scene of the Crime"
+"180";"The Dead End"
+"181";"Aetherblade Retreat"
+"182";"A Future in Politics"
+"183";"Chicken Unarmed"
+"184";"Laurels"
+"185";"Undying Devotion"
+"186";"Kick"
+"187";"Contacts in World"
+"188";"Roll yourself in a ball of snow. Increases health and grants immunity from crippling."
+"189";"Snowball"
+"190";"A recipe to make an ascended heavy helm with Valkyrie (+Power, +Ferocity, and +Vitality) stats."
+"191";"The Dead End"
+"192";"[lbracket]Merchant[rbracket]"
+"193";"Dragon Bash Hologram Projector"
+"194";"Ship's Council"
+"195";"Dragon Bash Prizes"
+"196";"Frost Armor"
+"197";"A recipe to make ascended heavy leggings with Valkyrie (+Power, +Ferocity, and +Vitality) stats."
+"198";"Blue Team Rally Point"
+"199";"Red Team Rally Point"
+"200";"A recipe to make ascended heavy shoulders with Valkyrie (+Power, +Ferocity, and +Vitality) stats."
+"201";"Foe Killed"
+"202";"Double-click to apply to an unused enrichment slot."
+"203";"Refugee Coordinator"
+"204";"((243420))"
+"205";"((243421))"
+"206";"Disables the spike traps."
+"207";"Disable Spikes"
+"208";"A recipe to make ascended light boots with Valkyrie (+Power, +Ferocity, and +Vitality) stats."
+"209";"Embroidered Coin Purse[pl:"Purses"]"
+"210";"Satchel[s] of Mighty Seeker Armor"
+"211";"Skull Bolas"
+"212";"Throw"
+"213";"Throw Crab"
+"214";"Pick Up"
+"215";"A recipe to make an ascended light coat with Valkyrie (+Power, +Ferocity, and +Vitality) stats."
+"216";"A recipe to make ascended light gloves with Valkyrie (+Power, +Ferocity, and +Vitality) stats."
+"217";"A recipe to make an ascended light helm with Valkyrie (+Power, +Ferocity, and +Vitality) stats."
+"218";"A recipe to make ascended light leggings with Valkyrie (+Power, +Ferocity, and +Vitality) stats."
+"219";"Nightmare Leggings"
+"220";"Freeze Grenade"
+"221";"Spread Grenades"
+"222";"Double Health Potions"
+"223";"Full Health Potions"
+"224";"-If you take the orb to a capture point that your team controls, you will score the full amount of points. Taking the orb to a point not controlled by your team will yield a partial amount of points."
+"225";"-Taking the orb to an enemy-controlled capture point will neutralize control of that point."
+"226";"Throw Snowball"
+"227";"Whirlwind Attack"
+"228";"Hundred Blades"
+"229";"Hunter's Call"
+"230";"Spit"
+"231";"Swoop"
+"232";"Surge"
+"233";"Stab"
+"234";"Impale"
+"235";"Heavy Swipe"
+"236";"Maul"
+"237";"Roar"
+"238";"Frenzy"
+"239";"Howl"
+"240";"Lava Font"
+"241";"Undead Grub Spit"
+"242";"Death Blossom"
+"243";"Lunge"
+"244";"Venomous Knife"
+"245";"Shield Bash"
+"246";"Backhand"
+"247";"Winds of Chaos"
+"248";"Swoop"
+"249";"Teeth of Jormag"
+"250";"Frozen Burst"
+"251";"Wind Blast"
+"252";"Drop a pack of bandages that provides a little healing."
+"253";"Drop Bandages"
+"254";"Drop a stimulant that grants fury and swiftness."
+"255";"Drop Stimulant"
+"256";"Tentacle Slash"
+"257";"Throw the mortar shell."
+"258";"Nourishment"
+"259";"Twisting Fang"
+"260";"Rifle Butt"
+"261";"Hammer Bash"
+"262";"Hammer Smash"
+"263";"Volley"
+"264";"Shield of Absorption"
+"265";"Heartseeker"
+"266";"Unholy Feast"
+"267";"Vapor Blade"
+"268";"Unload"
+"269";"Throw Anchor"
+"270";"Trick Shot"
+"271";"Reload"
+"272";"Mind Stab"
+"273";"Lunge"
+"274";"Slash"
+"275";"Repair"
+"276";"Summon Golem"
+"277";"Return"
+"278";"Launch the fist of the hazmat suit at foe."
+"279";"Hilt Bash"
+"280";"Deploy Ballista"

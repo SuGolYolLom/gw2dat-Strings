@@ -1,0 +1,212 @@
+"0";"Preview"
+"1";"+10%% Burning Duration; increase damage by 10%% while fire aura is active."
+"2";"<c=@flavor>Given to young legionnaires when they graduate from the fahrar and take command of their warband.</c>"
+"3";"A Trial of Koda or its primer is currently active here."
+"4";"+5%% Boon Duration; cleanse a condition from yourself and nearby allies after using a healing skill. <c=@reminder>(Cooldown: 20 Seconds)</c>"
+"5";"<c=@flavor>"A bear ate his pauldrons? Is this common? Do bears eat armor?"</c>"
+"6";"<c=@flavor>"Who knew Braham actually had it in him? Good thing I didn't lose my eye."</c>"
+"7";"+5%% Condition Duration; gain barrier after executing a leap combo finisher."
+"8";"+10%% Bleeding Duration; inflict bleeding, torment, and poison on nearby foes for 8 seconds after using an elite skill. <c=@reminder>(Cooldown: 30 Seconds)</c>"
+"9";"<c=@flavor>"The spikes are for opening jammed access panels, not for use as a weapon. Just kidding. Everything's a weapon."</c>"
+"10";"It's time for the Super Adventure Festival!"
+"11";"Search here to find other players who want to live in the world of Tyria."
+"12";"<c=@flavor>"I grew up on stories of charr heroes. I wanted to be one so badly, I'd do anything."</c>"
+"13";"Conditions you apply to foes last longer, but conditions applied to you also last longer."
+"14";"+10%% Swiftness Duration; grant swiftness to nearby allies for 10 seconds after using a healing skill. <c=@reminder>(Cooldown: 10 Seconds)</c>"
+"15";"Conditions Applied to Foes"
+"16";"Greetings!
+
+The Super Adventure Festival has begun! Come play in my Super Adventure Box! If you've never tried it before, then now is the ideal time to enter my exciting world!
+
+The Super Adventure Box will close when the Super Adventure Festival ends, so don't miss out! Meet me in the Creator's Commons of Rata Sum and start your adventure today!
+
+—Moto"
+"17";"<c=@flavor>"Steel warband's vigilance in holding the pass behind Brokentooth Maw prevented the Shatter warband from being overrun."</c>"
+"18";"Moto"
+"19";"<c=@flavor>"This chest has been puzzling me for a while. I see no way to reach the mechanism through this field...unless you're a tank-mounted harpoon."</c>"
+"20";"Discover new guilds and guild members here."
+"21";"<c=@flavor>"Metal Legion crowds are the pits."</c>"
+"22";"Conditions Applied to Self"
+"23";"<c=@flavor>"I climbed along the conveyor to replace this worn gear that was causing a jam, and I am COVERED IN GREASE. This rig is AWESOME!"
+—Ronoah Grindsteel"
+"24";"<c=@flavor>"Patrol investigating the aftermath found the cub hidden near corpses of her presumed parents. Brought her to Grothmar. Added her to the fahrar."</c>"
+"25";"Spare Restored Boreal Weapons"
+"26";"Deal more damage against foes with a lower health percentage than you. Hitting with an <c=@abilitytype>Explosion</c> heals you over a few seconds."
+"27";"Gain life force every interval up to the threshold when not in shroud. Gain protection when you enter shroud."
+"28";"An enhanced version of the standard Mighty weapon."
+"29";"Challenge Mote"
+"30";"Elemental Lockdown"
+"31";"<c=@flavor>Hearts collide in the frigid tunnels of the Shiverpeaks.</c>
+Found in the Grotto in Thunderhead Peaks."
+"32";"%str1%%str2%Artifact of the Broken Voice%str3%%str4%"
+"33";"Challenge Begins: Powerful Foes"
+"34";"Use to gain the Black Lion Chest exclusive Blue Lion Dye."
+"35";"<c=@flavor>On the front lines of battle against the Elder Dragon threat, love blooms.</c>
+Found in a Pact camp in Jahai Bluffs."
+"36";"A messenger has returned from the peace agreements. The other Summit clans have agreed to reunify with Deldrimor. We cannot submit to this weakness; we will never be their tools. It is better for us to forge our own path than to submit to ideologies that undermine the core of our being.
+
+The process of recording my thoughts is becoming more difficult. The stone has progressed to my wrist. There is no escaping the Rite, much as I may resist."
+"37";"Duty-Bound Domeplate"
+"38";"Forged Steel"
+"39";"Veteran Door Guard Loot Box[pl:"Boxes"]"
+"40";"Mist Connections"
+"41";"Explorer's Booster[s]"
+"42";"Duty-Bound Duffers"
+"43";"A Kralkatorrid Affair"
+"44";"Empowering Roar"
+"45";"Journal of Forgemender Arngirn"
+"46";"Mission Final Rank: Legionnaire"
+"47";"An enhanced version of the standard Homespun armor."
+"48";"%str1%%str2%Herald of the Broken Voice%str3%%str4%"
+"49";"Duty-Bound Thigh Guards"
+"50";"Daze above Health Threshold"
+"51";"Gain fury when you disable a foe.<br><c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, fear, launch, and taunt.</c>"
+"52";"Magic Find Booster"
+"53";"Karma Booster[s]"
+"54";"Explosive Temper"
+"55";"Homespun Trousers"
+"56";"Double-click to open.
+The weapons in this box unlock a journey to acquire multiple versions of their appearances."
+"57";"Abyss Stalker Outfit[s]"
+"58";"The Passions of Faren"
+"59";"Homespun Mittens"
+"60";"Inspiring Virtue"
+"61";"Glacial Harvesting Tool"
+"62";"Toxic Cape now available!"
+"63";"Sell"
+"64";"An enhanced version of the standard Duty-Bound armor."
+"65";"Daily Strike Mission"
+"66";"Commander of Your Heart"
+"67";"%str1%%str2%Claymore of the Broken Voice%str3%%str4%"
+"68";"%str1%%str2%Revolver of the Broken Voice%str3%%str4%"
+"69";"<c=@flavor>Love is a battlefield.</c>
+Confiscated from the Brig in Grothmar Valley."
+"70";"Abyss Stalker Appearance Package"
+"71";"Deal increased damage after activating a virtue."
+"72";"Double-click to open. Contains main-hand and two-handed weapons that are more powerful than standard level 10 weapons."
+"73";"Furious Focus"
+"74";"Blast Shield"
+"75";"%str1%%str2%Blade of the Broken Voice%str3%%str4%"
+"76";"%str1%%str2%Spire of the Broken Voice%str3%%str4%"
+"77";"Dedicated to Lord Faren, who pays generously.
+
+CHAPTER 1
+
+Deep in the Maguuma Jungle, the world had just been saved. Mordremoth had fallen...in love. 
+
+Yes, friends, it's the truth: it was not swords that ended the war. For while the Pact commander had conquered the dragon's mind, Lord Faren had conquered the dragon's heart.
+
+"No one can know that you still live," Faren said, a single tear flowing down his cheek. "They wouldn't believe in you the way I do."
+
+"I know, my shining knight." The Elder Dragon whispered back. "And yet, you must leave my side. For you have other lives to save...and more love to give.""
+"78";"%str1%%str2%Bastion of the Broken Voice%str3%%str4%"
+"79";"Journal 4 in Forging Steel"
+"80";"Can be attained from the boneskinner in the Raven Sanctum.
+Trade to Berghild in Eye of the North for shoulder armor."
+"81";"Double-click to choose which zone you want to teleport to. Teleporting consumes 1 of 5 charges. <c=@Warning>This item cannot be used while in combat.</c>"
+"82";"Mechanist Ninn"
+"83";"This heavily worn tome is all but illegible. A description of its contents remains preserved by the leather cover:
+
+After a devastating rejection by his queen, Captain Rogan Fackeray swore to never love again. But when his duty traps him in a single-cot prison cell with the ruggedly handsome Tribune Gritlock, Rogan's vow is put to the test. From the author of the smash hit "A Kralkatorrid Affair" comes a sultry dance between human and charr; cross-species desire heretofore unexplored!"
+"84";"Cripple enemies that you disable.<br><c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>"
+"85";"Sell Items"
+"86";"%str4% %str1%, at the request of your allies, the Arcane Council of Rata Sum has dispatched a team to reactivate the asura gate at the Eye of the North. I'm pleased to tell you that the main gate is now patched into the modern network and a waypoint has been established. Access details and a guide marker accompany this mail.
+
+Please visit at your convenience!
+
+—Mechanist Ninn"
+"87";"Mission Final Rank: Centurion"
+"88";"[lbracket]Gate Linking[rbracket]"
+"89";"Passions of Faren by Snargle Goldclaw"
+"90";"Title[s]: 2v2 Elite"
+"91";"Double-click to open. Contains a 10-slot bag and 3 Explorer's Boosters."
+"92";"Explosive Entrance"
+"93";"Journal of Forgemender Arngirn"
+"94";"Double-click to open. Contains helms that are more powerful than standard level 5 helms."
+"95";"Health Tonic"
+"96";"Daze vs. Skill Use"
+"97";"Journal of Forgemender Arngirn"
+"98";"Use to gain the Black Lion Chest exclusive Green Lion Dye."
+"99";"Dreamwalker Wings Backpack and Glider Combo[s]"
+"100";"Stoneshard Scepter"
+"101";"Homespun Espadrilles"
+"102";"Glaring Resolve"
+"103";"Dreamwalker Scythe"
+"104";"Enhanced Mighty Helm"
+"105";"Dark Wing Weapons"
+"106";"Maguuma's Grasp skin is now available!"
+"107";"<c=@flavor>"Some of the warband are starting to eye each other in the wrong way. Got to silence the whispers."</c>"
+"108";"Double-click to open. Contains a choice of a level 10 Enhanced Mighty weapon, 3 choices of dye unlocks, 5 transmutation charges, and a Royal Terrace two-week pass."
+"109";"Choice of Level 10 Enhanced Mighty Weapon"
+"110";"CHAPTER 35
+
+"Don't think I haven't noticed," the Pact commander says as your heart skips a beat, "How you've followed me into danger, over and over. How crucial you were against the Risen, and the Mordrem. You're an invaluable ally."
+
+A pause. You should be flattered, you know. But once again, the meeting he called was strictly professional. Your heart sinks as the silence stretches on, unable to say what you really want.
+
+But then the commander moves close. "I've also noticed the way you look at me." You can feel his warmth. "The way you've always looked at me."
+
+"So now," the commander continues, taking your hand, "I'd like to propose...a different pact. A lifelong pact. With you."
+
+Almost on cue, a flock of snow-white seagulls takes flight."
+"111";"Eternal Life"
+"112";"Abyss Stalker Cape now available!"
+"113";"CHAPTER 35
+
+"Don't think I haven't noticed," the Pact commander says as your heart skips a beat, "How you've followed me into danger, over and over. How crucial you were against the Risen, and the Mordrem. You're an invaluable ally."
+
+A pause. You should be flattered, you know. But once again, the meeting she called was strictly professional. Your heart sinks as the silence stretches on, unable to say what you really want.
+
+But then the commander moves close. "I've also noticed the way you look at me." You can feel her warmth. "The way you've always looked at me."
+
+"So now," the commander continues, taking your hand, "I'd like to propose...a different pact. A lifelong pact. With you."
+
+Almost on cue, a flock of snow-white seagulls takes flight."
+"114";"Speak with Snargle Goldclaw."
+"115";"Toxic Cape[s]"
+"116";"Toxic Cape"
+"117";"Ragamuffin Cape"
+"118";"When you disable a foe, gain a boon based upon your current attunement."
+"119";"Enhanced Mighty Chestpiece"
+"120";"The ice beast assaults have subsided, thus giving the guards a much needed reprieve. But I sense unrest within them. There has been infighting. We brought one before the priests for counseling, though he remained completely unresponsive to their ministrations. When released, he returned silently to his post as if nothing had occurred.
+
+The mood has chilled. We speak little. There is a burning within us.
+
+This will pass. Like with the stone, we must acclimate to fire."
+"121";"Duty-Bound Brigandine"
+"122";"Ragamuffin Slacks"
+"123";"Journal of Forgemender Arngirn"
+"124";"Water Elemental Summoned"
+"125";"Dodging removes conditions."
+"126";"Maguuma's Mantle skin is now available!"
+"127";"Visit the Eye of the North."
+"128";"Magic Find Booster[s]"
+"129";"Mission Final Rank: Imperator"
+"130";"Double-click to open. Contains a Portal Note for 5 free teleports to starter maps, 1,000 karma, and 3 Heroic Boosters."
+"131";"Double-click to open. Contains a dye unlock from one of the chosen color sets."
+"132";"Unlock by completing the Guildrider Warclaw Skin Reward Track achievement."
+"133";"Their talk of our fate is an excuse for the corruption they have embraced. We will not be their soldiers. Our transformation does not make us "brethren." We have nothing in common other than our race. They are misguided. They do not represent us.
+
+The Summit stands alone at the top.
+
+As the days pass, I can feel the stone take hold. Movement takes effort. If this is my fate, I will control it. If we can't undo the Rite, then at least we will use it to our advantage.
+
+I have dispatched scouts to key places. We must learn all we can on how to reverse the transformation. It's the only way."
+"134";"Ammunition Recovered"
+"135";"Stoneshard Scepter Skin[s]"
+"136";"%str1%%str2%Razor of the Broken Voice%str3%%str4%"
+"137";"Guildrider Warclaw Skin Reward Track"
+"138";"Appearance skins override the look of your equipment and have no stats of their own."
+"139";"Koss on Koss: Uncensored by Snargle Goldclaw"
+"140";"Journal 1 in Forging Steel"
+"141";"[lbracket]Services[rbracket]"
+"142";"An enhanced version of the standard Ragamuffin armor."
+"143";"Journal 3 in Forging Steel"
+"144";"Air Elemental Summoned"
+"145";"Dreamwalker Scythe Staff Skin[s]"
+"146";"Abyss Stalker Cape"
+"147";"<c=@flavor>A forbidden city. A forbidden love.</c>
+Found in Lion's Arch."
+"148";"%str1%%str2%Musket of the Broken Voice%str3%%str4%"
+"149";"Contained Temper"
+"150";"The Truly Nimble"

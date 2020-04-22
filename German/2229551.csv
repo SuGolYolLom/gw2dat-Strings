@@ -1,0 +1,475 @@
+"0";"Gruppen-Inhalt für 10 Spieler. Versammelt Eure Freunde für spannende Schlachten um Euch!"
+"1";"Ein besonderes Geschenk für den fleißigen Lehrling eines Spielzeugmachers."
+"2";"Dokument"
+"3";"Der Weg nach Westen ist offen"
+"4";"[M]%str1%%str2%Glänzender prächtiger Kurzbogen%str3%%str4%"
+"5";"Konzertkarten-Schnipsel von "Metal Legion""
+"6";"[N]%str1%%str2%Frostiges grünes Gewehr%str3%%str4%"
+"7";"Sylvari"
+"8";"Lebendige Welt: Staffel 4"
+"9";"[M]%str1%%str2%Frostiger grüner Dolch%str3%%str4%"
+"10";"Ranoah Schleifstahl"
+"11";"Übungspuppe"
+"12";"Kochstation[pl:"Kochstationen"] freischalten"
+"13";"Ein Schwert, wie es von Wachsamen-NSCs benutzt wird."
+"14";"Übungspuppe"
+"15";"Es besteht die Chance auf ein Wintertag-Geschenk oder einen Wintertag-Verstärker. Der Wintertag-Verstärker gewährt für 15 Minuten folgende Vorteile:
++25 %% Erfahrungspunkte für besiegte Gegner
++25 %% Gold für besiegte Gegner
++25 %% Belohnungspfad-Fortschritt im PvP und WvW"
+"16";"Metallschrott"
+"17";"[M]%str1%%str2%Frostiger grüner Schild%str3%%str4%"
+"18";"<c=@flavor>"Separatisten auf der einen Seite, Geister auf der anderen. Zu viele tote Charr."</c>"
+"19";"Ihr habt die Prüfung des Raben abgeschlossen."
+"20";"Das Geflüster des Jormag ruft einen Schneesturm herbei."
+"21";"Zerschmetterter Truhen-Deckel"
+"22";"Zusammenarbeit"
+"23";"Portal-Foliant: Eisbrut-Saga"
+"24";"Heilung pro Intervall"
+"25";"Demolierter Blut-Legion-Schulterschutz"
+"26";"[M]%str1%%str2%Frostiger grüner Fokus%str3%%str4%"
+"27";"Brocken kristallisiertes Karma"
+"28";"[PM]%str1%%str2%Steingipfel-Stiefel%str3%%str4%"
+"29";"Torverbindung Hain"
+"30";"Düsterfels-Höhlen"
+"31";"Ein Hauch von Aurenes Magie"
+"32";"Notizen der Konstrukteurin"
+"33";"Blut-Legion-Munitionskiste"
+"34";"Juwelierstation freischalten"
+"35";"Ein Panorama im Waldland"
+"36";"[M]%str1%%str2%Frostiger grüner Streitkolben%str3%%str4%"
+"37";"Steingipfel-Handschuh-Kiste"
+"38";"Einfacher Gilden-Umhang"
+"39";"Steingipfel-Helm-Kiste"
+"40";"Legionär-Abzeichen der Blut-Legion"
+"41";"[M]%str1%%str2%Frostiger grüner Stab%str3%%str4%"
+"42";"Steingipfel-Schulter-Kiste[pl:"Kisten"]"
+"43";"[N]%str1%%str2%Glänzendes prächtiges Kriegshorn%str3%%str4%"
+"44";"Bankzugriff"
+"45";"Ryland Stahlfänger"
+"46";"Tagebuch-Fragment"
+"47";"Steinwachentor"
+"48";"Flamme des Kahn-Ur"
+"49";"Knochenhäuter-Totem"
+"50";"Fügt dem Auge des Nordens eine Ledererstation hinzu."
+"51";"[F]%str1%%str2%Eisgolem-Haube%str3%%str4%"
+"52";"Hacken"
+"53";"Chance, dass dies von Zentauren-Gegnern abgeworfen wird, von Modniir Ulgoth garantiert."
+"54";"Sprecht mit Vishen, nachdem Ihr den Uralten Schmiedearbeiter bezwungen habt."
+"55";"Standard-Ausrüstung
+
+Anklicken, um PvP-Ausrüstung zu betrachten.
+PvP-Ausrüstung ist nur in PvP-Spielmodi von Vorteil.
+Waffen werden in beiden Ansichten angezeigt."
+"56";"Kleines Präzisionsschützen-Abzeichen"
+"57";"Panzer-Munition einsammeln"
+"58";"Rylands Kommando"
+"59";"Enttäuschung"
+"60";"Viele frohe Minis"
+"61";"Chance, dass dies von Zerstörer-Gegnern abgeworfen wird, von Mega-Zerstörern garantiert."
+"62";"Ziel festhaken"
+"63";"Eisscherben-Stab"
+"64";"Versprechen Kodas, Gabe Kodas"
+"65";"Rezept[pl:"Rezepte"]: Eisen-Legion-Stab"
+"66";"Mini Magisches[pl:"Magische"] Rentier[pl:"Rentiere"]"
+"67";"Ledererstation"
+"68";"Legt den Fisch in diesen Korb."
+"69";"Zerbrochener Stab"
+"70";"[N]%str1%%str2%Frostiges grünes Großschwert%str3%%str4%"
+"71";"[M]%str1%%str2%Glänzender prächtiger Talisman%str3%%str4%"
+"72";"Gefunden im Donnerbau am Donnerbruch-Hügel in den Feldern der Verwüstung."
+"73";"Frostiges[pl:"Frostige"] grünes[pl:"grüne"] Wintertag-Geschenk[pl:"Geschenke"]"
+"74";"Nicabar Stahlweber"
+"75";"Gefunden in einer Truhe am Ende eines Licht-Rätsels in den Bjora-Sümpfen."
+"76";"Erlösung"
+"77";"Torverbindung Götterfels"
+"78";"Wachsamen-Schwert"
+"79";"Notizen zur Rekrutierung: Vishen Stahlschuss"
+"80";"Erhöhte Werkzeuggürtel-Wiederaufladung"
+"81";"Gnade des Spielzeugmachers"
+"82";"Heart of Thorns"
+"83";"Ledererstation freischalten"
+"84";"[M]%str1%%str2%Glänzender prächtiger Lederschild%str3%%str4%"
+"85";"Erfolg abschließen: "Ingenieurs-Lehrling""
+"86";"Umdenken"
+"87";"Gefunden in der Truhe am Ende des Sprungrätsels "Die Roheisen-Grube" in den Feuerherzhügeln."
+"88";"Düsterfels-Höhlen"
+"89";"Uranfängliche Schlacke"
+"90";"Erstellte Klone"
+"91";"[PM]%str1%%str2%Runen-Schamanen-Stiefel%str3%%str4%"
+"92";"Gefunden in der Blut-Legion-Feste im Grothmar-Tal."
+"93";"[M]%str1%%str2%Glänzender prächtiger Stab%str3%%str4%"
+"94";"Fügt dem Auge des Nordens Zugang zu einer Bank hinzu."
+"95";"Zuckerstangen-Strahl[pl:"Strahlen"]"
+"96";"Gefunden in der Truhe am Ende der Angriffsmission "Zittergipfel-Pass" im Grothmar-Tal."
+"97";"Nicabar Stahlweber"
+"98";"Waffenschmiedstation"
+"99";"Rezept[pl:"Rezepte"]: Eisen-Legion-Langschuss"
+"100";"Konfrontation"
+"101";"Geheimnis des Labyrinths"
+"102";"Gefunden in einer Truhe am Ende des Sprungrätsels "Purpur-Plateau" auf dem Diessa-Plateau."
+"103";"Lebendige Welt: Staffel 3"
+"104";"Zeitprüfung des Rennens"
+"105";"Bratet einen Fleischspieß über der Feuergrube im Dorf Schlachterblock auf dem Diessa-Plateau."
+"106";"Ein Versteck voller Tore"
+"107";"Erfolg abschließen: "Feldmedizin""
+"108";"Gefunden im Aschfurt-Forum in den Ebenen von Aschfurt."
+"109";"Spielmechanik"
+"110";"Nach unseren Siegen auf Drachensturz hat Groß-Kriegsmeister Laranthir ein Gesuch für ene vorübergehende Beurlaubung eingereicht, um in den Hain zurückkehren zu können.
+
+Es ist meine persönliche Empfehlung, dass man seinem Gesuch entspricht und ihn danach zu seinen Pflichten bei den Wachsamen zurückkehren lässt.
+
+Laranthir hat sich als starker und fähiger Anführer unseres Ordens erwiesens, seine Instikte sind makellos und er genießt mein vollstes Vertrauen.
+
+Die Wachsamen werden ihn vermissen, doch wir erwarten, dass Laranthir zu gegenbener Zeit auf seinen Posten zurückkehren wird. Bis das der Fall ist, werde ich mit Jhavi zusammenarbeiten, um sicherzustellen, dass sie auf ihre neuen Verantwortlichkeiten als meine Stellvertreterin vorbereit ist.
+
+Seelenhüter"
+"111";"Unterdrücker[f:"Unterdrückerin"] profanen Geflüsters"
+"112";"Wintermonarchen-Umhang"
+"113";"Bonusmissionen-Rang verdient: "Unterstützungstrupp""
+"114";"[lbracket]Aktivität: Himmlische Herausforderung[rbracket]"
+"115";"Ein geschichtlicher Abriss über "Sprechen Stiller Wasser", Teil zwei"
+"116";"[F]%str1%%str2%Runen-Bezwinger-Brustplatte%str3%%str4%"
+"117";"Zwergen-Munitionskiste"
+"118";"[PM]%str1%%str2%Runen-Schamanen-Handschuhe%str3%%str4%"
+"119";"Zu kaufen bei Lakor Nörgelmaul im Dorf Schlachterblock auf dem Diessa-Plateau."
+"120";"Heilung pro Intervall"
+"121";"[N]%str1%%str2%Frostiges grünes Zepter%str3%%str4%"
+"122";"Gefunden vor dem Eingang der Flammenzitadelle in den Feuerherzhügeln."
+"123";"Die Riesenratte"
+"124";"Stabilisierter[pl:"Stabilisierte"] Propheten-Kristall[pl:"Kristalle"]"
+"125";"Gekauft bei Fahrtak Schmetterfeind in der Nähe der Wegmarke Bruchzahn-Schlund in der Flammenkamm-Steppe."
+"126";"Trupp-Lager"
+"127";"Bonusmissionen-Rang verdient: Panzer-Schützer[f:"Schützerin"]"
+"128";"Gefunden in der Truhe am Ende von "Ein großer Umweg" in der Meerenge der Verwüstung."
+"129";"Sternenlicht-Flügel-Rucksack- und Gleitschirm-Kombo[pl:"Kombos"]"
+"130";"Makelloser[pl:"Makellose"] Geflüster-Fangzahn[pl:"Fangzähne"]"
+"131";"Notizen der Waffenschmiedin"
+"132";"Waidmannstation[pl:"Waidmannstationen"] freischalten"
+"133";"Dienste Auge des Nordens"
+"134";"Erschaffen durch den Sieg über mehrere Gebrandmarkte Gegner in der Flammenkamm-Steppe."
+"135";"Tränen Kodas"
+"136";"Versammelt Eure Gruppe oder Euren Einsatztrupp um Euch und erkundet den Hauptkontinent von Tyria.<br><c=@reminder>(Das schließt sämtliche Orte mit ein, die in der kostenlosen Version des Spiels Guild Wars 2 zugänglich sind.)</c>"
+"137";"Fügt dem "Auge des Nordens"-Tor Hoelbrak als Ziel hinzu."
+"138";"Gefunden auf einem Aussichtspunkt der Terra Carorunda in der Flammenkamm-Steppe."
+"139";"Seize the Awkward"
+"140";"Luka Tomasdottir
+
+Seid still.
+
+Bitte.
+
+Hört auf.
+
+Ihr hört mir ja gar nicht mehr zu. Es ist, als spräche ich mit einer Wand. Worte genügen nicht mehr. Ich habe Euch so lange angeschrien, dass ich keine Stimme mehr habe. Es gibt keine Worte nehr. Ich werde nie wieder sprechen. Also schreibe ich und hoffe, dass Ihr diese Worte lesen werdet und mich in Ruhe lasst.
+
+Tag um Tag sprecht Ihr mit mir. Zuerst dachte ich, Ihr wärt Helfender Donner. Sogar als die Kodan außerhalb des Dorfes sagten, er sei nicht mehr da.
+
+Stimmt nicht, nein – sie sagten nur, seine Stimme sei nicht mehr seine eigene. Ich dachte, vielleicht sei er noch da draußen. Ich dachte, vielleicht hatten die Krieger von Sprechen Stiller Wasser in einem Akt paranoiden Wahns unbedacht einen der ihren ausgestoßen. Sicherlich war der Kodan, den ich im Frostklamm-Sund getroffen, der Kodan, mit dem ich am Feuer im Sicherwachttal Geschichten ausgetauscht hatte, nicht so einfach verrückt geworden.
+
+Daher folgte ich der Stimme. Seiner Stimme. Ich folgte ihr nach Westen, über den See, wo Svanir verwandelt wurde.
+
+Die Stimme fragte mich, ob ich Hefender Donner wiedersehen wollte. Fragte mich, ob ich die Geheimnisse der Kodan erfahren wollte.
+
+Ich sagte ja. Bei den Augen des Raben, ich sagte ja. Ich hielt nicht einmal inne, um zu fragen, weshalb Helfender Donners Stimme mich so etwas fragen würde. Ich habe nicht nachgedacht. Ich habe einfach nicht nachgedacht.
+
+Helfender Donner kam aus dem Durchgang, der hinabführte in den gefrorenen See. Er sagte, ich solle ihm folgen und wir durchquerten ungehindert das Tal. Die Kreaturen, die ich noch Stunden zuvor an den Fersen gehabt hatte, ließen mich jetzt problemlos vorbei. Sicher fand ich das seltsam, aber ich maß dem keine Bedeutung zu. Vielleicht hatten sie ja Angst vor dem mächtgen Kodan, der mir vorausging. Vielleicht hatten sie gerade irgendeine andere, glücklose Kreatur gefressen und verschonten mich nur aus Appetitmangel.
+
+Der Kodan brachte mich zu diesen Ruinen und erzählte mir alles, was ich je hören wollte. Nicht nur über die Kodan, sondern über alle Völker von Tyria. Die Nebel. Alles, was vergangen war. Und alles, was jetzt ist. Ich hatte um Wissen gebeten und ich bekam es. Ich bekam so viel, dass ich aufhören musste zu schreiben, weil meine Hände bluteten.
+
+Doch die Stimme sprach weiter. Ich blickte auf und Helfender Donner war fort. Die Stimme war noch da. Die Stimme begann sich zu verändern. Das war nicht mehr Helfender Donner.
+
+Das wart Ihr.
+
+Jormag. Ich bitte Euch. Hört auf mit dem Geflüster.
+
+Ich kann nicht mehr zuhören."
+"141";"Fügt dem Auge des Nordens Spezialitäten-Händler wie zum Beispiel Lorbeer-Kaufleute und Gilden-Dienstleistungen hinzu."
+"142";"Angriffsmission (Spielersuche)"
+"143";"Kaufmann freischalten"
+"144";"Kochstation"
+"145";"Gefunden im Fluss in der Nähe der Trainingsanlagen im Grothmar-Tal."
+"146";"[PF]%str1%%str2%Runen-Bezwinger-Beinschienen%str3%%str4%"
+"147";"Reliquiar[pl:"Reliquiare"] des Zeremoniellen Raben-Handschutzes"
+"148";"Gefunden in der Truhe am Ende von Vexas Labor in den Feuerherzhügeln."
+"149";"Ein Rezept zur Herstellung eines Eisen-Legion-Langschusses."
+"150";"Ihr könnt keine zusätzliche Munition mehr tragen."
+"151";"Gefunden nach erfolgreichem Abschluss der Angriffsmission "Geflüster des Jormag"."
+"152";"[lbracket]Schneeflocken-Händler[rbracket]"
+"153";"Ein Panorama in einer Höhle voller verlorener Geschichte"
+"154";"Kristall-Spitzen-Muschel"
+"155";"Fügt dem Auge des Nordens eine Waidmannsstation hinzu."
+"156";"Gefunden beim Sprechen mit Marghel Mythenwahrer bei der Todesklingenwacht in den Feldern der Verwüstung."
+"157";"Experimentieren"
+"158";"[F]%str1%%str2%Glänzende prächtige Rin-Klinge%str3%%str4%"
+"159";"[F]%str1%%str2%Zeremonielle Raben-Kapuze%str3%%str4%"
+"160";"Torverbindung[pl:"Torverbindungen"] Schwarze Zitadelle"
+"161";"Trupp-Lager. Klicken, um zu teleportieren."
+"162";"Typischer Verkäufer"
+"163";"Unterstützt Ryland in der Vision "Stahlschmiede", indem Ihr den Uralten Schmiedearbeiter bezwingt."
+"164";"Ausblick auf den ascalonischen Wall"
+"165";"Antike Deldrimor-Ausrüstung[pl:"Ausrüstungen"]"
+"166";"Fügt dem Auge des Nordens eine Schneiderstation hinzu."
+"167";"<c=@flavor>"Erster Posten: Der Spalter-Trupp im Rotraub-Sägewerk hat mich ausgeliehen. Berge machen den Wachdienst leicht: Die Sicht ist gut. Am Lagerfeuer heißt es, in Schlachterblock gäbe es ein Mordsfest.</c>"
+"168";"Lagert Portal-Schriftrollen der Lebendigen Welt in diesem Folianten.<br>"
+"169";"Ein Schwert, wie es von Wachsamen-NSCs benutzt wird."
+"170";"Gefunden in der Truhe am Ende des Sprungrätsels "Die Chaoskristallhöhle" in der Eisenmark."
+"171";"Ein Hauch von Aurenes Magie"
+"172";"Gefunden in der Truhe oberhalb des Lagers der Flammen-Legion im Grothmar-Tal."
+"173";"Ihr tragt schon etwas."
+"174";"[lbracket]Wintertag-Geschenke[rbracket]"
+"175";"Übungspuppe"
+"176";"Arktischer Thunfisch"
+"177";"Abbauen"
+"178";"Ein verlorener Turm, der in den Bergen begraben ist"
+"179";"Konstrukteursstation"
+"180";"Schneeflocken-Fresser"
+"181";"Frostknochen-Flux"
+"182";"/zittern – Schaltet das Emote in Die Eisbrut-Saga, Episode 2: "Schatten im Eis" frei."
+"183";"Tot stellen"
+"184";"Chance, dass dies von Geistern von Ascalon im Grothmar-Tal abgeworfen wird."
+"185";"[PM]%str1%%str2%Runen-Bezwinger-Stulpenhandschuhe%str3%%str4%"
+"186";"Meistert Euren Bund mit dem Raben und erhaltet größere Boni durch Raben-Tore und Barrierenschreine."
+"187";"Uralter Fischknochen"
+"188";"Widerstand"
+"189";"Erhaltet permanent Bonuskarma, während Ihr in den Bjora-Sümpfen Events abschließt. Bis zu dreimal stapelbar."
+"190";"Schwarzlöwen-Branchenvorstand"
+"191";"Gefunden in der Truhe am Ende der Gebrandmarkten Mine in den Feldern der Verwüstung."
+"192";"Tot stellen"
+"193";"Schneiderstation"
+"194";"Übungspuppe"
+"195";"<c=@flavor>"Hätte wertvoll sein können, ist aber für Rekrutierung zu eng mit dem Trupp verbandelt. Erneut kontaktieren, nachdem eine Spaltung von Stahl gelungen ist."</c>"
+"196";"Knochenhäuter-Rippe"
+"197";"Gefunden in den Dateien der Asche-Legion in der Aufklärungs-Bucht im Grothmar-Tal."
+"198";"Erhöhte Werkzeuggürtel-Wiederaufladung"
+"199";"Ihr habt die Prüfung des Raben abgeschlossen. Eure große Belohnung liegt auf den Augen des Raben."
+"200";"Zu kaufen bei Legionär Kress Rostmagen in der Tuyere-Kommandostelle in den Feuerherzhügeln."
+"201";"Gefunden beim Abschluss eines beliebigen Events im Grothmar-Tal."
+"202";"Vögel"
+"203";"PvP-Ausrüstung
+
+Anklicken, um Standard-Ausrüstung zu betrachten.
+Standard-Ausrüstung ist nur außerhalb von PvP-Spielmodi von Vorteil.
+Waffen werden in beiden Ansichten angezeigt."
+"204";"Zum Öffnen doppelklicken. Gewährt die Wahl aus Zeremoniellen Raben-Sandalen, -Handschutz oder -Talar oder Ewigen Eisscherben. Inhalt ist accountgebunden!"
+"205";"Gilden-Rekrutierung"
+"206";"Wiederaufladezeiterhöhung"
+"207";"Dies lässt in Eurer Heimatinstanz einen Schwarzlöwen-Branchenvorstand erscheinen. Ihr könnt ihn benutzen, um einfache Handwerksmaterialien Eurer Wahl zu sammeln. Jede Lieferung besitzt eine geringe Chance, Überschüssiges zu enthalten.
+Zu den betreffenden Ressourcen zählen:
+• Stofffetzen
+• Lederstücke
+• Metallerze
+• Holzblöcke
+• Juwelen"
+"208";"Ein Hauch von Aurenes Magie"
+"209";"Geheimnis der Raben-Tor-Ruinen"
+"210";"Fügt dem "Auge des Nordens"-Tor Löwenstein als Ziel hinzu."
+"211";"Hacken"
+"212";"ArenaNet"
+"213";"Von Luka Tomasdottir, Wachsamen-Schreiberin
+
+Vor hunderten von Jahren war der Drakkar-See das Schlachtfeld für Kämpfe zwischen den Kräften Gut und Böse. Svanir, Bruder der berühmten Norn-Heldin Jora, wandte sich an ein mächtiges Ding tief im Eis. Ihm antwortete der Namensgeber des Sees, ein Champion des Eisdrachen. Svanir wurde in eine schreckliche Verhöhnung seiner spirituellen Bärengestalt verwandelt und Jora war gezwungen, ihn zu töten.
+
+Seither ist der See als Quelle merkwürdigen Geflüsters und dunkler Kraft bekannt. Nach dem Aufstieg von Jormag verließen viele Norn die uralten Schreine und Siedlungen im Tal und überließen sie den Elementen und den getreuen Dienern des Drachen.
+
+Als die Kodan kurz nach Jormags Aufstieg eintrafen, waren sie gezwungen, sich das Tal zu eigen zu machen. Das Wasser trug sie nicht weiter und ihre Schiffe saßen unter Bergen von Eis fest. Die kleinen Hütten, die sie sich zum Schutz vor der Kälte bauten, wurden bald zu einer permanenten Siedlung. Als es an der Zeit war, ihrem neuen Zuhause einen Namen zu geben, schien für alle Kodan festzustehen, dass etwas am nahen See ... merkwürdig war. 
+
+Der Schnee dämpft die Geräusche der Natur und gibt dem Wind eine eigene Stimme – aber das hier war anders. Das Wasser selbst schien zu sprechen, mit fast unhörbarem Flüstern. Nach diesem Phänomen nannten die Kodan ihre Siedlung: Sprechen Stiller Wasser.
+
+Dann wurde Zhaitan getötet. Danach Mordemoth. Dann Kralkatorrik. Mit jedem Alt-Drachen, den der Pakt-Kommandeur mit den Verbündeten besiegte, schien das Geflüster lauter zu werden. Was früher einem Murmeln im Wind glich, wurde schon bald zu vollständigen Worten. Man hörte die Worte und die Worte wussten, dass man sie hörte. Sie sprachen mit einem, erzählten einem, was man hören wollte.
+
+Man fing an, den Worten zu vertrauen wie seinen eigenen Gedanken.
+
+Und so wurden Jormags Gedanken die eigenen Gedanken.
+
+Irgendwie verstärkte Drakkars Präsenz im See Jormags Stimme im Tal. Die Kodan wussten als Erste, was da geschah. Ihnen wurde klar, was Drakkar war. Drakkar, die Kreatur im See, der persönliche Champion des Eisdrachen, fungierte als Sprachrohr für den Alt-Drachen. Als eine Art Verstärker, der in der Lage war, das Geflüster des Alt-Drachen weit über seinen Unterschlupf hinaus zu verbreiten. Und als Kralkatorrik starb und einen neuen Alt-Drachen an seiner statt hinterließ, wurde Drakkars Geflüster unerträglich.
+
+Die Kodan von Sprechen Stiller Wasser, die früher einmal mit allen möglichen Siedlungen und Fraktionen jenseits ihrer Grenzen gehandelt und kommuniziert hatten, verschlossen sich nun vor der Außenwelt. Sie konnten nicht wissen, welche Gedanken ihnen und welche dem Drachen gehörten. Um wessen Stimme handelte es sich? War Eure Stimme noch die Eure oder gehörte sie schon Jormag?
+
+Helfender Donner war ein Kodan aus Sprechen Stiller Wasser, und ich hatte kurz nach Zhaitans Untergang im Eisklamm-Sund das Vergnügen, seine Bekanntschaft zu machen. Er hatte sich zu anderen Kodan-Zufluchten aufgemacht, auf der Suche nach Vorräten und dem Wissen der Außenwelt. Vielleicht wusste er tief drinnen, dass das Geflüster nur noch lauter werden würde, wenn der aktuelle Alt-Drachen-Zyklus weiter bestünde.
+
+Als ich kurz darauf, nach dem Untergang von Mordremoth, nach Sprechen Stiller Wasser reiste, fauchten mich die Kodan-Wachen vor dem geschlossenen Tor der Siedlung an und forderten mich auf, zu gehen. Das Tal, sagten sie, sei viel zu gefährlich für jemanden, der nicht mit dem Geflüster vertraut sei.
+
+Ich fragte, was denn Helfender Donner wiederfahren sei, dem Kodan, den ich erst vor kurzem getroffen hatte. Die Wachen blickten sich an. War das Wut? Beschämung?
+
+Einer von ihnen wendete sich mir zu, nahm einen sorgenvollen Atemzug und sagte mit tränenerstickter Stimme:
+
+"Seine Stimme war nicht mehr die seine."
+
+Ich fragte, ob es Helfender Donner gutgehe, ich fragte, ob ich ihn sehen dürfe.
+
+"Wenn Ihr genau hinhört, dann hört Ihr ihn. Er wird Euch über den See rufen. Er wird Euch nach Westen rufen."
+
+Der Kodan starrte mich an, ohne zu blinzeln. "Ihr dürft nicht auf ihn hören. Es ist nicht seine Stimme, die Ihr hört.""
+"214";"Notizen der Büchsenmacherin"
+"215";"Ein Panorama in einer stillen Grotte"
+"216";"Rezept[pl:"Rezepte"]: Eisen-Legion-Kampfklinge"
+"217";"[F]%str1%%str2%Runen-Jäger-Maske%str3%%str4%"
+"218";"[F]%str1%%str2%Runen-Schamanen-Maske%str3%%str4%"
+"219";"Schneeflocken-Fressers Segen"
+"220";"Ein Fokus, entnommen aus der Hülle eines gefallenen Knochenhäuters."
+"221";"Geheimnis des verborgenen Turms"
+"222";"Gekauft bei Versammlungs-Versorgern im Grothmar-Tal."
+"223";"Abbauen"
+"224";"Spieler mit Rangwertung"
+"225";"<c=@flavor>"Ich hatte immer Schwierigkeiten, vom Baum zu den Ruinen zu springen. Dann fand meine Tochter einen anderen Weg am südlichen Ufer."</c>"
+"226";""Antlitz der Riesenratte"-Feuerwerk"
+"227";"[PM]%str1%%str2%Runen-Jäger-Stiefel%str3%%str4%"
+"228";"Ihr müsst Stufe 80 sein, um diesen Gegenstand zu benutzen."
+"229";"Erfolg abschließen: "Späher[f:"Späherin"]""
+"230";"[F]%str1%%str2%Frostige grüne Axt%str3%%str4%"
+"231";"Ziel"
+"232";"Cinder Stahlgemüt"
+"233";"Ein stehen gebliebener Wasserfall"
+"234";"Schneeflocken-Börse"
+"235";"[M]%str1%%str2%Glänzender prächtiger Langdolch%str3%%str4%"
+"236";"Abhandlung über das Temperieren Drakonischer Materialien"
+"237";"Öffnen, um ein Paar Steingipfel-Handschuhe auszuwählen."
+"238";"Juwelierstation"
+"239";"Norn"
+"240";"Spieler mit Rangwertung"
+"241";"[M]%str1%%str2%Frostiger grüner Kurzbogen%str3%%str4%"
+"242";"Die Fetzen vom arktischen Thunfisch kommen in diesen Eimer."
+"243";"Steingipfel-Stiefel-Kiste"
+"244";"Fügt dem Auge des Nordens eine Kochstation hinzu."
+"245";"Angriffsmission (Gruppensuche)"
+"246";"Gefunden durch Interaktion mit einem Reparatur-Amboss."
+"247";"Wintertag-Geschenke
+<c=@flavor>Preis wird täglich zurückgesetzt</c>"
+"248";"[M]%str1%%str2%Runen-Bezwinger-Schulterschutz%str3%%str4%"
+"249";"Von Luka Tomasdottir, Wachsamen-Schreiberin
+
+"Mögen unsere Stimmen niemals gebrochen werden und mögen sie immer die unseren bleiben."
+
+Als ich diese Worte zum ersten Mal hörte, kamen sie von einem reisenden Kodan außerhalb von Raureifmoräne, tief im Herzen des Eisklamm-Sunds. Er war nicht heimisch in der Gegend dort und mit der Art der Kodan, die diesen Ort ihr Zuhause nennen, fühlte er sich eindeutig nicht wohl. Sein Name war Helfender Donner und er stammte von einem Ort, den ich nur aus Geschichten und Legenden kannte: dem Drakkar-See.
+
+Nun, das stimmt nicht ganz: Er stellte sich nicht als "Helfender Donner" vor, seine genauen Worte waren "Helfender Donner, aus Sprechen Stiller Wasser."
+
+Sprechen Stiller Wasser. Ich sagte ihm, dass ich von einer solchen Zuflucht noch nie gehört hatte. Er stellte richtig, das sei auch nicht der Name einer Zuflucht, obwohl seine Leute tatsächlich von einer solchen weit oben im Norden gekommen seien. Eine Zuflucht, an deren Namen er sich nicht erinnerte, von der nichts schriftlich überliefert, und deren mündliche Geschichte mit der Zeit verloren gegangen war. 
+
+Der Kodan schien wehmütig, das aufflackernde Licht in seinen Augen machte rasch einem tiefen Gefühl der Vorahnung Platz. Für die Kodan ist Verlust ein schwieriges Konzept: Es gibt viele Dinge, die einmal waren, doch nicht mehr sind. Viele Dinge, die das Volk der Kodan einmal über alles gestellt hatte, doch ... nun ja, jetzt nicht mehr.
+
+Ich erkundigte mich weiter, doch Helfender Donner schien mein Interesse nervös zu machen. Besonders unwillig reagierte er auf meine Fragen nach seinem genauen Heimatort, so als würde es diesen sofort zur beliebten Anlaufstelle für Reisende machen, wenn man nur wüsste, wo auf der Landkarte er läge. Ich versicherte ihm, mein Interesse habe rein akademische Gründe, und nach einigen Stunden sanften Zuredens schien der aufgeregte Kodan sich schließlich zu beruhigen.
+
+Die Siedlung, die eines Tages Sprechen Stiller Wasser werden würde, begann vor langer Zeit als kodanische Zuflucht, eine der vielen Städte aus Eis, die auf den klirrend kalten Gewässern nördlich der Fernen Zittergipfel treiben. Diese uralten Städte bestanden schon, seit der letzte Alt-Drache erwacht war, ein Ereignis, das die Kodan "Drachensturm" nennen. Damals hielten sie die gewaltigen treibenden Landmassen für ein Geschenk Kodas, eine Wiedergutmachung für das Leid, das sie erlitten hatten, während der Rest der Welt durch die Alt-Drachen gereinigt wurde.
+
+Diese Städte hatten Jahrtausende überdauert, unempfindlich gegen die Elemente. Doch leider nicht gegen Jormag. Der Anstieg des Meeres und schreckliche Kreaturen zerstörten die Zufluchten und trieben die Kodan nach Süden. Eine Gruppe Kodan von einer dieser Zufluchten versammelte sich auf einem Schiff aus Holz, eine Seltenheit so weit im Norden, und richtete den Blick nach Süden. Sie würde den Karten ihrer größten Exploratoren folgen und irgendwo in den Bergen Unterschlupf suchen.
+
+Doch bei der Erstellung der Karten hatte niemand mit Jormags Erwachen gerechnet: Flüsse wurden zu Seen, Berge zu Tälern. Und die Kodan erlitten tief in den Fernen Zittergipfeln Schiffbruch, ihr Schiff saß fest in Eis und Schnee. Sie waren im Drakkar-See gelandet.
+
+Und der See flüsterte."
+"250";"[M]%str1%%str2%Glänzender prächtiger Kriegshammer%str3%%str4%"
+"251";"Fügt dem "Auge des Nordens"-Tor die Schwarze Zitadelle als Ziel hinzu."
+"252";"Leichte Rüstung"
+"253";"Ein Panorama inmitten der höchsten Gipfel"
+"254";"Kehrt zurück in die Ebenen von Elona und darüber hinaus und stellt Euch dem Alt-Kristalldrachen Kralkatorrik.<br><c=@reminder>(Erforderlich: Erweiterung Path of Fire sowie Kauf oder Freischaltung von Episoden der Lebendigen Welt: Staffel 4 oder Gruppenbildung mit jemandem, der sie bereits besitzt.)</c>"
+"255";"[N]%str1%%str2%Runen-Jäger-Wams%str3%%str4%"
+"256";"Turnier-Versuchsobjekt"
+"257";"Konstrukteursstation freischalten"
+"258";"Wird von Bären in der Flammenkamm-Steppe abgeworfen."
+"259";"Öffnen, um einen Satz Steingipfel-Schulterschutz-Rüstung auszuwählen."
+"260";"Truppenverlegungsbefehl"
+"261";"Belobigungsschreiben"
+"262";"Bahnt Euch auf dem Rücken Eures vertrauten Reittiers einen flammenden Weg durch Elona und erwehrt Euch der Streitkräfte des Balthasar, Gott des Krieges und des Feuers.<br><c=@reminder>(Erforderlich: Erweiterung Path of Fire.)</c>"
+"263";"Handbuch für Wartungsarbeiten im Feld"
+"264";"Ein Hauch von Aurenes Magie"
+"265";"Gefrorener[pl:"Gefrorene"] Lebensfunke[pl:"Lebensfunken"]"
+"266";"Sprecht mit Cinder, nachdem Ihr den Uralten Schmiedearbeiter bezwungen habt."
+"267";"Lebendige Welt: Eisbrut-Saga"
+"268";"Gefunden in der Truhe am Ende des Sprungrätsels "Crazes Torheit" in der Flammenkamm-Steppe."
+"269";"Der Pakt"
+"270";"Prunkvoller Umhang"
+"271";"Aspiration"
+"272";"Erfolg abschließen: "Schwerer Rivale""
+"273";"Kommmandeur!
+
+Während die Wachsamen sich weiter des konstanten Zustroms gegnerischer Streitkräfte erwehren, ist es mir tatsächlich gelungen, einen kleinen Spähtrupp loszuschicken, der das ungeöffnete Tor in die westlichen Berge untersuchen sollte, das wir entdeckt haben.
+
+Nach vielen fruchtlosen Versuchen konnten die Späher die verderbende Magie des Svanir-Schamanen schließlich zerstreuen und die Tür mit einer Raben-Linse öffnen. Rytlock und Crecia gingen fast sofort hindurch, um Bangar zu verfolgen. Doch bisher habe ich von beiden noch kein Wort gehört.
+
+Ich kann guten Gewissens keine Späher durch das Tor schicken, doch ich weiß, was auf der anderen Seite liegt: Der See, an dem Svanir vor langer Zeit nach dem Champion des Eisdrachen rief. Es ist ein Ort großer Kraft. Großer und erschreckender Kraft.
+
+Seid vorsichtig.
+
+Jhavi"
+"274";"Fügt dem Auge des Nordens eine Waffenschmiedstation hinzu."
+"275";"Doppelklicken, um Schneeflocken gegen die Chance auf einen Wintertag-Verstärker oder ein Wintertag-Geschenk einzuhandeln."
+"276";"Gesegnetes[pl:"Gesegnete"] Rabenfigürchen"
+"277";"Über das Spähbecken"
+"278";"Versetzungsanfrage"
+"279";"Dauer der Barriere ist verdoppelt. Benutzung von Raben-Toren gewährt einen Geschwindigkeitsverstärker."
+"280";"Karmische Ermächtigung"
+"281";"[PF]%str1%%str2%Runen-Jäger-Schultern%str3%%str4%"
+"282";"Waldläufer-Miniaturen"
+"283";"Geheimnis des Raben-Reflektors"
+"284";"Von Luka Tomasdottir, Wachsamen-Schreiberin
+
+Die Kodan von Sprechen Stiller Wasser sind in vieler Hinsicht ein klassisches Beispiel einer isolierten Gesellschaft. So isoliert, dass es mir nicht einmal gelungen ist, ihnen einen erfolgreichen persönlichen Besuch abzustatten. Stattdessen muss ich mich auf Notizen stützen, die ich mir während einer Reihe faszinierender Unterhaltungen mit einem Kodan machte, der in der Siedlung lebte.
+
+Dieser Kodan, Helfender Donner, machte mich auf eine interessante Tatsache aufmerksam, die mir bis zu dem Zeitpunkt, an dem er darauf zu sprechen kam, ganz entgangen war: Viele der kodanischen Namen in Sprechen Stiller Wasser sind nicht so wie andere kodanische Namen. Obwohl sie auf den ersten Blick ähnlich wirken, gibt es konkrete Unterschiede zu beachten, die auf die ältesten kodanischen Bräuche zurückgehen.
+
+Für die uns bekannten kodanischen Gesellschaften sind ihre Namen flexibel. Sie verändern sich je nach den Umständen und der Laune. Sie beschreiben einzigartige Dinge. Es gibt keine Vor- und Nachnamen. Namen können aus drei Wörtern bestehen. Vielleicht aus mehr. Vielleicht auch aus weniger.
+
+Während wir im Sicherwachttal am Feuer saßen und auf das Vorbeiziehen eines Sturmes warteten, sprach Helfender Donner von seinen Ängsten, die Kodan könnten die Zeiten vergessen haben, in denen ihre Namen mehr bedeuteten als nur eine vorübergehende Laune. Er klagte, die aktuellen Bräuche, was die Namensgebung beträfe, wären nur bei einer Hand voll Zufluchten populär, die sich in den Zittergipfeln jedoch früher oder später durchsetzen würden und einen Eindruck von den Kodan böten, der die Völker des Südens Rückschlüsse auf die gesamte kodanische Gesellschaft ziehen ließ.
+
+Helfender Donner bestand jedoch darauf, dass sein Volk, unter anderem viele der Stämme, die während der Zeit von Jormags Aufstieg weit oben im Norden dahingeschieden waren, auf ein ganz anderes System der Namensgebung bauten.
+
+In Sprechen Stiller Wasser basiert der erste Name eines Kodan für gewöhnlich auf einem Charakteristikum. Nicht notwendigerweise auf einem, das das Junge zum Zeitpunkt der Namensgebung aufweist, sondern ein von der Familie oder dem Stamm gewünschtes. Bescheiden. Stoisch. Helfend. Edel. Diesen Teil nennt man "Versprechen Kodas".
+
+Der zweite Name entstammt der Natur und ist als "Gabe Kodas" bekannt: Berg. Donner. Wolke. Bucht. Die zwei Namen werden zu einem zusammengesetzt, wobei das Versprechen immer vor der Gabe kommt.
+
+Der zweite Name, wie ich klarstellen sollte, ist nicht der Nachname oder Familienname. Ganz im Gegenteil, die Kodan aus Sprechen Stiller Wasser scheinen nicht daran interessiert, solche Familienbande durch Namen zu unterstreichen. Ihre Siedlung ist so klein, dass Namen völlig einzigartig sind und Familiennamen unnötig. Allerdings stellte Helfender Donner sich ursprünglich nicht als "Helfender Donner" vor, sondern als "Helfender Donner aus Sprechen Stiller Wasser".
+
+Und was ist mit ihren Anführern? Sobald sie ihre Rollen als Stimme oder Klaue annehmen, scheinen sie sich nicht mehr an die Bräuche der Namensgebung zu halten. Im Gegenteil: Für jede Position scheint es eigene Konventionen zu geben. Helfender Donner sprach von einer Klaue namens "Wolkensucher" und einer Stimme namens "Leitet-den-Frühling-ein", Namen, die den Standard-Regeln zu widersprechen scheinen. Als ich ihn dazu befragte, versprach er, es mir bei unserem nächsten Treffen zu erklären.
+
+Leider hat es ein solches nie gegeben."
+"285";"[F]%str1%%str2%Eisgolem-Maske%str3%%str4%"
+"286";"Himmlischer Tribut"
+"287";"[PF]%str1%%str2%Runen-Schamanen-Hosen%str3%%str4%"
+"288";"Steingipfel-Schulter-Kiste"
+"289";"Zwei Waffen"
+"290";"Prunkvoller Umhang"
+"291";"Thermale Schmiede. Klicken, um zu teleportieren."
+"292";"Einst lauschte ich den Worten eines Eremiten, der von der Kraft sprach, die im Wasser liegt. Es ist still und rein, doch es kann verzaubert sein wie ein Spiegel, der andere Orte und Zeiten reflektiert.
+
+
+
+Es verlangt nur einfache Rituale, manifestiert aber tiefe Visionen. Ein Heldenwesen machte sich einst seine Kraft durch Einsatz von Andenken an Ereignisse der jüngsten Vergangenheit zunutze. Vielleicht hatten die Altvorderen, die diesen Ort erschufen, genau diese Notwendigkeit dabei im Sinn.
+
+
+
+Euch, Champion eines späteren Zeitalters, lasse ich diese Instruktionen zurück. Entdeckt die Relikte Eurer Geschichte und beginnt die Kräfte dieses Wassers zu meistern.
+
+
+
+Möge Stärke aus der Vergangenheit in diesem stillen und ruhigen Becken Euch kräftigen für das, was noch kommen wird."
+"293";"Metallschrott"
+"294";"Met-Brand"
+"295";"Reliquiar[pl:"Reliquiare"] der Zeremoniellen Raben-Sandalen"
+"296";"[N]Orichalcum-Erz"
+"297";"Stille"
+"298";"PvP-Ausrüstung zeigen"
+"299";"Ein verlorenes Labyrinth"
+"300";"Chance, dass dies von Eisbrut-Gegnern abgeworfen wird, von der Klaue von Jormag garantiert."
+"301";"Ihr könnt diese Truhe nicht öffnen."
+"302";"Verkohlter Papierschnipsel"
+"303";"[lbracket]Wintertag-Belohnungen[rbracket]"
+"304";"Fleischoberfest-Wurst"
+"305";"Angriffsmission: Vergessene große Truhe der Tapferkeit"
+"306";"[M]Zypressenschössling"
+"307";"Rezept[pl:"Rezepte"]: Eisen-Legion-Pistole"
+"308";"Öffnen, um ein Paar Steingipfel-Stiefel auszuwählen."
+"309";"Fügt dem "Auge des Nordens"-Tor Rata Sum als Ziel hinzu."
+"310";"Gefunden in der Gemeinde Tonteich im Königintal."
+"311";"Panzer-Munition einsammeln"
+"312";"Fügt dem Auge des Nordens einen einfachen Händler hinzu."
+"313";"Wintertag-Belohnungen"
+"314";"Flüsterwindgrotte"
+"315";"Ein Hauch von Aurenes Magie"
+"316";"Hier können Einzelpersonen und Gruppen Nachrichten hinterlassen, damit bestehende Einsatztrupps sie zur Erkundung von Angriffsmission-Inhalten einladen können."
+"317";"[N]%str1%%str2%Frostiges grünes Kriegshorn%str3%%str4%"
+"318";"Ein Schwert, wie es von Wachsamen-NSCs benutzt wird."
+"319";"Rabenschlau"
+"320";"Dunkeleisen-Munition"
+"321";"Gefunden in der Truhe nach dem Konzert von "Metal Legion" im Grothmar-Tal."
+"322";"Erkundet Elonas eisigen Norden und vertieft Euch in die Kulturen der Charr und der Norn, während die Bedrohung durch die Alt-Drachen immer stärker wird.<br><c=@reminder>(Erforderlich: Erweiterung Path of Fire sowie Kauf oder Freischaltung von Episoden von "Lebendige Welt: Eisbrut-Saga" oder Gruppenbildung mit jemandem, der sie bereits besitzt.)</c>"

@@ -1,0 +1,167 @@
+"0";"Con armadura pesada"
+"1";"Gracias a tu trabajo, y con menos Hijos de Svanir rondando Punta del Refugio, mis investigadores han realizado avances significativos en su investigación sobre la corrupción. Quizás ahora, el Priorato entenderá mejor la naturaleza de este fenómeno y hallará la manera de revertirlo. El tiempo lo dirá. Gracias, %str1%.<br><br>— Daphne"
+"2";"Erudita Daphne"
+"3";"Corrupción al descubierto"
+"4";"Este puesto de mando es bastante importante, pero mantenerlo en funcionamiento es una pesadez. La ayuda que me prestaste con el mantenimiento y las tropas me ha quitado un enorme peso de encima. Muchas gracias.
+
+— Legionario Kress Fauceoxidada"
+"5";"Calzas de la Pesadilla"
+"6";"Saco[s] invisible[s] de 15 casillas"
+"7";"MONSTER ONLY Ave pirata desarmada"
+"8";"<c=@flavor>"Esto es para siempre. ¡Ja! ¿Lo pillas?"<br>—Kona Desgarrarroble</c>"
+"9";"Un cráneo ornamental del manto de Lagula, no la cabeza de Lagula."
+"10";"Aún con vida"
+"11";"¿Qué es esto?"
+"12";"MONSTER ONLY Elemental de hielo desarmado"
+"13";"Tinte[s] corteza"
+"14";"Tinte[s] envidia"
+"15";"Tinte[s] tarde"
+"16";"Tinte[s] arroyo"
+"17";"Tinte[s] cereza"
+"18";"Tinte[s] chocolate negro"
+"19";"Tinte[s] rojo anochecer"
+"20";"Postura de escudo"
+"21";"¡%str1% es un[f:"una"] héroe[f:"heroína"]!"
+"22";"Los eruditos del Priorato de Durmand estudian las antiguas tradiciones sobre los dragones en busca de debilidades. El ataque de Zhaitan amenaza al corazón de la orden. Esperemos que llegues antes de que esté todo perdido."
+"23";"Hola:
+
+Solo quiero volver a darte las gracias por ayudarme a poner a la Inquisa en su sitio. He oído que has tenido mucho trabajo y que te has inscrito en el concurso del Premio Snaff. Yo tengo que ser imparcial, claro, pero estoy deseando ver cómo demuestras lo que vales. Nos vemos ahí.
+
+—Zojja"
+"24";"El Premio Snaff está esperando"
+"25";"Tinte[s] pomelo"
+"26";"Tinte[s] avellana"
+"27";"Tinte[s] brezo"
+"28";"Tinte[s] hielo miel"
+"29";"Tinte[s] sangre vital"
+"30";"Celeridad de dolyak"
+"31";"Se utiliza para fabricar joyas intricadas."
+"32";"Se utiliza para fabricar joyas exquisitas."
+"33";"Se utiliza para fabricar joyas brillantes."
+"34";"Un disparo de cañón de energía básico."
+"35";"Corredor rutinario"
+"36";"Un disparo supercargado que arrasa una gran área."
+"37";"Colocar catapulta de clan"
+"38";"Desplegar traje de asedio del clan"
+"39";"Personaliza los ojos."
+"40";"Mazmorra de la Ciudadela de la Llama"
+"41";"Torreta de detención de la Inquisa"
+"42";"Pico de minería"
+"43";"Lo que el ojo sí ve"
+"44";"Traza sombras de personajes simples, además de sombras estáticas en el mapa."
+"45";"Número de amigos a los que has salvado."
+"46";"%str1% (%str2%)"
+"47";"Recluta los Barcos Muertos"
+"48";"Insignia de miembro honorario del Consorcio"
+"49";"Debes cambiar el nombre de tu personaje para poder continuar."
+"50";"Cañonazo"
+"51";"Giro de cañón"
+"52";"Encontrar el armonizador sónico fue solo la primera parte. También debes superar con éxito una prueba de armas antes de poder llevarte una Lanza Psi a Arco del León. Espera que todo aguante."
+"53";"Balanceo de cañón"
+"54";"Aplastamiento de cañón"
+"55";"Haz doble clic para envenenarte.<br>Sería más seguro en manos de un experto."
+"56";"Arquitectura da acceso al clan a nuevas características, algunas comodidades y es necesaria para ciertas mejoras de otras categorías."
+"57";"El arte de la guerra proporciona al clan beneficios en combate, bonificaciones en Mundo contra Mundo y potenciadores de recompensas en PvP."
+"58";"Economía aporta al clan potenciadores de eficiencia y comodidades."
+"59";"Política proporciona al clan beneficios sociales y de experiencia."
+"60";"Las mejoras activas actualmente y las mejoras que se han acabado de producir están listas para ser activadas."
+"61";"Aspecto"
+"62";"Estadísticas"
+"63";"Transmutación de objeto"
+"64";"Transmutar"
+"65";"Arrastrar objeto hasta aquí"
+"66";"Amigos salvados"
+"67";"Caja[pl:"Cajas"] de armadura media asura de rango 2"
+"68";"%num1%/%num2% calabazas talladas"
+"69";"Talla %num2% calabaza[pl:"calabazas"]"
+"70";"Brote volátil"
+"71";"Sellos de potencia"
+"72";"Pisotón de cañón"
+"73";"MONSTER ONLY Foco krait"
+"74";"¡Tu objetivo está fuera de alcance! Cuando estás muy lejos para usar una habilidad, el atajo de teclado situado debajo se vuelve rojo."
+"75";"Fuera de alcance"
+"76";"Enclave de Sueñoscuro"
+"77";"Brote de hechizo"
+"78";"Yelmo[pl:"Yelmos"] de guerra de falange"
+"79";"Diseño[pl:"Diseños"] de yelmo de guerra pesado de falange"
+"80";"Musleras de falange"
+"81";"Diseño[pl:"Diseños"] de musleras pesadas de falange"
+"82";"Hombros de falange"
+"83";"Diseño[pl:"Diseños"] de hombros pesados de falange"
+"84";"Escudo reflector"
+"85";"Quema • Deja campos de fuego"
+"86";"Amigo salvado"
+"87";"Aura de escarcha"
+"88";"Aura de escarcha de área"
+"89";"Conquistador[f:"Conquistadora"]"
+"90";"¡%str1% sí que sabe cómo esquivar!"
+"91";"Un regalo de Shashú como muestra de agradecimiento. Esto parece un huevo de quaggan. ¡Cuuu!"
+"92";"Ftokchak confiscó este núcleo destructivo durante su huida. ¡Reluciente!"
+"93";"Ikniu llevaba la cabeza de su hermano en esta lanza. (La han limpiado)."
+"94";"Bomba fallida de Tonn"
+"95";"Mandoble de Syska"
+"96";"Asesino[f:"Asesina"]:
+
+Me alegra saber que tu orden y tú seguís luchando. Felicidades por haber reclutado a los grawl. He tenido mis encontronazos con ellos, como todo el mundo en Hoelbrak, pero sé que serán valiosos aliados contra los dragones.
+
+No te preocupes por la pérdida de la aldea grawl. Las casas se pueden reconstruir. Lo importante es que has salvado vidas y obtenido su ayuda.
+
+Yo aún estoy tratando de salvar Filo del Destino, pero el camino es largo y costoso. Aunque no creas que me rendiré. Tyria sigue necesitando héroes y ni siquiera yo espero que te encargues de todo. Seguiré perseverando y si alguna vez vienen, te avisaré.
+
+Que los espíritus te guíen,
+
+—Eir"
+"97";"Reclutar a los grawl"
+"98";"Atento, soldado:
+
+Me he enterado de lo que has hecho con los grawl. Buen trabajo. Puede que no sean más que una manada de bestias salvajes, pero saben luchar. Mi pueblo los combatía a la menor ocasión y normalmente nos costaba mucho derrotarlos, así que serán buenos aliados contra los dragones.
+
+Si estuviera en tu lugar, consideraría su aldea como una pérdida aceptable. Un ejército necesita soldados. Ya nos preocuparemos por las casas cuando hayamos ganado la guerra.
+
+Algunos de los miembros de Filo del Destino están tratando de salvar algo del fiasco de Arco del León, pero de momento no me he unido a ellos. Prefiero centrarme en problemas que se pueden resolver y en los que no tienes que preocuparte de un montón de bichos raros sin pelo que no saben más que gimotear.
+
+Haz que las legiones se enorgullezcan de ti. Te estaré vigilando,
+
+—Rytlock"
+"99";"Savant (o cualquiera que sea el título que ostentas en este momento. Avanzas tan deprisa que cuesta seguirte la pista),
+He estado vigilando tus progresos desde que te marchaste para unirte a tu orden y no dejas de impresionarme. Has hecho un gran trabajo al reclutar a los grawl. Esos monos salvajes pueden ser un auténtico incordio (recuerda que te hable de uno llamado Logan), pero parece que los has sabido llevar con mucho aplomo.
+No dejes que la pérdida de su aldea te afecte. De no ser por ti no estarían vivos, por lo que el hecho de no tener hogar carecería de importancia. Al menos de este modo, quedan los suficientes como para reconstruirlo.
+Me espera una tarea que podría ser muy importante, pero también una completa pérdida de tiempo. Puede que Logan (el mono que mencioné antes) participe, puesto que tiene que ver con la realeza de Kryta. Solo espero poder impedir que convierta el asunto entero en un desayuno de draco.
+Sigue haciéndolo tan bien como hasta ahora,
+—Zojja"
+"100";"Escudo de ira"
+"101";"Asesino[f:"Asesina"]:
+
+Me alegra saber que tu orden y tú seguís luchando. Felicidades por haber reclutado a los hylek. Entre su ferocidad y sus conocimientos alquímicos, sé que serán valiosos aliados contra los dragones.
+
+No te mortifiques demasiado por la pérdida de su aldea. Las casas se pueden reconstruir. Lo importante es que has salvado vidas y obtenido su ayuda.
+
+Yo aún estoy tratando de salvar Filo del Destino, pero el camino es largo y costoso. Aunque no creas que me rendiré. Tyria sigue necesitando héroes y ni siquiera yo espero que te encargues de todo. Seguiré perseverando y si alguna vez vienen, te avisaré.
+
+Que los espíritus te guíen,
+
+—Eir"
+"102";"Reclutar a los hylek."
+"103";"Me he enterado de tus aventuras en territorio hylek. Felicidades por haberlos reclutado para la causa. Entre su fuerza bruta y sus conocimientos alquímicos, nos serán de gran valor contra los dragones ancianos.
+No te mortifiques demasiado por la pérdida de su aldea. Las casas se pueden reconstruir. Lo importante es que has salvado vidas y obtenido su ayuda.
+En cuanto a mí, me marcho a la finca de nuestro viejo amigo Caudecus para apoyar a la reina Jennah cuando se reúna con el embajador charr. Existe la posibilidad de que Zojja esté allí, pero no me espero un feliz reencuentro de Filo del Destino. De hecho, me contento con que no me golpee en las rodillas.
+Sigue así,
+—Logan"
+"104";"Savant (o cualquiera que sea el título que ostentas en este momento. Avanzas tan deprisa que cuesta seguirte la pista),
+He estado vigilando tus progresos desde que te marchaste para unirte a tu orden y no dejas de impresionarme. Has hecho un gran trabajo al reclutar a los hylek. Esas bestias brutales y de piel viscosa pueden ser un auténtico incordio (recuerda que te hable de uno llamado Logan), pero parece que los has sabido llevar con mucho aplomo.
+No dejes que la pérdida de su aldea te afecte. De no ser por ti no estarían vivos, por lo que el hecho de no tener hogar carecería de importancia. Al menos de este modo, quedan los suficientes como para reconstruirlo.
+Me espera una tarea que podría ser muy importante, pero también una completa pérdida de tiempo. Es posible que Logan (la bestia de piel viscosa de la que te hablé antes) esté allí, puesto que tiene que ver con la realeza de Kryta. Solo espero poder impedir que convierta el asunto entero en un desayuno de draco.
+Sigue haciéndolo tan bien como hasta ahora,
+—Zojja"
+"105";"Atento, soldado:
+
+Me he enterado de lo que has hecho con los ogros. Buen trabajo. Son duros como clavos. Últimamente, mi pueblo ha estado luchando contra ellos en la Marca y normalmente nos costaba muchos derrotarlos, así que serán buenos aliados contra los dragones.
+
+Si estuviera en tu lugar, consideraría su aldea como una pérdida aceptable. Un ejército necesita soldados. Ya nos preocuparemos por las casas cuando hayamos ganado la guerra.
+
+Algunos de los miembros de Filo del Destino están tratando de salvar algo del fiasco de Arco del León, pero de momento no me he unido a ellos. Prefiero centrarme en problemas que se pueden resolver y en los que no tienes que preocuparte de un montón de bichos raros sin pelo que no saben más que gimotear.
+
+Haz que las legiones se enorgullezcan de ti. Te estaré vigilando,
+
+—Rytlock"
+"106";"<c=@flavor>"Puse flores secas en el relleno para cubrir el hedor de la batalla. La verdad es que no sirve de mucho, pero lo intento".<br>—Pionera del Priorato Cyara</c>"

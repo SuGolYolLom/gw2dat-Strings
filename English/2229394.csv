@@ -1,0 +1,469 @@
+"0";"Group content for 10 players. Gather your friends to fight exciting battles!"
+"1";"A special gift for a hardworking toymaker's apprentice."
+"2";"Record"
+"3";"The Western Path Is Open"
+"4";"%str1%%str2%Shining Aureate Short Bow%str3%%str4%"
+"5";"Metal Legion Ticket Stub"
+"6";"%str1%%str2%Rimed Verdant Rifle%str3%%str4%"
+"7";"Sylvari"
+"8";"Living World: Season 4"
+"9";"%str1%%str2%Rimed Verdant Dagger%str3%%str4%"
+"10";"Ranoah Grindsteel"
+"11";"Practice Dummy"
+"12";"Unlock Cooking Station[s]"
+"13";"Sword used by Vigil NPCs"
+"14";"Practice Dummy"
+"15";"Has a chance to give a Wintersday Gift or a Wintersday Boost. The Wintersday Boost grants the following benefits for 15 minutes:
++25%% Experience from Kills
++25%% Gold from Kills
++25%% Reward Track Gain in PvP and WvW"
+"16";"Scrap Metal"
+"17";"%str1%%str2%Rimed Verdant Shield%str3%%str4%"
+"18";"<c=@flavor>"Separatists on one side, ghosts on the other. Too many dead charr."</c>"
+"19";"You have completed Raven's test."
+"20";"The Whisper of Jormag summons a blizzard."
+"21";"Shattered Chest Lid"
+"22";"Collaboration"
+"23";"Icebrood Saga Portal Tome"
+"24";"Healing per Interval"
+"25";"Mangled Blood Legion Pauldrons"
+"26";"%str1%%str2%Rimed Verdant Focus%str3%%str4%"
+"27";"Chunk[s] of Crystallized Karma"
+"28";"%str1%%str2%Stone Summit Boots%str3%%str4%"
+"29";"Grove Gate Link"
+"30";"Darkrime Delves"
+"31";"A Touch of Aurene's Magic"
+"32";"Artificer's Notes"
+"33";"Blood Legion Ammo Crate"
+"34";"Unlock Jeweling Station"
+"35";"A vista in the woodland"
+"36";"%str1%%str2%Rimed Verdant Mace%str3%%str4%"
+"37";"Stone Summit Glove Box"
+"38";"Basic Guild Cape"
+"39";"Stone Summit Helm Box"
+"40";"Blood Legionnaire Badge"
+"41";"%str1%%str2%Rimed Verdant Staff%str3%%str4%"
+"42";"Stone Summit Shoulder Box[pl:"Boxes"]"
+"43";"%str1%%str2%Shining Aureate Warhorn%str3%%str4%"
+"44";"Bank Access"
+"45";"Ryland Steelcatcher"
+"46";"Diary Scrap"
+"47";"Stoneward Gate"
+"48";"Kahn-Ur's Flame"
+"49";"Boneskinner's Totem"
+"50";"Adds a leatherworking station to Eye of the North."
+"51";"%str1%%str2%Ice Golem's Cowl%str3%%str4%"
+"52";"Chop"
+"53";"Chance to drop from centaur enemies. Guaranteed from Modniir Ulgoth."
+"54";"Speak with Vishen after defeating the Ancient Forgeman."
+"55";"Standard Equipment
+
+Click to view PvP equipment.
+PvP equipment only provides benefits while in PvP game modes.
+Weapons are displayed in both views."
+"56";"Little Sharpshooter Badge"
+"57";"Salvage Tank Ammunition"
+"58";"Ryland's Command"
+"59";"Disappointment"
+"60";"Many Merry Minis"
+"61";"Chance to drop from destroyer enemies. Guaranteed from megadestroyer."
+"62";"Grapple Target"
+"63";"Ice Shard Staff"
+"64";"Koda's Promise, Koda's Gift"
+"65";"Recipe[s]: Iron Legion Staff"
+"66";"Mini Magical Reindeer[pl:"Reindeer"]"
+"67";"Leatherworking Station"
+"68";"Place the fish in this basket."
+"69";"Broken Rod"
+"70";"%str1%%str2%Rimed Verdant Greatsword%str3%%str4%"
+"71";"%str1%%str2%Shining Aureate Charm%str3%%str4%"
+"72";"Found in the Thunder Den at Thunderbreak Hills in Fields of Ruin."
+"73";"Rimed Verdant Wintersday Gift[s]"
+"74";"Nicabar Steelweaver"
+"75";"Found inside a chest at the end of a light puzzle in Bjora Marches."
+"76";"Redemption"
+"77";"Divinity's Reach Gate Link"
+"78";"Vigil Sword"
+"79";"Recruitment Notes: Vishen Steelshot"
+"80";"Increased Tool Belt Recharge"
+"81";"Mercy of the Toymaker"
+"82";"Heart of Thorns"
+"83";"Unlock Leatherworking Station"
+"84";"%str1%%str2%Shining Aureate Targe%str3%%str4%"
+"85";"Complete Achievement: Engineer's Apprentice"
+"86";"Reconsideration"
+"87";"Found in the chest at the end of the Pig Iron Quarry jumping puzzle in Fireheart Rise."
+"88";"Darkrime Delves"
+"89";"Primordial Slag"
+"90";"Clones Created"
+"91";"%str1%%str2%Runic Shaman Boots%str3%%str4%"
+"92";"Found in the Blood Legion Keep in Grothmar Valley."
+"93";"%str1%%str2%Shining Aureate Staff%str3%%str4%"
+"94";"Adds bank access to Eye of the North."
+"95";"Candy Cane Beam[s]"
+"96";"Found in the chest at the end of the Shiverpeaks Pass Strike Mission in Grothmar Valley."
+"97";"Nicabar Steelweaver"
+"98";"Weaponsmithing Station"
+"99";"Recipe[s]: Iron Legion Longshot"
+"100";"Confrontation"
+"101";"Mystery of the Labyrinth"
+"102";"Found inside a chest on the Crimson Plateau jumping puzzle in Diessa Plateau."
+"103";"Living World: Season 3"
+"104";"Race Time Trial"
+"105";"Roast a meat rack on the firepit in the Village of Butcher's Block in Diessa Plateau."
+"106";"A hidden place, riddled with gates"
+"107";"Complete Achievement: Field Medicine"
+"108";"Found in Ashford Forum in Plains of Ashford."
+"109";"Game Mechanics"
+"110";"Following our victories on Dragonfall, Grand Warmaster Laranthir has submitted a request for a temporary leave of absence so he may return to the Grove.
+
+It is my personal recommendation that he be granted this request, and he be allowed to return to Vigil duties at his discretion.
+
+Laranthir has proven a strong and capable leader of our order, his instincts unimpeachable, and my trust in him unshakable.
+
+He will be missed by the Vigil, but we expect Laranthir will return to his post in due time. Until that happens, I will work with Jhavi to ensure she is prepared for her new responsibilities as my second-in-command.
+
+—Soulkeeper"
+"111";"Queller of Profane Whispers"
+"112";"Winter Monarch Cape"
+"113";"Bonus Mission Rank Earned: Warband Support"
+"114";"[lbracket]Activity: Celestial Challenge[rbracket]"
+"115";"A History of Still Waters Speaking: Part Two"
+"116";"%str1%%str2%Runic Slayer Breastplate%str3%%str4%"
+"117";"Dwarven Ammo Crate"
+"118";"%str1%%str2%Runic Shaman Gloves%str3%%str4%"
+"119";"Purchase from Lakor Grizzlemouth in the village of Butcher's Block in Diessa Plateau."
+"120";"Healing per Interval"
+"121";"%str1%%str2%Rimed Verdant Scepter%str3%%str4%"
+"122";"Found outside the Citadel of Flame entrance in Fireheart Rise."
+"123";"The Great Rat"
+"124";"Stabilized Prophet Crystal[s]"
+"125";"Purchased from Fahrtak Shatterfiend near the Brokentooth Maw waypoint in Blazeridge Steppes."
+"126";"Warband Camp"
+"127";"Bonus Mission Rank Earned: Tank Protector"
+"128";"Found inside the chest at the end of The Long Way Around in Straits of Devastation."
+"129";"Starlight Wings Backpack and Glider Combo[s]"
+"130";"Pristine Fang[pl:"Fangs"] of the Whisper"
+"131";"Weaponsmith's Notes"
+"132";"Unlock Huntsman's Station[s]"
+"133";"Eye of the North Services"
+"134";"Created by killing multiple Branded enemies in Blazeridge Steppes."
+"135";"Koda's Tears"
+"136";"Assemble your party or squad and explore the main continent of Tyria.<br><c=@reminder>(This includes all locations accessible in the Play for Free version of Guild Wars 2.)</c>"
+"137";"Adds Hoelbrak as a destination to the Eye of the North gate."
+"138";"Found on an overlook at Terra Carorunda in Blazeridge Steppes."
+"139";"Seize the Awkward"
+"140";"Luka Tomasdottir
+
+Be quiet.
+
+Please.
+
+Stop.
+
+You don't listen to me anymore. It's like I'm talking to a wall. Words won't do. I've screamed at you for so long that I have no voice. There are no more words. I will never speak again. So I write, hoping you will read these words and leave me alone.
+
+Day after day you speak to me. At first, I thought you were Aiding Thunder. Even when the kodan outside the village said he was gone.
+
+Actually, no—they only said his voice wasn't his own. I thought maybe he was still out there. I thought the warriors of Still Waters Speaking had rashly exiled one of their own in an act of paranoid delusion. Surely the same kodan I met in Frostgorge Sound, the kodan I shared stories with by the fire in Safewatch Vale, could not have turned to madness so easily.
+
+So I followed the voice. His voice. I followed it west, across the lake where Svanir was turned.
+
+The voice asked me if I wanted to see Aiding Thunder again. Asked me if I wanted to learn the secrets of the kodan.
+
+I said yes. Raven's eyes, I said yes. I didn't even stop to ask why Aiding Thunder's voice would ask such things of me. I didn't stop to think.
+
+Aiding Thunder emerged from the passage leading down into the frozen lake. He told me to follow him, and we journeyed through the valley unhindered. The creatures that had nipped at my heels not hours before were now granting safe passage. I thought that was strange, to be sure, but I paid it no mind. Perhaps they feared the mighty kodan that was guiding me. Perhaps they had just feasted on some other unfortunate creature, and I was spared simply by a lack of appetite.
+
+The kodan took me to these ruins and told me everything I'd ever wanted to know. Not just about the kodan, but about every race in Tyria. The Mists. All that was past, and all that is present. I had asked for knowledge, and I received it. I received so much that I was forced to stop writing as my hands bled.
+
+But the voice continued to speak. I looked up and Aiding Thunder was gone. The voice remained. The voice began to change. It was no longer Aiding Thunder's.
+
+It was yours.
+
+Jormag. I beg of you. Stop whispering to me.
+
+I can listen no longer."
+"141";"Adds specialist vendors such as laurel merchant and guild services to Eye of the North."
+"142";"Strike Mission (Looking for More)"
+"143";"Unlock Merchant[s]"
+"144";"Cooking Station"
+"145";"Found in the river near the training grounds in Grothmar Valley."
+"146";"%str1%%str2%Runic Slayer Greaves%str3%%str4%"
+"147";"Reliquary[pl:"Reliquaries"] of the Raven Ceremonial Bracers"
+"148";"Found inside the chest at the end of Vexa's Lab in Fireheart Rise."
+"149";"A recipe to make an Iron Legion Longshot."
+"150";"You cannot carry any more ammo."
+"151";"Found after defeating the Whisper of Jormag Strike Mission."
+"152";"[lbracket]Snowflake Trader[rbracket]"
+"153";"A vista in a cavern filled with lost history"
+"154";"Crystal-Tipped Shell"
+"155";"Adds a huntsman's station to Eye of the North."
+"156";"Found by talking to Marghel Talekeeper at Deathblade's Watch in Fields of Ruin."
+"157";"Experimentation"
+"158";"%str1%%str2%Shining Aureate Rinblade%str3%%str4%"
+"159";"%str1%%str2%Raven Ceremonial Hood%str3%%str4%"
+"160";"Black Citadel Gate Link[s]"
+"161";"Warband Camp. Click to teleport."
+"162";"Generic Vendor"
+"163";"Assist Ryland during the Forging Steel vision by defeating the Ancient Forgeman."
+"164";"Perspective of the Ascalonian Wall"
+"165";"Ancient Deldrimor Gear[s]"
+"166";"Adds a tailor station to Eye of the North."
+"167";"<c=@flavor>"First Posting: On loan to Reave warband in Redreave Mill. Mountain makes sentry duty easy. Good sight lines. Campfire talk says there's a killer festival at Butcher's Block."</c>"
+"168";"Store Living World portal scrolls inside of this tome.<br>"
+"169";"Sword used by Vigil NPCs"
+"170";"Found in the chest at the end of Chaos Crystal Cavern jumping puzzle in Iron Marches."
+"171";"A Touch of Aurene's Magic"
+"172";"Found inside the chest atop Flame Legion camp in Grothmar Valley."
+"173";"You're already carrying something."
+"174";"[lbracket]Wintersday Gifts[rbracket]"
+"175";"Practice Dummy"
+"176";"Arctic Tuna"
+"177";"Mine"
+"178";"A lost tower buried in the mountains"
+"179";"Artificing Station"
+"180";"Snowflake Gobbler"
+"181";"Frostbone Flux"
+"182";"/shiver—Unlock in the Icebrood Saga Episode 2: Shadow in the Ice."
+"183";"Play Dead"
+"184";"Chance to drop from Ascalonian ghosts in Grothmar Valley."
+"185";"%str1%%str2%Runic Slayer Gauntlets%str3%%str4%"
+"186";"Master your bond with Raven and receive greater bonuses from Raven gates and barrier shrines."
+"187";"Ancient Fish Bone"
+"188";"Resistance"
+"189";"Permanently gain bonus karma while completing events in Bjora Marches. Stacks up to three times."
+"190";"Black Lion Industry Board"
+"191";"Found inside the chest at the end of the Branded Mine in Fields of Ruin."
+"192";"Play Dead"
+"193";"Tailoring Station"
+"194";"Practice Dummy"
+"195";"<c=@flavor>"Could have been a valuable asset, but too tightly bonded to warband for recruitment. Reinitiate contact if a schism with Steel is managed."</c>"
+"196";"Boneskinner's Rib"
+"197";"Found in the Ash Legion's files of Recon Cove in Grothmar Valley."
+"198";"Increased Tool Belt Recharge"
+"199";"You have completed Raven's test. Your grand reward lies on Raven's eyes."
+"200";"Purchase from Legionnaire Kress Rustmaw in the Tuyere Command Post in Fireheart Rise."
+"201";"Found by completing any event in Grothmar Valley."
+"202";"Avian"
+"203";"PvP Equipment
+
+Click to view standard equipment.
+Standard equipment only provides benefits while outside of PvP game modes.
+Weapons are displayed in both views."
+"204";"Double-click to open. Grants a choice of Raven Ceremonial Sandals, Bracers, or Gown, or Eternal Ice Shards. Contents will be account bound!"
+"205";"Guild Recruitment"
+"206";"Recharge Increase"
+"207";"This adds a Black Lion Industry Board to your home instance. The board can be used to collect basic crafting materials of your choice. Each delivery has a small chance of containing surplus goods.
+Resource types include the following:
+• Cloth Scraps
+• Leather Sections
+• Metal Ore
+• Wood Logs
+• Jewels"
+"208";"A Touch of Aurene's Magic"
+"209";"Mystery of the Raven Gate Ruins"
+"210";"Adds Lion's Arch as a destination to the Eye of the North gate."
+"211";"Chop"
+"212";"ArenaNet"
+"213";"By Luka Tomasdottir, Vigil Scribe
+
+Hundreds of years ago, Drakkar Lake served as a battleground between the forces of good and evil. Svanir, brother of the famed norn hero Jora, called out to a powerful thing deep in the ice. The lake's namesake, a champion of the Ice Dragon, responded. Svanir was turned into a hideous mockery of his spiritual bear form, and Jora was forced to slay him.
+
+Since then, the lake has been known as a place of curious whispers and dark power. Following the rise of Jormag, many norn abandoned the ancient shrines and settlements dotting the valley, leaving them to the elements and the dragon's loyal servants.
+
+When the kodan arrived shortly after Jormag's rise, they were forced to make that valley their own. The waters would take them no farther, and their ships were trapped within mountains of ice. The small huts they built to protect themselves from the cold soon became a permanent settlement. When the time came to name their new home, all of the kodan seemed to acknowledge that there was something...curious about the nearby lake. 
+
+The snow muffles the sounds of nature, gives the wind a voice of its own—yet this was different. The water itself seemed to speak, a whisper barely perceptible. The kodan named their settlement after this strange phenomenon: Still Waters Speaking.
+
+Then Zhaitan was slain. Then Mordemoth. Then Kralkatorrik. With each Elder Dragon slain by the Pact Commander and their allies, the whispers seemed to grow louder. What was once a murmur on the wind soon became fully formed words. You heard the words, and the words knew you heard them. They would speak to you, tell you what you wanted to hear.
+
+You would begin to trust the words as your own thoughts.
+
+And that was how Jormag's thoughts became your thoughts.
+
+Somehow, Drakkar's presence in the lake was making Jormag's voice louder in the valley. The kodan knew what was happening before anyone else. They figured out what Drakkar was. Drakkar, the creature in the lake, the Ice Dragon's personal champion, was a mouthpiece for the Elder Dragon. An amplifier of sorts, capable of spreading the whispers of the Elder Dragon far beyond its lair. And with the death of Kralkatorrik and the emergence of a new Elder Dragon in his stead, Drakkar's whispers became unbearable.
+
+The kodan of Still Waters Speaking, who had once traded and communicated with all manner of settlements and factions beyond their borders, closed themselves off to the outside world. They could not know which thoughts were their own and which were the dragon's. Whose voice was whose? Was your voice yours, or was it Jormag's?
+
+Aiding Thunder was a kodan of Still Waters Speaking, and I had the pleasure of making his acquaintence in Frostgorge Sound shortly following the demise of Zhaitan. He had gone to other kodan sanctuaries seeking supplies and knowledge of the outside world, perhaps knowing deep down that the whispers would only continue to grow louder as the current Elder Dragon cycle persisted.
+
+When I traveled to Still Waters Speaking shortly thereafter, following the demise of Mordremoth, the kodan guards standing before the closed settlement gate snarled at me, demanding I leave. The valley, they said, was far too dangerous for one unaccustomed to the whispers.
+
+I asked whatever happened to Aiding Thunder, the kodan I had met not long ago. The guards looked at each other. Was it anger? Shame?
+
+One of them turned to me, taking a troubled breath, stifling tears.
+
+"His voice was not his own," he said.
+
+I asked if Aiding Thunder was all right. I asked if I could see him.
+
+"If you listen, you will hear him. He will call you across the lake. He will call you to the west."
+
+The kodan guard stared at me, unblinking. "You must not listen. It is not his voice you are hearing.""
+"214";"Gunsmith's Notes"
+"215";"A vista in a quiet grotto"
+"216";"Recipe[s]: Iron Legion Combat Blade"
+"217";"%str1%%str2%Runic Hunter Mask%str3%%str4%"
+"218";"%str1%%str2%Runic Shaman Mask%str3%%str4%"
+"219";"Snowflake Gobbler's Blessing[s]"
+"220";"A focus taken from the husk of a fallen boneskinner."
+"221";"Mystery of the Hidden Tower"
+"222";"Purchased from a Rally Provisioner in Grothmar Valley."
+"223";"Mine"
+"224";"Ranked Players"
+"225";"<c=@flavor>"I always had trouble jumping from the tree to the ruins. Then my daughter found another path on the southern shore."</c>"
+"226";"Visage of the Great Rat Fireworks[pl:"Fireworks"]"
+"227";"%str1%%str2%Runic Hunter Boots%str3%%str4%"
+"228";"You must be level 80 to use this item."
+"229";"Complete Achievement: The Spotter"
+"230";"%str1%%str2%Rimed Verdant Axe%str3%%str4%"
+"231";"Target"
+"232";"Cinder Steeltemper"
+"233";"A waterfall held in time"
+"234";"Snowflake Exchange"
+"235";"%str1%%str2%Shining Aureate Dirk%str3%%str4%"
+"236";"Treatise on Tempering Draconic Materials"
+"237";"Open to choose a set of Stone Summit gloves."
+"238";"Jewelcrafting Station"
+"239";"Norn"
+"240";"Ranked Players"
+"241";"%str1%%str2%Rimed Verdant Short Bow%str3%%str4%"
+"242";"The Arctic Tuna Scraps go in this bucket."
+"243";"Stone Summit Boot Box"
+"244";"Adds a cooking station to the Eye of the North."
+"245";"Strike Mission (Looking for Group)"
+"246";"Found by interacting with any repair anvil."
+"247";"Wintersday Gifts
+<c=@flavor>Price Resets Daily</c>"
+"248";"%str1%%str2%Runic Slayer Pauldrons%str3%%str4%"
+"249";"By Luka Tomasdottir, Vigil Scribe
+
+"May our voices never be broken, may our voices be our own."
+
+I first heard these words uttered by a traveling kodan outside Rime Moraine deep in the heart of Frostgorge. He was a stranger to that place, clearly uncomfortable with the ways of the kodan that called the place home. Aiding Thunder was his name, and he hailed from a place I had only heard of in story and legend: Drakkar Lake.
+
+Well, that is not entirely accurate: he didn't introduce himself as Aiding Thunder; his exact words were "Aiding Thunder, of Still Waters Speaking."
+
+Still Waters Speaking. I had never heard of such a Sanctuary, I told him. He clarified that it was not the name of a Sanctuary, though his people had indeed come from one far in the north. A Sanctuary with no name he remembered, no records written, and an oral history lost to time. 
+
+The kodan seemed wistful, a flicker of light in his eyes that quickly gave way to a deep sense of foreboding. Loss is a troublesome concept among kodan society; there are a great many things that once were, but no longer. A great many things that once put the kodan above all, but...well, not anymore.
+
+I inquired further, but Aiding Thunder seemed nervous about my interest. He was particularly averse to my questions about where exactly his home was, as if simply revealing its location on a map might immediately turn it into a premier tourist destination. I assured him my interests were purely academic, and several hours of gentle coaxing seemed to ease the kodan's troubled mind.
+
+The settlement that would one day become Still Waters Speaking began as a kodan Sanctuary long ago, one of their many ice cities floating atop the bone-chilling waters north of the Far Shiverpeaks. These ancient cities had held since the previous Elder Dragon awakening, what the kodan refer to as "The Dragonstorm." At the time, they believed the massive floating landmasses to be a gift from Koda—recompense for their suffering as the rest of the world was purged by the Elder Dragons.
+
+These cities stood for thousands of years, impervious to the elements. But sadly, not from Jormag. The rising seas and terrifying creatures destroyed the Sanctuaries, driving the kodan south. A group of kodan from one of these sanctuaries gathered on a ship built from timber, a rarity that far north, and turned their gaze southward. They would follow the maps of their greatest explorers and seek shelter in the mountains.
+
+But the maps had not accounted for Jormag's awakening. Rivers turned to lakes. Mountains to valleys. And the kodan found themselves shipwrecked deep in the Far Shiverpeaks, their ship locked in the ice and snow. They had stumbled into Drakkar Lake.
+
+And the lake was whispering."
+"250";"%str1%%str2%Shining Aureate Warhammer%str3%%str4%"
+"251";"Adds the Black Citadel as a destination to the Eye of the North gate."
+"252";"Light Armor"
+"253";"A vista atop the highest peaks"
+"254";"Return to the plains of Elona and beyond to confront the Crystal Elder Dragon, Kralkatorrik. <br><c=@reminder>(Requires the Path of Fire expansion and the purchase or unlock of Living World Season 4 episodes, or grouping with someone who already owns them.)</c>"
+"255";"%str1%%str2%Runic Hunter Coat%str3%%str4%"
+"256";"Tournament Test Subject"
+"257";"Unlock Artificing Station"
+"258";"Drops from bears in Blazeridge Steppes."
+"259";"Open to choose a set of Stone Summit shoulder armor."
+"260";"Redeployment Order"
+"261";"Letter of Commendation"
+"262";"Blaze your way through Elona on the back of your trusty mount, and fend off the forces of Balthazar, God of War and Fire.<br><c=@reminder>(Requires the Path of Fire expansion.)</c>"
+"263";"Field Maintenance Manual"
+"264";"A Touch of Aurene's Magic"
+"265";"Frozen Spark[s] of Life"
+"266";"Speak with Cinder after defeating the Ancient Forgeman."
+"267";"Living World: Icebrood Saga"
+"268";"Found in the chest at the end of the Craze's Folly jumping puzzle in Blazeridge Steppes."
+"269";"The Pact"
+"270";"Emblazoned Cape"
+"271";"Aspiration"
+"272";"Complete Achievement: Heavy Rival"
+"273";"Commander,
+
+While the Vigil continues to struggle against the constant encroachment of enemy forces, I did manage to send a small scouting party to explore the unopened gate we discovered leading into the western mountains.
+
+After much trial and error, the scouts were finally able to dissipate the Svanir shaman's corruptive magic and unlock the door with a Raven lens. Rytlock and Crecia went through almost immediately to chase down Bangar, though I've yet to hear word from either one since they passed through.
+
+I don't have any scouts I'm comfortable sending through the gate, but I know what lies on the other side: the lake where Svanir called out to the Ice Dragon's champion long ago. It is a place of great power. Great and terrifying power.
+
+Be careful.
+
+—Jhavi"
+"274";"Adds a weaponsmithing station to Eye of the North."
+"275";"Double-click to trade Snowflakes for the chance to get a Wintersday Boost or Wintersday Gift."
+"276";"Blessed Raven Statuette[s]"
+"277";"On the Scrying Pool"
+"278";"Assignment Request"
+"279";"Barrier duration doubled. Using Raven gates grants a speed boost."
+"280";"Karmic Empowerment"
+"281";"%str1%%str2%Runic Hunter Shoulders%str3%%str4%"
+"282";"Ranger Minatures"
+"283";"Secret of the Raven Reflector"
+"284";"By Luka Tomasdottir, Vigil Scribe
+
+The kodan of Still Waters Speaking are, in many ways, a classic example of an isolated community. So isolated, in fact, that I have not actually been able to successfully visit them in person. Instead, I must rely on the notes I took during a series of fascinating conversations with a kodan who called the settlement home.
+
+That kodan, Aiding Thunder, relayed to me an interesting fact that I had not noticed until he brought it up to me: many of the kodan names in Still Waters Speaking are dissimilar to other kodan names. Though at first blush they appear similar, there are some tangible differences to consider that harken back to the oldest kodan conventions.
+
+For the kodan societies we are familiar with, their names are pliable. They change depending on circumstance and mood. They describe singular things. There is no first or last name. There may be three words to a name. Maybe more. Maybe fewer.
+
+While sitting beside a fire in Safewatch Vale waiting for a storm to pass, Aiding Thunder confided in me his fears that the kodan had forgotten of the time when their names meant more than a passing mood. He lamented that the current naming conventions were popular with only a handful of Sanctuaries that would eventually become established in the Shiverpeaks, and offered an impression of the kodan that the races of the south would go on to extrapolate to all of kodan society.
+
+But Aiding Thunder insisted that his people, including many of the tribes that perished in the far north during Jormag's rise, relied on a different naming system entirely.
+
+In Still Waters Speaking, a kodan's first name is usually based on a characteristic. Not necessarily one exhibited by the cub at the moment of naming, but one wished by their family or tribe. Humble. Stoic. Aiding. Noble. They refer to this name as "Koda's Promise."
+
+The second name is one of nature, referred to as "Koda's Gift." Mountain. Thunder. Cloud. Cove. The two names are combined into one, the promise always preceding the gift.
+
+This second name is not, I should clarify, a surname or family name. Quite the contrary, the kodan of Still Waters Speaking seem distinterested in maintaining those family ties through name. Their settlement is so small that names are wholly unique, and family names are unnecessary. However, Aiding Thunder initially introduced himself not simply as "Aiding Thunder," but instead "Aiding Thunder, of Still Waters Speaking."
+
+And what of their leaders? They do not appear to use the same naming convention once they assume their position as Claw or Voice. Quite the contrary: each position appears to have its own convention. Aiding Thunder spoke of a Claw named Cloudseeker and a Voice named Ushers-in-Spring, which seem to defy the standard rules. When I inquired about this, Aiding Thunder promised to explain when we met again.
+
+Sadly that time would never come to pass."
+"285";"%str1%%str2%Ice Golem's Mask%str3%%str4%"
+"286";"Celestial Tribute"
+"287";"%str1%%str2%Runic Shaman Pants%str3%%str4%"
+"288";"Stone Summit Shoulder Box"
+"289";"Dual Wield"
+"290";"Emblazoned Cape"
+"291";"Thermal Forge. Click to teleport."
+"292";"I once listened to the words of a hermit who spoke of the power in water. Still and pure, it can be enchanted as a mirror that reflects other places and times.
+
+Asking only simple rituals, it manifests deep visions. A hero once harnessed its power using mementos of events in the recent past. Perhaps whatever ancients created this place did so in anticipation of such a need.
+
+To you, Champion of a later age, I leave this instruction. Uncover the relics of your history, and begin to master the powers of these waters.
+
+In that still and silent pool, may strength from the past fortify you for what is yet to come."
+"293";"Scrap Metal"
+"294";"Distilled Hylek Mead"
+"295";"Reliquary[pl:"Reliquaries"] of the Raven Ceremonial Sandals"
+"296";"Orichalcum Ore"
+"297";"Quiet"
+"298";"Show PvE Equipment"
+"299";"A lost labyrinth"
+"300";"Chance to drop from icebrood enemies. Guaranteed from the Claw of Jormag."
+"301";"You can't open this chest."
+"302";"Charred Slip of Paper"
+"303";"[lbracket]Wintersday Rewards[rbracket]"
+"304";"Meatoberfest Sausage"
+"305";"Strike Mission: Forgotten Large Chest of Valor"
+"306";"Cypress Sapling"
+"307";"Recipe[s]: Iron Legion Pistol"
+"308";"Open to choose a set of Stone Summit boots."
+"309";"Adds Rata Sum as a destination to the Eye of the North gate."
+"310";"Found in the township of Claypool in Queensdale."
+"311";"Salvage Tank Ammunition"
+"312";"Adds a basic vendor to the Eye of the North."
+"313";"Wintersday Rewards"
+"314";"Whisperwind Grotto"
+"315";"A Touch of Aurene's Magic"
+"316";"Individuals and parties can post here. This allows established squads to invite them to explore Strike Mission content."
+"317";"%str1%%str2%Rimed Verdant Warhorn%str3%%str4%"
+"318";"Sword used by Vigil NPCs"
+"319";"Raven Bright"
+"320";"Dark Iron Munitions"
+"321";"Found in the chest after the Metal Legion concert in Grothmar Valley."
+"322";"Explore Tyria's frozen north and immerse yourself in charr and norn culture as the Elder Dragon threat intensifies.<br><c=@reminder>(Requires the Path of Fire expansion and the purchase or unlock of Living World: Icebrood Saga episodes, or grouping with someone who already owns them.)</c>"

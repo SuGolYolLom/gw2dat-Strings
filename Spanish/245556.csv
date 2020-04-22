@@ -1,0 +1,140 @@
+"0";"Noche azulada"
+"1";"Has ayudado a Zalvax Garrarrota."
+"2";"Ayuda a los soldados a exterminar fantasmas, enciende antorchas y reanima a los aliados caídos."
+"3";"Zalvax Garrarrota te agradece la ayuda."
+"4";"Has ayudado a Tiga Filoferoz."
+"5";"Desarma minas, recolecta chatarra y derrota a los separatistas de la carretera."
+"6";"Tiga Filoferoz te agradece la ayuda."
+"7";"Has ayudado a Lakor Bocallorona."
+"8";"Lleva comida y cerveza a los soldados, pero controla a los que estén borrachos. Anima a los soldados desmoralizados y mata a cualquiera que intente aguarnos la celebración."
+"9";"Lakor Bocallorona te agradece la ayuda."
+"10";"Has ayudado a Gon Tirorrabioso."
+"11";"Elimina a los draga y a su maquinaria. Reanima a los aliados caídos."
+"12";"Gon Tirorrabioso te agradece la ayuda."
+"13";"Has ayudado a Wagh Tirocerca."
+"14";"Repara las perforadoras, detona los montones de rocas, mata a los draga y derrumba sus madrigueras."
+"15";"Wagh Tirocerca te agradece la ayuda."
+"16";"Has ayudado a Rak Crinmuerte."
+"17";"Protege el ganado de los separatistas, devuelve los pollos a la Hacienda Derrumbapiedra, alimenta a las vacas hambrientas y llena los abrevaderos de agua."
+"18";"Rak Crinmuerte te agradece la ayuda."
+"19";"Has ayudado a Robusto Menteoscura."
+"20";"Extermina saurios, recoge muestras de agua de los kits de prueba y repara los expendedores químicos de Lago Filonegro."
+"21";"Robusto Menteoscura te agradece la ayuda."
+"22";"Has ayudado a Tamor Asaltabosques."
+"23";"Evita que los separatistas saboteen el equipo del molino, cárgatelos con rifles de francotirador y desarma las bombas. Motiva a los obreros vagos también."
+"24";"Tamor Asaltabosques te agradece la ayuda."
+"25";"Has ayudado a Kona Desgarrarroble."
+"26";"Ayuda a adiestrar a skelk jóvenes, manda a los skelk entrenados a ayudar en el molino y elimina a los skelk hostiles del molino."
+"27";"Kona Desgarrarroble te agradece la ayuda."
+"28";"Has ayudado a los obreros del Molino Sierrasangre."
+"29";"Utiliza explosivos del molino para eliminar tocones de árbol y avisperos. Corta pimpollos de árbol del Molino Sierrasangre y tira la madera en una hoguera."
+"30";"Los molineros agradecen tu ayuda."
+"31";"Has ayudado a Remaris Tirodepiedra."
+"32";"Infíltrate y sabotea el cuartel de la Legión de la Llama."
+"33";"Remaris Tirodepiedra te agradece la ayuda."
+"34";"Has ayudado a Kastaz Zarpafuerte."
+"35";"Echa las eclosiones de larva de las plantas, evita que los pollos se alimenten y elimina las plantas dañadas."
+"36";"Kastaz Zarpafuerte te agradece la ayuda."
+"37";"Derrota a los separatistas, destruye su campamento y rescata a los charr capturados."
+"38";"Vasher Pecadorsombrío te agradece la ayuda."
+"39";"Has ayudado a Veska Cantafilo."
+"40";"Atrapa bichos para alimentar al ganado, aplaca a las vacas malhumoradas y baña a las vacas malolientes."
+"41";"Veska Cantafilo te agradece la ayuda."
+"42";"Perforadora"
+"43";"Segador[f:"Segadora"]"
+"44";"<c=@flavor>"Gracias. Nos has ayudado mucho."<br>—Tumbaenemigos centinela</c>"
+"45";"Insignia de centinela explorador"
+"46";"<c=@flavor>"Vive para luchar un día más".<br>—Centinela Garradentada </c>"
+"47";"Comunidad"
+"48";"Pionero[f:"Pionera"] de Orr"
+"49";"Pionero[f:"Pionera"] de Ascalon"
+"50";"Pionero[f:"Pionera"] de las Picosescalofriantes"
+"51";"Pionero[f:"Pionera"] de Maguuma"
+"52";"Pionero[f:"Pionera"] de la Niebla"
+"53";"Caminante de la Niebla"
+"54";"Rotación venenosa"
+"55";"Diseño[pl:"Diseños"] de martillo de guerra norn"
+"56";"Defiende la columna de tanques."
+"57";"Punto de Ruta de Mirador"
+"58";"Punto de Ruta de Valle"
+"59";"Punto de Ruta de Tierras Bajas"
+"60";"Punto de Ruta de Jardín Formal"
+"61";"Diseño[pl:"Diseños"] de lanza norn"
+"62";"¿Quieres desbloquear una pestaña del banco más para tu cuenta?"
+"63";"¿Quieres desbloquear otra casilla de saco para este personaje?"
+"64";"%str1%(%num1%x)"
+"65";"Guarda"
+"66";"Punto de Ruta de Haciendas"
+"67";"Asesino[f:"Asesina"]"
+"68";"Asesino[f:"Asesina"] de campeones"
+"69";"Punto de Ruta Oculto"
+"70";"Punto de Ruta de Césped de Vista"
+"71";"Punto de Ruta de Muertos Soñadores"
+"72";"Punto de Ruta de Grieta"
+"73";"Punto de Ruta de Cristal Celestial"
+"74";"Aguamarina"
+"75";"Comandante:
+
+Lo que le ha sucedido a Apatia es una desgracia, pero no puedes dejar que eso te desaliente. Sé lo que es perder a tus camaradas en el campo de batalla y no querría que cometieras los mismos errores que yo.
+
+No te centres en lo que salió mal. Céntrate en el hecho de que recobraste el orbe krait. Una magia tan poderosa como esa podría cambiar las tornas en la guerra contra Zhaitan y en última instancia salvará centenares de vidas, o puede que miles.
+
+Aún estoy trabajando por arreglar el cisma de Filo del Destino, pero las cosas marchan con lentitud. Zojja es especialmente difícil de alcanzar, así que ahora mismo estoy centrando mis esfuerzos en ella. Deséame suerte.
+
+Que los espíritus sigan guiándote a la victoria,
+
+—Eir"
+"76";"El cliente del juego se ha desconectado debido a un periodo excesivo de inactividad del jugador."
+"77";"Filtrado anisotrópico:"
+"78";"Forzar 4x"
+"79";"Forzar 8x"
+"80";"Forzar 16x"
+"81";"Por defecto"
+"82";"Selección de oclusión:"
+"83";"CPU (preferida)"
+"84";"GPU"
+"85";"SMAA bajo"
+"86";"SMAA alto"
+"87";"SMAA medio"
+"88";"Contrincante campeón[f:"campeona"]"
+"89";"Desenfoque de profundidad"
+"90";"Usar suavizado de bordes morfológico de calidad baja. Elimina los bodes irregulares sin perder detalles en las texturas."
+"91";"Usar suavizado de bordes morfológico de calidad media. Permite usar umbral predicado para proporcionar una fidelidad de textura adicional."
+"92";"Forzar filtrado anisotrópico 4x en todas las texturas. Mejora la calidad de las texturas en ángulos oblicuos."
+"93";"Forzar filtrado anisotrópico 8x en todas las texturas. Mejora la calidad de las texturas en ángulos oblicuos."
+"94";"Forzar filtrado anisotrópico 16x en todas las texturas. Proporciona la calidad más alta al aspecto de las texturas en ángulos oblicuos."
+"95";"Camisa"
+"96";"Sombrero[pl:"Sombreros"] de celebración"
+"97";"Una herramienta tosca para la minería de cobre."
+"98";"Una herramienta tosca para tareas básicas de tala."
+"99";"Una herramienta tosca para tareas básicas de abastecimiento."
+"100";"Saludos: 
+
+No nos conocemos, pero llevo mucho tiempo siguiendo tus hazañas. Soy coleccionista de relatos de gran valor y heroísmo, y tu nombre aparece cada vez más en los que me cuentan. He hablado con tu mentor, y me ha sugerido que contactara contigo y añadiera tus historias a mi colección.
+
+Tu mentor era miembro de un grupo de aventureros conocido como Filo del Destino. Eran héroes de leyenda, pero se separaron hace unos cinco años por motivos que aún desconozco, ya que nadie me ha contado esa historia. Si descubres el porqué de su separación, te agradecería que me lo comunicaras.
+
+Gracias por ayudar en este asunto. Me pondré en contacto contigo en el futuro. Espero que tú me mantengas al tanto del paradero de tu mentor y de los demás miembros de Filo del Destino. 
+
+Por siempre,
+
+Tu heraldo"
+"101";"Una presentación"
+"102";"Garfa de Fénix"
+"103";"Ve con cuidado. No apuntar a los ojos de los aliados."
+"104";"Descarga láser experimental"
+"105";"Convertirse en el Cuervo"
+"106";"Descarga mágica"
+"107";"Ascendente"
+"108";"Comandante:
+
+Lo que le sucedió al artificiero Tonn es una desgracia, pero no puedes dejar que eso te desaliente. Sé lo que es perder a tus camaradas en el campo de batalla y no querría que cometieras los mismos errores que yo.
+
+No te centres en lo que salió mal. Céntrate en el hecho de que hundiste el buque insignia de Zhaitan. Gracias a eso, la victoria final del Pacto será mucho más fácil de alcanzar.
+
+Aún estoy trabajando por arreglar el cisma de Filo del Destino, pero las cosas marchan con lentitud. Zojja es especialmente difícil de alcanzar, así que ahora mismo estoy centrando mis esfuerzos en ella. Deséame suerte.
+
+Que los espíritus sigan guiándote a la victoria,
+
+—Eir"
+"109";"Emites un gruñido aterrador que vuelve vulnerables a los enemigos próximos y a ti te otorga regeneración."

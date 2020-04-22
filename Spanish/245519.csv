@@ -1,0 +1,97 @@
+"0";"Peto de Caer mejorado"
+"1";"Atavío de Fuerte Cadencia"
+"2";"Hola, %str1%:
+
+Menudo nombre te has hecho en Tajo del Carnicero. De hecho, entre algunos tu nombre es sinónimo de carne. Y eso es un gran honor sin duda.
+
+—Lakor Bocallorona"
+"3";"Lakor Bocallorona"
+"4";"La celebración continúa"
+"5";"¡Buen trabajo! Si antes los draga no nos prestaban atención, ahora puedes estar seguro[f:"segura"] de que les has dado motivos.
+
+Te debo una.
+
+—Gon Tirorrabioso"
+"6";"Gon Tirorrabioso"
+"7";"Otra victoria de Hierro"
+"8";"Talentos como los tuyos son los que me hacen disfrutar de mi trabajo. Mientras que mis compañeros de cantera siempre estaban refunfuñando, tú fuiste infatigable. Eso es todo lo que desea un operador de cantera.
+
+Gracias.
+
+—Wagh Tirocerca"
+"9";"Número de veces en que has sobrevivido por los pelos."
+"10";"Relámpago arcano"
+"11";"Draco[s] desarmado[s]"
+"12";"Circo Charriucus"
+"13";"Lanzas un muro de red desplegable para inmovilizar a los enemigos que queden atrapados dentro."
+"14";"Sector Zuhl"
+"15";"<c=@flavor>"Conservar la calma significa conservar la vida"<br>—Morina</c>"
+"16";"Mantén la seguridad alrededor de la Mansión Almuten."
+"17";"Muertes evitadas"
+"18";"Sirve para recolectar arándanos, champiñones comunes, cebollas, zanahorias, plantones de hierbas, patatas y lechuga."
+"19";"Hoz de recolección de cobre"
+"20";"Sirve para talar pimpollos de álamo, pimpollos de kertch y pimpollos de ekku."
+"21";"Hacha de talar de cobre"
+"22";"Sirve para extraer mineral de cobre."
+"23";"Pico de minería de cobre"
+"24";"Zapatos de embaucador"
+"25";"Resurrección arcana"
+"26";"Tirón sepulcral"
+"27";"Sacudir"
+"28";"Ancla"
+"29";"Corte furioso"
+"30";"Por poco"
+"31";"¡%str1% está deteniendo la infección!"
+"32";"Equipamiento rojo"
+"33";"Te escribo para hacerte llegar la enorme gratitud de los aldeanos de Paraje del Humo por tu reciente ayuda. Tu colaboración en nuestros intentos de recuperar el control de los viñedos de la Aldea Paraje del Humo nos inspiró a aquellos de nosotros que empezábamos a desfallecer ante un conflicto aparentemente sin fin.<br><br>Gracias a tu ayuda, ahora nos sentimos lo bastante a salvo como para seguir buscando una respuesta al problema de fantasmas que afecta a la zona. Cuando lo consigamos, me encargaré de que se reconozca tu parte en la victoria.<br><br>—Bryllana Menteprofunda"
+"34";"Número de infectados asesinados."
+"35";"Mansión<br>(Planta Baja)"
+"36";"Cuando estés cerca, revive a un aliado caído con [lbracket]%str1%[rbracket]."
+"37";"Baja"
+"38";"Media"
+"39";"Alta"
+"40";"Disolver"
+"41";"%str1% te ha invitado a un torneo."
+"42";"Precio:"
+"43";"Infectados asesinados."
+"44";"Muerte de infectado"
+"45";"¡%str1% está aguantando!"
+"46";"Número de víctimas con el Arco del Superviviente."
+"47";"Muertes con el Arco del Superviviente"
+"48";"Semilla de curación"
+"49";"¡%str1% está propagando la infección!"
+"50";"Número de supervivientes a los que has matado."
+"51";"Vista previa de arma"
+"52";"Valiente:
+
+He estado vigilando tus progresos y no dejas de impresionarme. Acaba de llegar a la Arboleda la noticia de tu éxito al reclutar a los quaggan. Siempre me ha interesado la furia guerrera que exhiben estos pacifistas en el combate y ahora que se han unido a nuestra causa ardo en deseos de verla con mis propios ojos. Si son tan feroces como dicen, será una suerte contar con ellos contra los dragones.
+
+Siento mucho lo sucedido con su aldea, pero a estas alturas creo firmemente que las vidas son más importantes que cualquier propiedad. Cuando los dragones sean derrotados, podremos dedicar nuestros esfuerzos a la reconstrucción, pero lo primero es lo primero.
+
+Yo también estoy haciendo lo que puedo en la común tarea de la lucha contra los dragones. Sigo tratando de suavizar las cosas entre los miembros de Filo del Destino para que volvamos a convertirnos en la gran maquinaria bélica que fuimos antaño, pero se trata de un proceso lento y complicado, porque implica personalidades muy fuertes, grandes egos y temores muy arraigados. No obstante, no pienso rendirme y espero que tú tampoco lo hagas.
+
+Que el Árbol Pálido te guíe,
+
+—Caithe"
+"53";"Reclutar a los quaggan"
+"54";"Infliges debilidad y hemorragia a los enemigos en el área objetivo."
+"55";"Supervivientes infectados"
+"56";"Infectados"
+"57";"¡%str1% es el contagio definitivo!"
+"58";"Ocasiones en que has matado al último superviviente."
+"59";"Último superviviente asesinado"
+"60";"Contagio"
+"61";"Lanzas esta matriz de energía. Daña a los enemigos. Suministra potencia a los gólems y dispositivos de Mibba."
+"62";"Lanzar energía"
+"63";"Mostrar bocadillos para los textos"
+"64";"Reanimar"
+"65";"Ira incontenible"
+"66";"+125 Potencia<br>+75 Precisión<br>+5 %% Daño crítico<br>+45 Vitalidad"
+"67";"+125 potencia<br>+75 vitalidad<br>+75 dureza"
+"68";"+125 Precisión<br>+75 Daño de condición<br>+45 Potencia<br>+45 Vitalidad"
+"69";"+125 potencia<br>+75 dureza<br>+5 %% daño crítico<br>+45 curación"
+"70";"Aplicas una condición aleatoria al enemigo."
+"71";"Truco o trato"
+"72";"Barrido de ancla"
+"73";"Calavera[pl:"Calaveras"] grande[pl:"grandes"]"
+"74";"A las puertas de Maguuma"

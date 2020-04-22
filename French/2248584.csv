@@ -1,0 +1,222 @@
+"0";"[M]Aperçu"
+"1";"Durée de Brûlure +10%%. Augmente les dégâts infligés de 10%% tant qu'Aura de feu est active."
+"2";"<c=@flavor>Cet objet est remis aux jeunes légionnaires qui ont terminé leur formation au Fahrar et s'apprêtent à prendre les commandes de leur propre troupe.</c>"
+"3";"Une épreuve de Koda ou son apprêt sont actifs à cet endroit."
+"4";"Durée d'avantage +5%%. Dissipe une altération infligée aux alliés à proximité et à vous-même si vous utilisez une compétence de Guérison. <c=@reminder>(Temps de recharge : 20 secondes)</c>"
+"5";"<c=@flavor>"Un ours a mangé ses espauliers ? Ça arrive souvent, ça ? J'ignorais que les ours mangeaient les armures."</c>"
+"6";"<c=@flavor>"Qui aurait cru que Braham y arriverait ? Heureusement que je n'ai pas perdu mon œil."</c>"
+"7";"Durée d'altération +5%%. Vous bénéficiez d'une barrière si vous exécutez un combo de coup de grâce sauté."
+"8";"Durée de Saignement +10%%. Vous infligez Saignement, Tourment et Empoisonnement pendant 8 secondes aux ennemis à proximité si vous utilisez une compétence d'élite. <c=@reminder>(Temps de recharge : 30 secondes).</c>"
+"9";"<c=@flavor>"Les piques, c'est pour ouvrir les panneaux d'accès coincés, pas pour se battre. Non, je plaisante. Chaque objet est une arme."</c>"
+"10";"L'heure du festival de la Super Adventure est arrivée !"
+"11";"Trouvez d'autres joueurs qui veulent profiter du monde de la Tyrie."
+"12";"<c=@flavor>"Mon enfance a été bercée par les récits des exploits des héros charrs. J'aurais fait n'importe quoi pour être comme eux."</c>"
+"13";"Les altérations que vous infligez aux ennemis durent plus longtemps, mais celles que vous subissez également."
+"14";"Durée de Rapidité +10%%. Confère Rapidité aux alliés à proximité pendant 10 secondes si vous utilisez une compétence de Guérison. <c=@reminder>(Temps de recharge : 10 secondes)</c>"
+"15";"Altérations infligées aux ennemis"
+"16";"Bienvenue !
+
+Le festival de la Super Adventure a débuté ! Venez y prendre part ! Si vous n'avez jamais essayé, voilà le bon moment pour explorer mon monde passionnant !
+
+La Super Adventure Box se refermera dès la fin du festival, alors ne manquez pas une telle occasion ! Rejoignez-moi sur la Place du créateur de Rata Sum et commencez votre aventure dès aujourd'hui !
+
+– Moto"
+"17";"<c=@flavor>"Grâce à la troupe d'Acier, qui a protégé le col de l'autre côté du Gouffre de Cassedent, la troupe de l'Éclatement a pu tenir bon."</c>"
+"18";"[M]Moto"
+"19";"<c=@flavor>"Ce coffre m'intrigue depuis un moment. Je ne vois aucun moyen de traverser le champ pour atteindre le mécanisme... à part avec le harpon d'un tank."</c>"
+"20";"Découvrez de nouvelles guildes et de nouveaux membres."
+"21";"<c=@flavor>"Les vrais fans de Metal Legion sont dans la fosse."</c>"
+"22";"Altérations infligées à soi-même"
+"23";"<c=@flavor>"J'ai grimpé le long du convoyeur pour remplacer cette vieille pièce d'engrenage qui bloquait le mécanisme, et je suis COUVERTE DE GRAISSE. Ce bidule est GÉNIAL !"
+
+– Ranoah Brisacier"
+"24";"<c=@flavor>"Une patrouille envoyée sur les lieux après la catastrophe a trouvé la petite cachée sous des cadavres, probablement ses parents. Elle a été amenée à Grothmar et inscrite au Fahrar."</c>"
+"25";"Armes boréales restaurées restantes"
+"26";"Vous infligez des dégâts supplémentaires aux ennemis dont le pourcentage de santé est inférieur au vôtre. Lorsque vous êtes touché[f:"touchée"] par une <c=@abilitytype>explosion</c>, vous recevez des soins pendant quelques secondes."
+"27";"Vous gagnez de la force vitale à chaque intervalle lorsque vous n'utilisez pas le linceul. Vous obtenez Protection lorsque vous revêtez le linceul."
+"28";"Une version améliorée de l'arme puissante standard."
+"29";"Particule de défi"
+"30";"Verrouillage élémentaire"
+"31";"<c=@flavor>Les cœurs s'échauffent dans les cavernes glaciales des Cimefroides.</c>
+
+Objet trouvé dans la grotte des Pics de Chef-Tonnerre."
+"32";"[M]Artefact de la Voix brisée%str2%%str1%%str3%%str4%"
+"33";"Début du défi : Ennemis puissants"
+"34";"Permet d'obtenir la teinture lion bleu exclusive aux coffres du Lion noir."
+"35";"<c=@flavor>Même sur le front de la guerre contre le dragon ancestral, aucun amour n'est impossible.</c>
+
+Objet trouvé dans un campement du Pacte, au Promontoire de Jahai."
+"36";"Un messager est revenu des pourparlers de paix. Les autres clans du Sommet ont accepté la réunification avec Deldrimor. Nous ne pouvons pas nous laisser aller à une telle faiblesse ; nous ne serons jamais leurs serviteurs. Mieux vaut tracer seuls notre propre voie plutôt que de nous soumettre à des idéologies qui vont à l'encontre de tout ce que nous sommes.
+
+Il est de plus en plus difficile pour moi de consigner mes pensées. La pierre a progressé jusqu'à mon poignet. Il est inutile de résister, rien ne peut arrêter le rituel."
+"37";"Calotte d'astreinte"
+"38";"Acier forgé"
+"39";"Boîte[s] de butin de garde de la porte vétéran"
+"40";"Les liens avec les Brumes"
+"41";"[F]Augmentation[pl:"Augmentations"] d'explorateur"
+"42";"Brodequins d'astreinte"
+"43";"Une liaison Kralkatorride"
+"44";"Rugissement vivifiant"
+"45";"Journal d'Arngirn Soigneforge"
+"46";"Rang de mission final : légionnaire"
+"47";"Une version améliorée de l'armure faite-maison standard."
+"48";"[M]Héraut de la Voix brisée%str2%%str1%%str3%%str4%"
+"49";"Cuissots d'astreinte"
+"50";"Stupeur au-dessus du seuil de santé"
+"51";"Vous bénéficiez de Fureur lorsque vous neutralisez un ennemi.<br><c=@reminder>Les altérations neutralisantes sont entre autres : Étourdissement, Stupeur, Repoussement, Attraction, Renversement, Noyade, Flottaison, Peur, Projection et Incitation.</c>"
+"52";"Augmentation de découverte de magie"
+"53";"Augmentation[s] de karma"
+"54";"Tempérament explosif"
+"55";"Braies faites-maison"
+"56";"Double-cliquez pour ouvrir.
+Les armes se trouvant dans cette boîte déverrouillent un parcours permettant d'obtenir plusieurs versions de leurs apparences."
+"57";"[F]Tenue[pl:"Tenues"] de rôdeur des abysses"
+"58";"Les passions de Faren"
+"59";"Mitaines faites-maison"
+"60";"Vertu motivante"
+"61";"[M]Outil de moissonnage glacial"
+"62";"Cape toxique désormais disponible !"
+"63";"Vendre"
+"64";"Une version améliorée de l'armure d'astreinte standard."
+"65";"Mission d'attaque quotidienne"
+"66";"Le Pacte du cœur"
+"67";"[F]Claymore de la Voix brisée%str2%%str1%%str3%%str4%"
+"68";"[M]Revolver de la Voix brisée%str2%%str1%%str3%%str4%"
+"69";"<c=@flavor>L'amour est un champ de bataille.</c>
+
+Objet confisqué dans le cachot de la Vallée de Grothmar."
+"70";"Pack d'apparence de rôdeur des abysses"
+"71";"Vous infligez plus de dégâts après avoir activé une vertu."
+"72";"Double-cliquez pour ouvrir. Contient des armes de main droite et à deux mains plus puissantes que celles de niveau 10 standard."
+"73";"Concentration dévastatrice"
+"74";"Bouclier explosif"
+"75";"[F]Lame de la Voix brisée%str2%%str1%%str3%%str4%"
+"76";"[M]Aiguillon de la Voix brisée%str2%%str1%%str3%%str4%"
+"77";"Cet ouvrage est dédié au seigneur Faren, dont les paiements généreux sont toujours appréciés.
+
+CHAPITRE 1
+
+Dans les profondeurs de la Jungle de Maguuma, le monde venait d'être sauvé. Mordremoth était tombé... amoureux.
+
+Eh oui, amis lecteurs : ce ne furent pas les épées qui mirent fin à la guerre. En effet, si le Commandant du Pacte était parvenu à conquérir l'esprit du dragon, son cœur n'appartenait qu'au seigneur Faren.
+
+"Personne ne doit savoir que tu es encore en vie", dit ce dernier, alors qu'une larme solitaire coulait le long de sa joue. "Ils ne sont pas capables de croire en toi comme moi."
+
+"Je le sais, mon preux chevalier", répondit le dragon ancestral dans un murmure. "Mais malgré cela, il faut que tu t'en ailles. Tu as d'autres vies à sauver... et d'autres cœurs à ravir.""
+"78";"[M]Bastion de la Voix brisée%str2%%str1%%str3%%str4%"
+"79";"Journal 4 (Forge de l'acier)"
+"80";"Peut s'obtenir en éliminant le désosseur dans le Sanctuaire du Corbeau.
+
+À échanger contre des épaulières auprès de Berghild à l'Œil du Nord."
+"81";"Double-cliquez pour choisir la zone où vous voulez vous téléporter. Cette opération consommera l'une des 5 charges. <c=@Warning>Cet objet ne peut pas être utilisé en combat.</c>"
+"82";"Mécaniste Ninn"
+"83";"Le volume est très usé et presque illisible. Sa couverture en cuir porte encore une description de son contenu :
+
+Après avoir été éconduit sans ménagement par la reine, le capitaine Rogan s'est juré de ne plus jamais aimer. Mais lorsque, par devoir, il se retrouve enfermé dans une cellule individuelle avec le tribun Gritrock au charme sauvage, son serment est mis à rude épreuve. L'auteur du best-seller "Une liaison kralkatorride" s'aventure dans des territoires jusqu'ici inexplorés par la littérature romantique en offrant à ses lecteurs une idylle entre un Humain et un Charr !"
+"84";"Inflige Infirmité aux ennemis que vous neutralisez.<br><c=@reminder>Les effets suivants neutralisent la cible : Étourdissement, Stupeur, Repoussement, Attraction, Renversement, Noyade, Flottaison, Projection, Incitation ou Peur.</c>"
+"85";"Vendre objets"
+"86";"%str4% %str1%, à la demande de vos alliés, le Conseil des arcanes de Rata Sum a lancé une expédition pour réactiver le portail asura de l'Œil du Nord. J'ai le plaisir de vous informer que la porte principale est désormais reliée au réseau moderne et qu'un point de passage a été établi. Les détails permettant l'accès et un repère géographique sont joints à ce message.
+
+
+
+Venez découvrir les lieux dès que vous le souhaitez !
+
+
+
+– Mécaniste Ninn"
+"87";"Rang de mission final : centurion"
+"88";"[lbracket]Lien de portail[rbracket]"
+"89";"Les passions de Faren, par Snargle Griffe-d'or"
+"90";"[M]Titre[pl:"Titres"] : élite du 2c2"
+"91";"Double-cliquez pour ouvrir. Contient un sac à 10 emplacements et 3 augmentations d'explorateur."
+"92";"Entrée explosive"
+"93";"Journal d'Arngirn Soigneforge"
+"94";"Double-cliquez pour ouvrir. Contient des heaumes plus puissants que ceux de niveau 5 standard."
+"95";"[M]Tonique de santé"
+"96";"Stupeur contre utilisation de compétence"
+"97";"Journal d'Arngirn Soigneforge"
+"98";"Permet d'obtenir la teinture lion vert exclusive aux coffres du Lion noir."
+"99";"[M]Combo[pl:"Combos"] de sac à dos et deltaplane à ailes de marche-rêve"
+"100";"Sceptre dur comme pierre"
+"101";"Espadrilles faites-maison"
+"102";"Détermination éblouissante"
+"103";"Faux du marche-rêve"
+"104";"[M]Heaume puissant amélioré"
+"105";"Armes d'aile noire"
+"106";"L'apparence de poigne de Maguuma est disponible !"
+"107";"<c=@flavor>"Il commence à y avoir des tensions entre les membres de la troupe. Il faut faire taire les murmures."</c>"
+"108";"Double-cliquez pour ouvrir. Contient une sélection d'armes puissantes améliorées de niveau 10, 3 sélections de déverrouillage de teinture, 5 charges de transmutation et un laissez-passer de la Terrasse royale de 2 semaines."
+"109";"[F]Sélection d'arme puissante améliorée de niveau 10"
+"110";"CHAPITRE 35
+
+"Ne va pas t'imaginer que je n'ai rien remarqué", dit le Commandant du Pacte, et votre cœur tressaille à ses paroles. "Tu n'as jamais hésité à m'accompagner au-devant du danger. Tu as été d'une aide cruciale contre les trépassés et les mordrems. Je ne sais pas ce que je ferais sans toi."
+
+Il se tait un instant. Ces éloges devraient vous combler de fierté, vous le savez bien. Mais une fois de plus, il ne vous a fait venir que pour des raisons strictement professionnelles. Le silence se prolonge, sans que vous parveniez à dire ce que vous avez sur le cœur, et le désespoir vous envahit un peu plus à chaque seconde.
+
+Mais finalement, le Commandant se rapproche de vous. "J'ai aussi remarqué la façon que tu as de me regarder." Vous sentez la chaleur de son corps. "Depuis le premier jour."
+
+"Alors, aujourd'hui", poursuit-il en prenant votre main, "j'aimerais te proposer de sceller... un autre genre de pacte. Un pacte pour la vie. Entre toi et moi."
+
+Comme si elle avait attendu ce signal, une nuée de mouettes aussi blanches que la neige prend son envol."
+"111";"Vie éternelle"
+"112";"Cape de rôdeur des abysses désormais disponible !"
+"113";"CHAPITRE 35
+
+"Ne va pas t'imaginer que je n'ai rien remarqué", dit la Commandante du Pacte, et votre cœur tressaille à ses paroles. "Tu n'as jamais hésité à m'accompagner au-devant du danger. Tu as été d'une aide cruciale contre les trépassés et les mordrems. Je ne sais pas ce que je ferais sans toi."
+
+Elle se tait un instant. Ces éloges devraient vous combler de fierté, vous le savez bien. Mais une fois de plus, elle ne vous a fait venir que pour des raisons strictement professionnelles. Le silence se prolonge, sans que vous parveniez à dire ce que vous avez sur le cœur, et le désespoir vous envahit un peu plus à chaque seconde.
+
+Mais finalement, la Commandante se rapproche de vous. "J'ai aussi remarqué la façon que tu as de me regarder." Vous sentez la chaleur de son corps. "Depuis le premier jour."
+
+"Alors, aujourd'hui", poursuit-elle en prenant votre main, "j'aimerais te proposer de sceller... un autre genre de pacte. Un pacte pour la vie. Entre toi et moi."
+
+Comme si elle avait attendu ce signal, une nuée de mouettes aussi blanches que la neige prend son envol."
+"114";"Parler à Snargle Griffe-d'or."
+"115";"Cape[pl:"Capes"] toxique[pl:"toxiques"]"
+"116";"Cape toxique"
+"117";"Cape de canaille"
+"118";"Vous obtenez un avantage basé sur votre affinité lorsque vous neutralisez un ennemi."
+"119";"[M]Plastron puissant amélioré"
+"120";"Les assauts des bêtes de glace ont cessé, ce qui a offert aux gardes un répit dont ils avaient grandement besoin. Mais je sens que l'agitation règne parmi eux. Il y a eu des conflits internes. Nous avons envoyé l'un des fauteurs de troubles devant les prêtres, dans l'espoir qu'ils puissent l'apaiser, mais rien de ce qu'ils ont fait n'a semblé avoir d'effet sur lui. Quand il a été relâché, il est retourné à son poste en silence, comme s'il ne s'était rien passé.
+
+L'atmosphère est glaciale. Nous parlons peu. Il y a quelque chose qui brûle en nous.
+
+Ce n'est que temporaire. Nous nous sommes habitués à la pierre, et nous devons en faire de même avec le feu."
+"121";"Broigne d'astreinte"
+"122";"Fuseau de canaille"
+"123";"Journal d'Arngirn Soigneforge"
+"124";"Élémentaire d'eau invoqué"
+"125";"L'esquive supprime les altérations."
+"126";"L'apparence de houppelande de Maguuma est disponible !"
+"127";"Rendez-vous à l'Œil du Nord."
+"128";"Augmentation[s] de découverte de magie"
+"129";"Rang de mission final : Imperator"
+"130";"Double-cliquez pour ouvrir. Contient une note de portail donnant droit à 5 téléportations gratuites à destination des cartes pour débutants, 1000 unités de karma et 3 augmentations héroïques."
+"131";"Double-cliquez pour ouvrir. Contient un déverrouillage de teinture pour l'un des ensembles de couleurs choisis."
+"132";"À déverrouiller en terminant le parcours de récompenses d'apparence de razziafelis destrier de guilde."
+"133";"Quand ils parlent de notre sort, ce n'est qu'un moyen de justifier la corruption à laquelle ils se sont laissés aller. Notre transformation ne fait pas de nous des "frères". Mis à part notre race, nous n'avons rien en commun avec eux. Ils sont dans l'erreur. Ils ne nous représentent pas.
+
+Il n'y a rien au-dessus du Sommet.
+
+Au fil des jours, je ressens de plus en plus l'étreinte de la pierre. Le moindre mouvement demande un grand effort. Si tel est mon destin, je le contrôlerai. S'il n'est pas possible d'annuler le rituel, nous trouverons au moins un moyen de l'exploiter au mieux.
+
+J'ai envoyé des éclaireurs à des endroits stratégiques. Nous devons apprendre tout ce que nous pouvons sur l'annulation de la transformation. C'est le seul moyen."
+"134";"Munitions récupérées"
+"135";"[F]Apparence[pl:"Apparences"] de sceptre dur comme pierre"
+"136";"[F]Trancheuse de la Voix brisée%str2%%str1%%str3%%str4%"
+"137";"Parcours de récompenses d'apparence de razziafelis destrier de guilde"
+"138";"Les apparences priment sur l'aspect initial de votre équipement et n'ont pas de statistiques propres."
+"139";"Koss parle de Koss (non censuré), par Snargle Griffe-d'or"
+"140";"Journal 1 (Forge de l'acier)"
+"141";"[lbracket]Services[rbracket]"
+"142";"Une version améliorée de l'armure de canaille standard."
+"143";"Journal 3 (Forge de l'acier)"
+"144";"Élémentaire d'air invoqué"
+"145";"[F]Apparence[pl:"Apparences"] de bâton faux du marche-rêve"
+"146";"Cape de rôdeur des abysses"
+"147";"<c=@flavor>Une cité interdite. Des amours interdites.</c>
+
+Objet trouvé dans l'Arche du Lion."
+"148";"[M]Mousquet de la Voix brisée%str2%%str1%%str3%%str4%"
+"149";"Retenue"
+"150";"Véritablement élégant"

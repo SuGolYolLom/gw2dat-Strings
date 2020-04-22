@@ -1,0 +1,107 @@
+"0";"Improved Caer Breastplate"
+"1";"Fort Cadence Garb"
+"2";"Hello, %str1%,
+
+You've made quite a name for yourself around Butcher's Block. In fact, among some, your name is now synonymous with meat. And that's a high honor, indeed. 
+
+— Lakor Grizzlemouth"
+"3";"Lakor Grizzlemouth"
+"4";"The Celebration Continues"
+"5";"Good job! If the dredge weren't worried about us before, you've certainly given them reason to now.
+
+I owe you one.
+
+— Gon Rageshot"
+"6";"Gon Rageshot"
+"7";"Another Victory for Iron."
+"8";"It's talent like yours that makes my job a joy. While my quarry workers constantly complain, You were unflagging in your efforts. That's all a quarry operator could ask for. 
+
+Thank you. 
+
+— Wagh Nearshot"
+"9";"Number of narrow misses you've survived."
+"10";"Arcane Lightning"
+"11";"MONSTER ONLY Drake Unarmed"
+"12";"Circus Charriucus"
+"13";"Launch a deployable net wall to immobilize foes caught within."
+"14";"Sector Zuhl"
+"15";"<c=@flavor>"Being quiet means staying alive."<br>—Morina</c>"
+"16";"Maintain security around Almuten Mansion."
+"17";"Deaths avoided"
+"18";"Used to gather Blueberries, Button Mushrooms, Onions, Carrots, Herb Seedlings, Potatoes, and Lettuce."
+"19";"Copper Harvesting Sickle"
+"20";"Used to chop down Aspen Saplings, Kertch Saplings, and Ekku saplings."
+"21";"Copper Logging Axe"
+"22";"Used to mine Copper Ore."
+"23";"Copper Mining Pick"
+"24";"Trickster's Shoes"
+"25";"Arcane Resurrection"
+"26";"Grave Pull"
+"27";"Slam"
+"28";"Anchor"
+"29";"Furious Chop"
+"30";"Close Call"
+"31";"%str1% is a stopping the infection!"
+"32";"Broken Equipment"
+"33";"I am writing to pass along to you the enormous gratitude of the villagers of Smokestead for your recent help. Your efforts in aiding our attempts to regain control of the vineyards outside Smokestead Village were an inspiration to those of us who were beginning to weary of the seemingly endless conflict. 
+
+Because of your help, we now feel safe enough to continue our search for an answer to the ghost problem that afflicts this area. When we succeed, I will make certain that your part in the victory is well known. 
+
+—Bryllana Deepmind"
+"34";"Number of infected killed."
+"35";"Mansion<br>(Ground Floor)"
+"36";"When you're close to them, revive a fallen ally with [lbracket]%str1%[rbracket]."
+"37";"Low"
+"38";"Medium"
+"39";"High"
+"40";"Disband"
+"41";"%str1% has invited you to a tournament."
+"42";"Cost:"
+"43";"Infected killed"
+"44";"Infected Kill"
+"45";"%str1% is holding out!"
+"46";"Number of kills with the Survivor's Bow."
+"47";"Survivor's bow kills"
+"48";"Healing Seed"
+"49";"%str1% is spreading the infection!"
+"50";"Number of survivors you've killed."
+"51";"Preview Weapon"
+"52";"Valiant,
+I continue to be impressed with your progress—word just reached the Grove about your order's successful effort to recruit the quaggan. I've always been interested in the warrior's rage these pacifists exhibit when they fight, and now that they've joined our cause, I look forward to seeing it in person. If they are as fierce as I've heard, it will be good to have them with us against the dragons.
+It is a shame that their village was destroyed, but at this stage I firmly believe lives are more important than property. When the dragons are defeated, we'll turn our attention to rebuilding, but first things first.
+I'm also doing my part to marshal resistance to the dragons. I still intend to smooth things over between the members of Destiny's Edge and reforge us into the great fighting machine we once were, but it's a slow, difficult process that is complicated by the strong personalities, egos, and neuroses involved. I won't give up, though, and neither should you.
+May the Pale Tree guide you,
+—Caithe"
+"53";"Recruiting the Quaggans"
+"54";"Inflict weakness and bleeding on foes in the target area."
+"55";"Survivers infected"
+"56";"Infected"
+"57";"%str1% is the ultimate contagion!"
+"58";"Times you've killed the final survivor."
+"59";"Last survivor killed"
+"60";"Contagion"
+"61";"Throw this energy matrix. Damages foes. Provide's power to Mibba's golems and devices."
+"62";"Throw Energy"
+"63";"Show In-world Bubbles"
+"64";"Revive"
+"65";"Permeating Wrath"
+"66";"+125 Power
++75 Precision
++5%% Critical Damage
++45 Vitality"
+"67";"+125 Power
++75 Vitality
++75 Toughness"
+"68";"+125 Precision
++75 Condition Damage
++45 Power
++45 Vitality"
+"69";"+125 Power
++75 Toughness
++5%% Critical Damage
++45 Healing"
+"70";"Apply a random condition to your foe."
+"71";"Trick or Treat"
+"72";"Anchor Sweep"
+"73";"Large Skull[s]"
+"74";"Gates of Maguuma"

@@ -1,0 +1,1108 @@
+"0";"[F]Armure vaillante"
+"1";"[M]Manteau de conservateur"
+"2";"[M]Manteau de pourfendeur"
+"3";"[M]Manteau vaillant"
+"4";"[F]Veste de conservateur"
+"5";"[M]Gilet de pourfendeur"
+"6";"[M]Pourpoint vaillant"
+"7";"[M]Haubert de conservateur"
+"8";"[PF]Jambières d'inquisiteur"
+"9";"[PF]Jambières de pourfendeur"
+"10";"Sac[s] de fournitures d'artisanat de débutant"
+"11";"[PF]Jambières vaillantes"
+"12";"[PF]Chausses vaillantes"
+"13";"Sac[s] de fournitures d'artisanat d'adepte"
+"14";"Sac[s] de fournitures d'artisanat d'expert"
+"15";"Sac[s] de fournitures d'artisanat d'apprenti"
+"16";"Sac[s] de fournitures d'artisanat de maître"
+"17";"Sac[s] de fournitures d'artisanat de novice"
+"18";"[M]Pantalon d'inquisiteur"
+"19";"Bouclier[s] en acier robuste[s]"
+"20";"Sac[s] de fournitures d'artisanat de compagnon"
+"21";"[PF]Chausses d'inquisiteur"
+"22";"[PF]Chausses de pourfendeur"
+"23";"[M]Pantalon vaillant"
+"24";"[M]Pantalon de pourfendeur"
+"25";"Dague en acier chasseuse"
+"26";"Pistolet[s] en acier ravageur[s]"
+"27";"Focus rajeunissant"
+"28";"Torche[s] ravageuse[s]"
+"29";"Cor[s] de guerre rajeunissant[s]"
+"30";"Les lanières les plus confortables disponibles."
+"31";"Lanières de sac à dos de préparation"
+"32";"((300070))"
+"33";"Double-cliquez pour utiliser. Déverrouille la capacité à devenir commandant et à utiliser l'icône rouge correspondante. Lié au compte."
+"34";"Manuel de commandant rouge"
+"35";"Double-cliquez pour utiliser. Déverrouille la capacité à devenir commandant et à utiliser l'icône violette correspondante. Lié au compte."
+"36";"Manuel de commandant violet"
+"37";"Double-cliquez pour utiliser. Déverrouille la capacité à devenir commandant et à utiliser l'icône jaune correspondante. Lié au compte."
+"38";"Manuel de commandant jaune"
+"39";"Rune[pl:"Runes"] du trappeur supérieure[pl:"supérieures"]"
+"40";"du trappeur"
+"41";"Cachet[pl:"Cachets"] de purification supérieur[pl:"supérieurs"]"
+"42";"de purification"
+"43";"survivant[f:"survivante"][pl:"survivants"][pf:"survivantes"]"
+"44";"vagabond[f:"vagabonde"][pl:"vagabonds"][pf:"vagabondes"]"
+"45";"déserteur[f:"désertrice"][pl:"déserteurs"][pf:"désertrices"]"
+"46";"Cachet[pl:"Cachets"] de cruauté supérieur[pl:"supérieurs"]"
+"47";"de cruauté"
+"48";"apostat[f:"apostate"][pl:"apostats"][pf:"apostates"]"
+"49";"abandonné[f:"abandonnée"][pl:"abandonnés"][pf:"abandonnées"]"
+"50";"Rune[pl:"Runes"] de rayonnement supérieure[pl:"supérieures"]"
+"51";"de rayonnement"
+"52";"Cachet[pl:"Cachets"] d'incapacité supérieur[pl:"supérieurs"]"
+"53";"d'incapacité"
+"54";"Durée d'avantage +10%%. Augmente la durée des auras que vous conférez de +33%%."
+"55";"Rune[pl:"Runes"] de dérobade supérieure[pl:"supérieures"]"
+"56";"de dérobade"
+"57";"Les altérations que vous infligez durent 10%% plus longtemps."
+"58";"Férocité +125. Vous obtenez Rapidité pendant 6 secondes si vous esquivez une attaque. <c=@reminder> Temps de recharge : 1 seconde.</c>"
+"59";"Cor de chef de meute"
+"60";"[null]"
+"61";"[null]"
+"62";"Focus résistant"
+"63";"Focus néfaste"
+"64";"Pistolet néfaste"
+"65";"Dague puissante"
+"66";"Focus curatif"
+"67";"Arc court curatif"
+"68";"Bâton curatif"
+"69";"Pistolet puissant"
+"70";"Fusil puissant"
+"71";"Bouclier résistant"
+"72";"Espadon puissant"
+"73";"Torche néfaste"
+"74";"Bâton puissant"
+"75";"Dague curative"
+"76";"Bâton néfaste"
+"77";"Cor de guerre curatif"
+"78";"Dague néfaste"
+"79";"Les guildes ne disposent plus de chapitres en fonction du monde, ni de délimitations du monde. Les points d'influence, les distinctions, les améliorations et les objets en banque ont été fusionnés. Comme prévu, nous avons achevé la construction de toutes les améliorations de votre file d'attente et avons remboursé les doubles.
+
+– Le personnel d'ArenaNet"
+"80";"Chapitres de guilde harmonisés"
+"81";"Salutations, aventurier[f:"aventurière"] !
+
+Un[f:"Une"] explorateur[f:"exploratrice"] comme vous a sûrement accumulé moult souvenirs au fil de ses voyages. Vous serez ravi[f:"ravie"] d'apprendre que vous pourrez désormais classer ces objets plus facilement à l'aide de nouveaux succès de collections. Si vous avez besoin de plus d'informations, passez donc me voir à l'Arche du Lion.
+
+– Rednax"
+"82";"Bonjour cher[f:"chère"] ami[f:"amie"] ! D'après ce que j'ai pu entendre, vous avez fait forte impression sur les habitants de cette ville. Je dois avouer que vos progrès sont pour moi une vraie fierté. Je vous suggère de poursuivre vos efforts dans la Vallée de la reine et de trouver davantage de gens dans le besoin. Faites cela et vous vous forgerez une réputation en un rien de temps.
+— Kella"
+"83";"[F]Kella"
+"84";"Vous en avez fait du chemin"
+"85";"Héros[f:"Héroïne"] de Shaemoor,
+
+Par ordre de la reine Jennah de Kryte, vous êtes formellement convoqué[f:"convoquée"] auprès de sa royale Majesté. Vous êtes invité[f:"invitée"] à vous rendre dès que possible à la salle du trône du Promontoire divin. Dans l'attente de notre prochaine rencontre, puissent les Six dieux veiller sur vous en toutes circonstances.
+
+– Comtesse Anise"
+"86";"Hey, good work! I'm awfully proud of you.
+
+You've proven that you can stand up and fight for yourself.
+
+You've also proven you can tend your own wounds, even in an unexpected situation, which tells me you're ready to face the challenges of combat.
+
+Now it is time for you to show the courage to walk away from my training grounds and into the unknown.
+
+Shadowy creatures have stolen the luminous orbs that Kella needs to light the island, and she needs them returned to her. I'm sure you can handle it. It'll be a good exercise for you!
+
+—Signe
+
+P.S. I've sent some money along with this letter. Don't forget to <c=@quest>take all</c> of the coins out of the envelope!"
+"87";"Signe"
+"88";"Entraînement au combat : Terminé"
+"89";"Une minute, %str1% ! Je tiens à ce que ce soit parfaitement clair : pour faire une roulade d'esquive, appuyez deux fois sur vos touches de déplacement. Allez, arrêtez tout et faites moi une belle roulade !
+
+Voilà ! C'est ça que je veux voir ! Travaillez ce mouvement et vous terrasserez même le plus agile de vos adversaires.
+
+— Hroulan"
+"90";"Ça roule"
+"91";"Merci de votre aide, %str1%. Je peux maintenant aller dans ma grange sans me prendre dans les toiles d'araignée. Si jamais vous ne savez pas quoi faire, venez donc me voir à ma ferme.
+
+— Tolona Ferbétaille"
+"92";"[F]Eleveuse Tolona Ferbétaille"
+"93";"Tout va bien à la ferme"
+"94";"Salut, et merci d'avoir débarrassé notre site d'entraînement des nuisibles. Je n'ai pas vu un seul skritt depuis ! Je ferai en sorte que les légions apprennent votre excellent travail.
+
+— Thegren Maxillaire"
+"95";"[M]Thegren Maxillaire"
+"96";"Adieu, sales bestioles"
+"97";"Grâce à votre aide à l'armurerie, nous aurons bientôt fini de remettre les lieux en état. Si vous n'aviez pas été là pour vous occuper des obus de mortier et de ces vermines de la Légion de la Flamme, nous aurions dû prendre notre mal en patience jusqu'à la fin des temps.
+
+Je sais que vous avez certainement dû donner beaucoup de votre personne sur le front, et l'engagement dont vous avez fait preuve ici n'en est que plus méritoire.
+
+Les soldats de votre trempe font honneur aux légions.
+
+– Crucibis Souderon"
+"98";"((300159))"
+"99";"You work hard, and you work fast. Well done. Now that this mess is all cleaned up, I've got a reward for you. Come see me before moving onto your next task.
+
+Also, don't forget to "Take All" of the coins I've attached with this letter.
+
+—Legionnaire Lutha Oreseeker"
+"100";"Legionnaire Lutha Oreseeker"
+"101";"Collect your earnings."
+"102";"You completed the task I requested of you, and you did it efficiently. Now that the general disarray is somewhat alleviated, I'd like to reward you with some special items I have for sale. Stop by to see me before you move on.
+
+Oh, and don't forget to "Take All" of the coins I've attached with this missive.
+
+—Krewe Leader Ammi"
+"103";"Krewe Leader Ammi"
+"104";"Receive your reward."
+"105";"Les fermiers m'ont exprimé toute leur gratitude pour l'aide que vous leur avez apportée. Sans ces satanés termites, leurs champs se portent beaucoup mieux. Et en tant que Protectrice, je tiens également à vous remercier du fond du cœur. Vous nous avez rendu un fier service.
+
+— Protectrice Delilah"
+"106";"[F]Protectrice Delilah"
+"107";"Remerciements des fermiers d'Astorea"
+"108";"Félicitations ! Vous avez gagné un coffre de récompense de tournoi. Allez voir l'historien des combats pendant le prochain match pour récupérer votre dû. Les récompenses non réclamées seront perdues d'ici la fin du prochain match."
+"109";"Récompenses de tournoi McM
+"
+"110";"Défendez ça !"
+"111";"Attaquez ça !"
+"112";"- Triomphez d'ennemis pour permettre à votre équipe de gagner quelques points."
+"113";"– La première équipe à atteindre la limite de score gagne."
+"114";"Iles de Tutelle"
+"115";"Iles de Tutelle"
+"116";"Crystalline Grotto"
+"117";"Deep in the Crystalline Grotto"
+"118";"La clé enchantée se trouve quelque part en Kryte."
+"119";"Weaponsmith"
+"120";"Chasseur"
+"121";"Artificer"
+"122";"Forgeron d'armures"
+"123";"Travailleur du cuir"
+"124";"Tailor"
+"125";"Bijoutier"
+"126";"Chef"
+"127";"Contient les miniatures suivantes :
+• mini-ourson noir
+• mini-petit hippopotame
+• mini-chaton blanc
+• mini-lionceau
+• mini-poussin moa
+
+Chaque miniature peut être activée depuis votre inventaire afin de vous suivre partout dans le monde."
+"128";"Contient les miniatures suivantes :
+• mini-jeune arctodus
+• mini-ourson polaire
+• mini-jeune jaguar
+• mini-chaton roux
+• mini-porcelet
+
+Chaque miniature peut être activée depuis votre inventaire afin de vous suivre partout dans le monde."
+"129";"Casernes bleues"
+"130";"Golem bleu"
+"131";"Forge mystique"
+"132";"Casernes rouges"
+"133";"[M]Trébuchet[s]"
+"134";"[M]Instructeur[f:"Instructrice"] des collections"
+"135";"[lbracket]Instructions[rbracket]"
+"136";"À le baril !"
+"137";"Événement à proximité"
+"138";"Secteur de carte inexploré"
+"139";"Point de ralliement de l'Equipe rouge"
+"140";"Point de ralliement de l'Equipe bleue"
+"141";"Point de ralliement de l'Equipe rouge"
+"142";"Entrance Grotto"
+"143";"((300327))"
+"144";"Coups fatals enregistrés."
+"145";"((300329))"
+"146";"((300330))"
+"147";"((300331))"
+"148";"((300332))"
+"149";"((300333))"
+"150";"((300334))"
+"151";"((300335))"
+"152";"((300336))"
+"153";"((300337))"
+"154";"((300338))"
+"155";"((300339))"
+"156";"((300340))"
+"157";"((300341))"
+"158";"((300342))"
+"159";"((300343))"
+"160";"((300344))"
+"161";"((300345))"
+"162";"((300346))"
+"163";"((300347))"
+"164";"((300348))"
+"165";"((300349))"
+"166";"((300350))"
+"167";"((300351))"
+"168";"<c=@reminder>Déverrouillez ce coup de grâce en l'achetant dans l'onglet Améliorations de la boutique aux gemmes.</c>"
+"169";"<c=@reminder>Ce coup de grâce n'est disponible qu'auprès de la Compagnie commerciale du Lion noir pendant des offres à durée limitée.</c>"
+"170";"<c=@reminder>Déverrouillez ce coup de grâce de rang JcJ en gagnant des points de rang et en augmentant votre rang JcJ.</c>"
+"171";"<c=@reminder>Déverrouillez ce coup de grâce en jouant en Monde contre Monde.</c>"
+"172";"Tuer"
+"173";"Parcours de récompenses glorieux"
+"174";"Parcours de récompenses de la Jungle de Maguuma"
+"175";"Parcours de récompenses de la Kryte"
+"176";"Parcours de récompenses de la Chaîne des Cimefroides"
+"177";"Parcours de récompenses des Ruines d'Orr"
+"178";"Parcours de récompenses d'Ascalon"
+"179";"Iles de Tutelle"
+"180";"((300469))"
+"181";"Dégâts contre les créatures d'Halloween +3%%
+Expérience à chaque ennemi tué +10%%"
+"182";"Dégâts contre les créatures d'Halloween +5%%
+Expérience à chaque ennemi tué +10%%"
+"183";"Dégâts contre les créatures d'Halloween +7%%
+Dégâts subis contre les créatures d'Halloween -4%%
+Expérience à chaque ennemi tué +10%%"
+"184";"Dégâts contre les créatures d'Halloween +8%%
+Dégâts subis contre les créatures d'Halloween -6%%
+Expérience à chaque ennemi tué +10%%"
+"185";"Dégâts contre les créatures d'Halloween +9%%
+Dégâts subis contre les créatures d'Halloween -8%%
+Expérience à chaque ennemi tué +10%%"
+"186";"Dégâts contre les créatures d'Halloween +10%%
+Dégâts subis contre les créatures d'Halloween -10%%
+Expérience à chaque ennemi tué +10%%"
+"187";"Super vitesse"
+"188";"Régénère votre santé."
+"189";"Premiers secours"
+"190";"Écrasement de masse"
+"191";"Pluie de météores"
+"192";"Attaque tout en puissance qui enfonce la cible. Inflige des dégâts supplémentaires aux portes, repousse les ennemis."
+"193";"Bélier"
+"194";"Feu de joie"
+"195";"Sol gelé"
+"196";"Explosion de flammes"
+"197";"Fouettage de tentacule"
+"198";"Coup de poing affaiblissant"
+"199";"Vitesse du vent"
+"200";"Vagues impétueuses"
+"201";"Éclair étourdissant"
+"202";"Barrage de flammes"
+"203";"Trait d'éclair"
+"204";"Plongeon"
+"205";"Tir de l'ombre"
+"206";"Rugissement"
+"207";"Donne du venin à vos alliés"
+"208";"Entaille"
+"209";"Aspersion de venin"
+"210";"Coups rapides"
+"211";"Mordre"
+"212";"((300586))"
+"213";"Durée du Symbole"
+"214";"<c=@abilitytype>Symbole.</c> Vous créez un symbole qui confère Protection à vous et vos alliés."
+"215";"Symbole de protection"
+"216";"<c=@abilitytype>Chaîne.</c> Vous pilonnez votre ennemi."
+"217";"Coup de marteau"
+"218";"<c=@abilitytype>Chaîne.</c> Vous frappez votre ennemi."
+"219";"Balayage au marteau"
+"220";"Ordonnez à votre élémentaire de glace de geler le sol autour de lui, ce qui inflige Givre aux ennemis qui entrent dans la zone."
+"221";"Ordonnez à votre élémentaire d'air de conférer Rapidité aux alliés à proximité et de supprimer Infirmité, Immobilisation et Givre."
+"222";"Ordonnez à votre élémentaire d'air de lancer un éclair étourdissant sur sa cible."
+"223";"<c=@abilitytype>Glyphe.</c> Vous invoquez un élémentaire en fonction de votre affinité."
+"224";"Ordonnez à votre élémentaire de glace d'infliger Repoussement à la cible et de libérer une vague qui soigne les alliés et dissipe une altération."
+"225";"Ordonnez à votre élémentaire de terre d'asséner un coup de poing puissant qui inflige Faiblesse à sa cible."
+"226";"Ordonnez à votre élémentaire de terre de piétiner le sol, ce qui confère Protection aux alliés et inflige Infirmité aux ennemis."
+"227";"[M]Piétinement[s]"
+"228";"Vous ordonnez à votre élémentaire de feu de bombarder sa cible, d'entourer les ennemis de décharges incandescentes et de déclencher une explosion enflammée autour de lui."
+"229";"Vous ordonnez à votre élémentaire de feu d'invoquer une explosion de flammes qui confère Pouvoir aux alliés et inflige Brûlure aux ennemis."
+"230";"<c=@abilitytype>Signe passif :</c> robustesse améliorée.<br><c=@abilitytype>Signe actif :</c> inflige Immobilisation et Saignement à votre ennemi."
+"231";"<c=@abilitytype>Élixir.</c> L'Élixir R recharge votre endurance et supprime les effets de l'altération Immobilisation."
+"232";"<c=@abilitytype>Élixir.</c> Lance un Élixir C qui convertit les altérations en avantages pour les alliés."
+"233";"Active vos chausses glissantes et vous permet de vous déplacer plus rapidement."
+"234";"<c=@abilitytype>Élixir.</c> Brise la fiole, ce qui convertit les altérations en avantages pour les alliés à proximité de vous."
+"235";"<c=@abilitytype>Gadget.</c> Active votre D.E.A. qui vous soigne après un bref laps de temps. Si vous subissez des dégâts mortels alors que votre D.E.A. est actif, vous récupérez une grande quantité de santé, le D.E.A. est désactivé et les altérations sont dissipées."
+"236";"Soigne au terme de sa durée d'existence. Si des dégâts mortels sont reçus, les dégâts sont annulés, vous récupérez une grande quantité de santé et vos altérations sont dissipées."
+"237";"Piétinement"
+"238";"Maintenir enfoncé pour tirer au trébuchet. Maintenir enfoncé pour augmenter la portée de tir."
+"239";"Tir"
+"240";"Vous quittez de force l'apparence de moussecœur."
+"241";"<c=@abilitytype>Méditation.</c> Votre intense concentration vous rend invulnérable et recharge vos vertus."
+"242";"Dégâts de marteau"
+"243";"Dégâts de symbole"
+"244";"Nombre de cibles (marteau)"
+"245";"Nombre de cibles (symbole)"
+"246";"<c=@abilitytype>Symbole.</c> Vous tracez au sol un symbole mystique qui confère Protection à vous et vos alliés."
+"247";"Empalement"
+"248";"Vous commandez à l'Arc de la vérité de lancer un barrage de flèches curatives à un endroit."
+"249";"Vous commandez au Bouclier du vengeur de former un dôme de protection, puis de le briser en se projetant sur les ennemis pour les affaiblir."
+"250";"Libère un ruban de lumière qui virevolte d'un allié et d'un ennemi à proximité à l'autre. Il supprime une altération de chaque allié et inflige Aveuglement à chaque ennemi touché."
+"251";"Barrage"
+"252";"<c=@abilitytype>Méditation.</c> Vous effectuez une Foulée de l'ombre jusqu'à la zone ciblée et soignez les alliés à proximité. Si aucun allié n'est présent dans la zone ciblée, vous n'effectuerez pas de Foulée de l'ombre."
+"253";"Bonus d'expérience par mise à mort de +1%%"
+"254";"Vous bénéficiez de Représailles lorsque vous êtes touché[f:"touchée"]. Dégâts par altération subis réduits de 10%%. <c=@reminder>(Temps de recharge : 1 s)</c>"
+"255";"Supprime 3 altérations lorsque vous changez d'arme en combat pour équiper celle-ci. <c=@reminder>(Temps de recharge : 9 secondes)</c>"
+"256";"Inflige Infirmité à un ennemi pendant 2 secondes si vous le frappez par le côté. <c=@reminder>(Temps de recharge : 5 secondes)</c>"
+"257";"Vous obtenez une charge qui augmente de +10 votre Férocité à chaque ennemi tué, cinq charges si vous tuez un joueur ennemi <c=@reminder>(25 charges maximum, effet annulé lorsque vous êtes à terre).</c><br><c=@reminder>(Un seul cachet à capacité cumulable peut être actif à la fois)</c>"
+"258";"Concentration +100
+Robustesse +70
+Expérience à chaque ennemi tué +10%%"
+"259";"Chance d'obtenir Pouvoir lorsque vous tuez un ennemi 20%%
+Expérience à chaque ennemi tué +10%%"
+"260";"Chance d'obtenir Pouvoir lorsque vous tuez un ennemi 30%%
+Expérience à chaque ennemi tué +10%%"
+"261";"Chance d'obtenir Pouvoir lorsque vous tuez un ennemi 60%%
+Puissance +50
+Expérience à chaque ennemi tué +10%%"
+"262";"Chance d'obtenir Pouvoir lorsque vous tuez un ennemi 80%%
+Puissance +60
+Expérience à chaque ennemi tué +10%%"
+"263";"Chance d'obtenir Pouvoir lorsque vous tuez un ennemi 100%%
+Puissance +70
+Expérience à chaque ennemi tué +10%%"
+"264";"Puissance +40 pendant 30 secondes à chaque ennemi tué
+Expérience à chaque ennemi tué +10%%"
+"265";"Puissance +60 pendant 30 secondes à chaque ennemi tué
+Expérience à chaque ennemi tué +10%%"
+"266";"Puissance +20
+Expérience à chaque ennemi tué +10%%"
+"267";"Puissance +12"
+"268";"Puissance +30
+Expérience à chaque ennemi tué +10%%"
+"269";"Puissance +50
+Dégâts par altération +40
+Expérience à chaque ennemi tué +10%%"
+"270";"Puissance +60
+Dégâts par altération +50
+Expérience à chaque ennemi tué +10%%"
+"271";"Puissance +80
+Dégâts par altération +60
+Expérience à chaque ennemi tué +10%%"
+"272";"Puissance +100
+Dégâts par altération +70
+Expérience à chaque ennemi tué +10%%"
+"273";"Puissance +50
+Précision +40
+Expérience à chaque ennemi tué +10%%"
+"274";"Puissance +60
+Précision +50
+Expérience à chaque ennemi tué +10%%"
+"275";"Puissance +80
+Précision +60
+Expérience à chaque ennemi tué +10%%"
+"276";"Puissance +100
+Précision +70
+Expérience à chaque ennemi tué +10%%"
+"277";"Puissance +50
+Vitalité +40
+Expérience à chaque ennemi tué +10%%"
+"278";"Puissance +60
+Vitalité +50
+Expérience à chaque ennemi tué +10%%"
+"279";"Puissance +80
+Vitalité +60
+Expérience à chaque ennemi tué +10%%"
+"280";"Puissance +100
+Vitalité +70
+Expérience à chaque ennemi tué +10%%"
+"281";"Précision +20
+Expérience à chaque ennemi tué +10%%"
+"282";"Précision +30
+Expérience à chaque ennemi tué +10%%"
+"283";"Vitalité +20
+Expérience à chaque ennemi tué +10%%"
+"284";"Vitalité +30
+Expérience à chaque ennemi tué +10%%"
+"285";"Robustesse +20
+Expérience à chaque ennemi tué +10%%"
+"286";"Robustesse +30
+Expérience à chaque ennemi tué +10%%"
+"287";"Dégâts par altération +30
+Expérience à chaque ennemi tué +10%%"
+"288";"Guérison +20
+Expérience à chaque ennemi tué +10%%"
+"289";"Guérison +30
+Expérience à chaque ennemi tué +10%%"
+"290";"Guérison +50
+Vitalité +40
+Expérience à chaque ennemi tué +10%%"
+"291";"Guérison +60
+Vitalité +50
+Expérience à chaque ennemi tué +10%%"
+"292";"Guérison +80
+Vitalité +60
+Expérience à chaque ennemi tué +10%%"
+"293";"Guérison +100
+Vitalité +70
+Expérience à chaque ennemi tué +10%%"
+"294";"Guérison +50
+Précision +40
+Expérience à chaque ennemi tué +10%%"
+"295";"Guérison +60
+Précision +50
+Expérience à chaque ennemi tué +10%%"
+"296";"Guérison +80
+Précision +60
+Expérience à chaque ennemi tué +10%%"
+"297";"Guérison +100
+Précision +70
+Expérience à chaque ennemi tué +10%%"
+"298";"Précision +50
+Dégâts par altération +40
+Expérience à chaque ennemi tué +10%%"
+"299";"Précision +60
+Dégâts par altération +50
+Expérience à chaque ennemi tué +10%%"
+"300";"Précision +80
+Dégâts par altération +60
+Expérience à chaque ennemi tué +10%%"
+"301";"Précision +100
+Dégâts par altération +70
+Expérience à chaque ennemi tué +10%%"
+"302";"Précision +50
+Vitalité +40
+Expérience à chaque ennemi tué +10%%"
+"303";"Précision +60
+Vitalité +50
+Expérience à chaque ennemi tué +10%%"
+"304";"Précision +80
+Vitalité +60
+Expérience à chaque ennemi tué +10%%"
+"305";"Précision +100
+Vitalité +70
+Expérience à chaque ennemi tué +10%%"
+"306";"Robustesse +50
+Précision +40
+Expérience à chaque ennemi tué +10%%"
+"307";"Robustesse +60
+Précision +50
+Expérience à chaque ennemi tué +10%%"
+"308";"Robustesse +80
+Précision +60
+Expérience à chaque ennemi tué +10%%"
+"309";"Robustesse +100
+Précision +70
+Expérience à chaque ennemi tué +10%%"
+"310";"Dégâts par altération +50
+Précision +40
+Expérience à chaque ennemi tué +10%%"
+"311";"Dégâts par altération +60
+Précision +50
+Expérience à chaque ennemi tué +10%%"
+"312";"Dégâts par altération +80
+Précision +60
+Expérience à chaque ennemi tué +10%%"
+"313";"Dégâts par altération +100
+Précision +70
+Expérience à chaque ennemi tué +10%%"
+"314";"Dégâts par altération +100
+Vitalité +70
+Expérience à chaque ennemi tué +10%%"
+"315";"Dégâts par altération +80
+Vitalité +60
+Expérience à chaque ennemi tué +10%%"
+"316";"Dégâts par altération +60
+Vitalité +50
+Expérience à chaque ennemi tué +10%%"
+"317";"Dégâts par altération +50
+Vitalité +40
+Expérience à chaque ennemi tué +10%%"
+"318";"Vitalité +50
+Robustesse +40
+Expérience à chaque ennemi tué +10%%"
+"319";"Vitalité +60
+Robustesse +50
+Expérience à chaque ennemi tué +10%%"
+"320";"Vitalité +80
+Robustesse +60
+Expérience à chaque ennemi tué +10%%"
+"321";"Vitalité +100
+Robustesse +70
+Expérience à chaque ennemi tué +10%%"
+"322";"Dégâts contre les morts-vivants +3%%
+Expérience à chaque ennemi tué +10%%"
+"323";"Dégâts contre les morts-vivants +5%%
+Expérience à chaque ennemi tué +10%%"
+"324";"Dégâts contre les morts-vivants +7%%
+Dégâts subis contre les morts-vivants -4%%
+Expérience à chaque ennemi tué +10%%"
+"325";"Dégâts contre les morts-vivants +8%%
+Dégâts subis contre les morts-vivants -6%%
+Expérience à chaque ennemi tué +10%%"
+"326";"Dégâts contre les morts-vivants +9%%
+Dégâts subis contre les morts-vivants -8%%
+Expérience à chaque ennemi tué +10%%"
+"327";"Dégâts contre les morts-vivants +10%%
+Dégâts subis contre les morts-vivants -10%%
+Expérience à chaque ennemi tué +10%%"
+"328";"Dégâts contre les Centaures +3%%
+Expérience à chaque ennemi tué +10%%"
+"329";"Dégâts contre les Centaures +5%%
+Expérience à chaque ennemi tué +10%%"
+"330";"Dégâts contre les Centaures +7%%
+Dégâts subis contre les Centaures -4%%
+Expérience à chaque ennemi tué +10%%"
+"331";"Dégâts contre les Centaures +8%%
+Dégâts subis contre les Centaures -6%%
+Expérience à chaque ennemi tué +10%%"
+"332";"Dégâts contre les Centaures +9%%
+Dégâts subis contre les Centaures -8%%
+Expérience à chaque ennemi tué +10%%"
+"333";"Dégâts contre les Centaures +10%%
+Dégâts subis contre les Centaures -10%%
+Expérience à chaque ennemi tué +10%%"
+"334";"Dégâts contre les Grawls +3%%
+Expérience à chaque ennemi tué +10%%"
+"335";"Dégâts contre les Grawls +5%%
+Expérience à chaque ennemi tué +10%%"
+"336";"Dégâts contre les Grawls +7%%
+Dégâts subis contre les Grawls -4%%
+Expérience à chaque ennemi tué +10%%"
+"337";"Dégâts contre les Grawls +8%%
+Dégâts subis contre les Grawls -6%%
+Expérience à chaque ennemi tué +10%%"
+"338";"Dégâts contre les Grawls +9%%
+Dégâts subis contre les Grawls -8%%
+Expérience à chaque ennemi tué +10%%"
+"339";"Dégâts contre les Grawls +10%%
+Dégâts subis contre les Grawls -10%%
+Expérience à chaque ennemi tué +10%%"
+"340";"Dégâts contre les couvegivres +3%%
+Expérience à chaque ennemi tué +10%%"
+"341";"Dégâts contre les couvegivres +5%%
+Expérience à chaque ennemi tué +10%%"
+"342";"Dégâts contre les couvegivres +7%%
+Dégâts subis contre les couvegivres -4%%
+Expérience à chaque ennemi tué +10%%"
+"343";"Dégâts contre les couvegivres +8%%
+Dégâts subis contre les couvegivres -6%%
+Expérience à chaque ennemi tué +10%%"
+"344";"Dégâts contre les couvegivres +9%%
+Dégâts subis contre les couvegivres -8%%
+Expérience à chaque ennemi tué +10%%"
+"345";"Dégâts contre les couvegivres +10%%
+Dégâts subis contre les couvegivres -10%%
+Expérience à chaque ennemi tué +10%%"
+"346";"Dégâts contre les destructeurs +3%%
+Expérience à chaque ennemi tué +10%%"
+"347";"Dégâts contre les destructeurs +5%%
+Expérience à chaque ennemi tué +10%%"
+"348";"Dégâts contre les destructeurs +7%%
+Dégâts subis contre les destructeurs -4%%
+Expérience à chaque ennemi tué +10%%"
+"349";"Dégâts contre les destructeurs +8%%
+Dégâts subis contre les destructeurs -6%%
+Expérience à chaque ennemi tué +10%%"
+"350";"Dégâts contre les destructeurs +9%%
+Dégâts subis contre les destructeurs -8%%
+Expérience à chaque ennemi tué +10%%"
+"351";"Dégâts contre les destructeurs +10%%
+Dégâts subis contre les destructeurs -10%%
+Expérience à chaque ennemi tué +10%%"
+"352";"Dégâts contre les Ogres +3%%
+Expérience à chaque ennemi tué +10%%"
+"353";"Dégâts contre les Ogres +5%%
+Expérience à chaque ennemi tué +10%%"
+"354";"Dégâts contre les Ogres +7%%
+Dégâts subis contre les Ogres -4%%
+Expérience à chaque ennemi tué +10%%"
+"355";"Dégâts contre les Ogres +8%%
+Dégâts subis contre les Ogres -6%%
+Expérience à chaque ennemi tué +10%%"
+"356";"Dégâts contre les Ogres +9%%
+Dégâts subis contre les Ogres -8%%
+Expérience à chaque ennemi tué +10%%"
+"357";"Dégâts contre les Ogres +10%%
+Dégâts subis contre les Ogres -10%%
+Expérience à chaque ennemi tué +10%%"
+"358";"Dégâts contre les Kraits +3%%
+Expérience à chaque ennemi tué +10%%"
+"359";"Dégâts contre les Kraits +5%%
+Expérience à chaque ennemi tué +10%%"
+"360";"Dégâts contre les Kraits +7%%
+Dégâts subis contre les Kraits -4%%
+Expérience à chaque ennemi tué +10%%"
+"361";"Dégâts contre les Kraits +8%%
+Dégâts subis contre les Kraits -6%%
+Expérience à chaque ennemi tué +10%%"
+"362";"Dégâts contre les Kraits +9%%
+Dégâts subis contre les Kraits -8%%
+Expérience à chaque ennemi tué +10%%"
+"363";"Dégâts contre les Kraits +10%%
+Dégâts subis contre les Kraits -10%%
+Expérience à chaque ennemi tué +10%%"
+"364";"Dégâts contre les élémentaires +3%%
+Expérience à chaque ennemi tué +10%%"
+"365";"Dégâts contre les élémentaires +5%%
+Expérience à chaque ennemi tué +10%%"
+"366";"Dégâts contre les élémentaires +9%%
+Dégâts subis contre les élémentaires -8%%
+Expérience à chaque ennemi tué +10%%"
+"367";"Dégâts contre les élémentaires +10%%
+Dégâts subis contre les élémentaires -10%%
+Expérience à chaque ennemi tué +10%%"
+"368";"Dégâts contre les démons +3%%
+Expérience à chaque ennemi tué +10%%"
+"369";"Dégâts contre les démons +5%%
+Expérience à chaque ennemi tué +10%%"
+"370";"Dégâts contre les démons +7%%
+Dégâts subis contre les démons -4%%
+Expérience à chaque ennemi tué +10%%"
+"371";"Dégâts contre les démons +8%%
+Dégâts subis contre les démons -6%%
+Expérience à chaque ennemi tué +10%%"
+"372";"Dégâts contre les démons +9%%
+Dégâts subis contre les démons -8%%
+Expérience à chaque ennemi tué +10%%"
+"373";"Dégâts contre les démons +10%%
+Dégâts subis contre les démons -10%%
+Expérience à chaque ennemi tué +10%%"
+"374";"Dégâts contre les Fils de Svanir +3%%
+Expérience à chaque ennemi tué +10%%"
+"375";"Dégâts contre les Fils de Svanir +5%%
+Expérience à chaque ennemi tué +10%%"
+"376";"Dégâts contre les Fils de Svanir +7%%
+Dégâts subis contre les Fils de Svanir -4%%
+Expérience à chaque ennemi tué +10%%"
+"377";"Dégâts contre les Fils de Svanir +8%%
+Dégâts subis contre les Fils de Svanir -6%%
+Expérience à chaque ennemi tué +10%%"
+"378";"Dégâts contre les Fils de Svanir +9%%
+Dégâts subis contre les Fils de Svanir -8%%
+Expérience à chaque ennemi tué +10%%"
+"379";"Dégâts contre les Fils de Svanir +10%%
+Dégâts subis contre les Fils de Svanir -10%%
+Expérience à chaque ennemi tué +10%%"
+"380";"Dégâts contre l'Enqueste +3%%
+Expérience à chaque ennemi tué +10%%"
+"381";"Dégâts contre l'Enqueste +5%%
+Expérience à chaque ennemi tué +10%%"
+"382";"Dégâts contre l'Enqueste +7%%
+Dégâts subis contre l'Enqueste -4%%
+Expérience à chaque ennemi tué +10%%"
+"383";"Dégâts contre l'Enqueste +8%%
+Dégâts subis contre l'Enqueste -6%%
+Expérience à chaque ennemi tué +10%%"
+"384";"Dégâts contre l'Enqueste +9%%
+Dégâts subis contre l'Enqueste -8%%
+Expérience à chaque ennemi tué +10%%"
+"385";"Dégâts contre l'Enqueste +10%%
+Dégâts subis contre l'Enqueste -10%%
+Expérience à chaque ennemi tué +10%%"
+"386";"Dégâts contre la Légion de la Flamme +3%%
+Expérience à chaque ennemi tué +10%%"
+"387";"Dégâts contre la Légion de la Flamme +5%%
+Expérience à chaque ennemi tué +10%%"
+"388";"Dégâts contre la Légion de la Flamme +7%%
+Dégâts subis contre la Légion de la Flamme -4%%
+Expérience à chaque ennemi tué +10%%"
+"389";"Dégâts contre la Légion de la Flamme +8%%
+Dégâts subis contre la Légion de la Flamme -6%%
+Expérience à chaque ennemi tué +10%%"
+"390";"Dégâts contre la Légion de la Flamme +9%%
+Dégâts subis contre la Légion de la Flamme -8%%
+Expérience à chaque ennemi tué +10%%"
+"391";"Dégâts contre la Légion de la Flamme +10%%
+Dégâts subis contre la Légion de la Flamme -10%%
+Expérience à chaque ennemi tué +10%%"
+"392";"Dégâts contre les hors-la-loi +3%%
+Expérience à chaque ennemi tué +10%%"
+"393";"Dégâts contre les hors-la-loi +7%%
+Dégâts subis contre les hors-la-loi -4%%
+Expérience à chaque ennemi tué +10%%"
+"394";"Dégâts contre les hors-la-loi +8%%
+Dégâts subis contre les hors-la-loi -6%%
+Expérience à chaque ennemi tué +10%%"
+"395";"Dégâts contre les hors-la-loi +9%%
+Dégâts subis contre les hors-la-loi -8%%
+Expérience à chaque ennemi tué +10%%"
+"396";"Dégâts contre les hors-la-loi +10%%
+Dégâts subis contre les hors-la-loi -10%%
+Expérience à chaque ennemi tué +10%%"
+"397";"Dégâts contre la Cour des Cauchemars +3%%
+Expérience à chaque ennemi tué +10%%"
+"398";"Dégâts contre la Cour des Cauchemars +5%%
+Expérience à chaque ennemi tué +10%%"
+"399";"Dégâts contre la Cour des Cauchemars +7%%
+Dégâts subis contre la Cour des Cauchemars -4%%
+Expérience à chaque ennemi tué +10%%"
+"400";"Dégâts contre la Cour des Cauchemars +8%%
+Dégâts subis contre la Cour des Cauchemars -6%%
+Expérience à chaque ennemi tué +10%%"
+"401";"Dégâts contre la Cour des Cauchemars +9%%
+Dégâts subis contre la Cour des Cauchemars -8%%
+Expérience à chaque ennemi tué +10%%"
+"402";"Dégâts contre la Cour des Cauchemars +10%%
+Dégâts subis contre la Cour des Cauchemars -10%%
+Expérience à chaque ennemi tué +10%%"
+"403";"Dégâts contre les Draguerres +3%%
+Expérience à chaque ennemi tué +10%%"
+"404";"Dégâts contre les Draguerres +5%%
+Expérience à chaque ennemi tué +10%%"
+"405";"Dégâts contre les Draguerres +7%%
+Dégâts subis contre les Draguerres -4%%
+Expérience à chaque ennemi tué +10%%"
+"406";"Dégâts contre les Draguerres +8%%
+Dégâts subis contre les Draguerres -6%%
+Expérience à chaque ennemi tué +10%%"
+"407";"Dégâts contre les Draguerres +9%%
+Dégâts subis contre les Draguerres -8%%
+Expérience à chaque ennemi tué +10%%"
+"408";"Dégâts contre les Draguerres +10%%
+Dégâts subis contre les Draguerres -10%%
+Expérience à chaque ennemi tué +10%%"
+"409";"Chance de drainer de la vie lors d'un coup critique de 20%%
+Expérience à chaque ennemi tué +10%%"
+"410";"Chance de drainer de la vie lors d'un coup critique de 28%%
+Expérience à chaque ennemi tué +10%%"
+"411";"Chance de drainer de la vie lors d'un coup critique de 36%%
+Précision +40
+Expérience à chaque ennemi tué +10%%"
+"412";"Chance de drainer de la vie lors d'un coup critique de 40%%
+Précision +50
+Expérience à chaque ennemi tué +10%%"
+"413";"Chance de drainer de la vie lors d'un coup critique de 50%%
+Précision +60
+Expérience à chaque ennemi tué +10%%"
+"414";"Chance de drainer de la vie lors d'un coup critique de 66%%
+Précision +70
+Expérience à chaque ennemi tué +10%%"
+"415";"Confère Puissance à hauteur de 1%% de votre Précision
+Expérience à chaque ennemi tué +10%%"
+"416";"Confère Puissance à hauteur de 2%% de votre Précision
+Expérience à chaque ennemi tué +10%%"
+"417";"Confère Puissance à hauteur de 1%% de votre Précision
+Confère Puissance à hauteur de 3%% de votre Vitalité
+Expérience à chaque ennemi tué +10%%"
+"418";"Confère Puissance à hauteur de 2%% de votre Précision
+Confère Puissance à hauteur de 2%% de votre Férocité
+Expérience à chaque ennemi tué +10%%"
+"419";"Confère Puissance à hauteur de 2%% de votre Précision
+Confère Puissance à hauteur de 4%% de votre Férocité
+Expérience à chaque ennemi tué +10%%"
+"420";"Confère Puissance à hauteur de 3%% de votre Précision
+Confère Puissance à hauteur de 6%% de votre Férocité
+Expérience à chaque ennemi tué +10%%"
+"421";"Confère des Dégâts par altération à hauteur de 3%% de votre Précision
+Confère des Dégâts par altération à hauteur de 3%% de votre Expertise
+Expérience à chaque ennemi tué +10%%"
+"422";"Confère des Dégâts par altération à hauteur de 2%% de votre Précision
+Confère des Dégâts par altération à hauteur de 3%% de votre Expertise
+Expérience à chaque ennemi tué +10%%"
+"423";"Confère des Dégâts par altération à hauteur de 2%% de votre Précision
+Confère des Dégâts par altération à hauteur de 5%% de votre Expertise
+Expérience à chaque ennemi tué +10%%"
+"424";"Confère des Dégâts par altération à hauteur de 3%% de votre Précision
+Confère des Dégâts par altération à hauteur de 8%% de votre Expertise
+Expérience à chaque ennemi tué +10%%"
+"425";"Confère Concentration à hauteur de 3%% de votre Précision
+Confère Concentration à hauteur de 6%% de votre Guérison
+ Expérience à chaque ennemi tué +10%%"
+"426";"Confère Concentration à hauteur de 2%% de votre Précision
+Confère Concentration à hauteur de 4%% de votre Guérison
+Expérience à chaque ennemi tué +10%%"
+"427";"Confère Concentration à hauteur de 2%% de votre Précision
+Confère Concentration à hauteur de 2%% de votre Guérison
+Expérience à chaque ennemi tué +10%%"
+"428";"Confère Concentration à hauteur de 1%% de votre Précision
+Confère Concentration à hauteur de 2%% de votre Guérison
+Expérience à chaque ennemi tué +10%%"
+"429";"Les dégâts subis sont réduits de 6%% lorsque vous êtes étourdi[f:"étourdie"], renversé[f:"renversée"] ou repoussé[f:"repoussée"].
+Expérience à chaque ennemi tué +10%%"
+"430";"Les dégâts subis sont réduits de 10%% lorsque vous êtes étourdi[f:"étourdie"], renversé[f:"renversée"] ou repoussé[f:"repoussée"].
+Expérience à chaque ennemi tué +10%%"
+"431";"Les dégâts subis sont réduits de 14%% lorsque vous êtes étourdi[f:"étourdie"], renversé[f:"renversée"] ou repoussé[f:"repoussée"]
+Durée d'altération -6%%
+Expérience à chaque ennemi tué +10%%"
+"432";"Les dégâts subis sont réduits de 16%% lorsque vous êtes étourdi[f:"étourdie"], renversé[f:"renversée"] ou repoussé[f:"repoussée"].
+Durée d'altération subie -10%%
+Expérience à chaque ennemi tué +10%%"
+"433";" Les dégâts subis sont réduits de 18%% lorsque vous êtes étourdi[f:"étourdie"], renversé[f:"renversée"] ou repoussé[f:"repoussée"].
+Durée d'altération subie -14%%
+Expérience à chaque ennemi tué +10%%"
+"434";" Les dégâts subis sont réduits de 20%% lorsque vous êtes étourdi[f:"étourdie"], renversé[f:"renversée"] ou repoussé[f:"repoussée"].
+Durée d'altération subie -20%%
+Expérience à chaque ennemi tué +10%%"
+"435";"Découverte de magie lorsque vous êtes sous l'effet d'un avantage +3%%
+Expérience à chaque ennemi tué +10%%"
+"436";"Découverte de magie lorsque vous êtes sous l'effet d'un avantage +7%%
+Expérience à chaque ennemi tué +10%%"
+"437";"Concentration +50
+Découverte de magie lorsque vous êtes sous l'effet d'un avantage +24%%
+Expérience à chaque ennemi tué +10%%"
+"438";"Concentration +60
+Découverte de magie lorsque vous êtes sous l'effet d'un avantage +28%%
+Expérience à chaque ennemi tué +10%%"
+"439";"Concentration +80
+Découverte de magie lorsque vous êtes sous l'effet d'un avantage +32%%
+Expérience à chaque ennemi tué +10%%"
+"440";"Concentration +100
+Découverte de magie lorsque vous êtes sous l'effet d'un avantage +40%%
+Expérience à chaque ennemi tué +10%%"
+"441";"Vous regagnez de la santé à chaque seconde.
+Expérience à chaque ennemi tué +10%%"
+"442";"Vous regagnez de la santé à chaque seconde.
+Vitalité +40
+Expérience à chaque ennemi tué +10%%"
+"443";"Vous regagnez de la santé à chaque seconde.
+Vitalité +50
+Expérience à chaque ennemi tué +10%%"
+"444";"Vous regagnez de la santé à chaque seconde
+Vitalité +60
+Expérience à chaque ennemi tué +10%%"
+"445";"Vous regagnez de la santé à chaque seconde.
+Vitalité +70
+Expérience à chaque ennemi tué +10%%"
+"446";"Découverte de magie +4%%
+Expérience à chaque ennemi tué +10%%"
+"447";"Découverte de magie +10%%
+Expérience à chaque ennemi tué +10%%"
+"448";"Découverte de magie +18%%
+Or trouvé sur les monstres 10%%
+Expérience à chaque ennemi tué +10%%"
+"449";"Découverte de magie +22%%
+Or trouvé sur les monstres 20%%
+Expérience à chaque ennemi tué +10%%"
+"450";"Découverte de magie +26%%
+Or trouvé sur les monstres +30%%
+Expérience à chaque ennemi tué +10%%"
+"451";"Découverte de magie +30%%
+Or trouvé sur les monstres +40%%
+Expérience à chaque ennemi tué +10%%"
+"452";"Durée d'Étourdissement subi -8%%
+Expérience à chaque ennemi tué +10%%"
+"453";"Durée d'Étourdissement subi -16%%
+Expérience à chaque ennemi tué +10%%"
+"454";"Durée d'Étourdissement subi -24%%
+Robustesse +40
+Expérience à chaque ennemi tué +10%%"
+"455";"Durée d'Étourdissement subi -28%%
+Robustesse +50
+Expérience à chaque ennemi tué +10%%"
+"456";"Durée d'Étourdissement subi -36%%
+Robustesse +60
+Expérience à chaque ennemi tué +10%%"
+"457";"Durée d'Étourdissement subi -40%%
+Robustesse +70
+Expérience à chaque ennemi tué +10%%"
+"458";"Chance de regagner de la santé lorsque vous tuez un ennemi 20%%
+Expérience à chaque ennemi tué +10%%"
+"459";"Chance de regagner de la santé lorsque vous tuez un ennemi 30%%
+Expérience à chaque ennemi tué +10%%"
+"460";"Chance de regagner de la santé lorsque vous tuez un ennemi 50%%
+Guérison +40
+Expérience à chaque ennemi tué +10%%"
+"461";"Chance de regagner de la santé lorsque vous tuez un ennemi 60%%
+Guérison +50
+Expérience à chaque ennemi tué +10%%"
+"462";"Chance de regagner de la santé lorsque vous tuez un ennemi 80%%
+Guérison +60
+Expérience à chaque ennemi tué +10%%"
+"463";"Chance de regagner de la santé lorsque vous tuez un ennemi 100%%
+Guérison +70
+Expérience à chaque ennemi tué +10%%"
+"464";"Vitalité +20
+Expérience à chaque ennemi tué +10%%"
+"465";"Vitalité +30
+Expérience à chaque ennemi tué +10%%"
+"466";"Vitalité +50
+Puissance +80 quand votre santé est inférieure à 50%%
+Expérience à chaque ennemi tué +10%%"
+"467";"Vitalité +60
+Puissance +120 quand votre santé est inférieure à 50%%
+Expérience à chaque ennemi tué +10%%"
+"468";"Vitalité +80
+Puissance +160 quand votre santé est inférieure à 50%%
+Expérience à chaque ennemi tué +10%%"
+"469";"Vitalité +100
+Puissance +200 quand votre santé est inférieure à 50%%
+Expérience à chaque ennemi tué +10%%"
+"470";"Santé à terre +20%%
+Expérience à chaque ennemi tué +10%%"
+"471";"Santé à terre +30%%
+Expérience à chaque ennemi tué +10%%"
+"472";"Santé à terre +50%%
+Dégâts à terre +6%%
+Expérience à chaque ennemi tué +10"
+"473";"Santé à terre +60%%
+Dégâts à terre +10%%
+Expérience à chaque ennemi tué +10%%"
+"474";"Santé à terre +80%%
+Dégâts à terre +14%%
+Expérience à chaque ennemi tué +10%%"
+"475";"Santé à terre +100%%
+Dégâts à terre +20%%
+Expérience à chaque ennemi tué +10%%"
+"476";"Chance d'obtenir Pouvoir lors d'un coup critique de jour de 24%%
+Chance d'infliger Givre lors d'un coup critique de nuit 24%%
+Expérience à chaque ennemi tué +10%%"
+"477";"Chance d'obtenir Pouvoir lors d'un coup critique de jour de 28%%
+Chance d'infliger Givre lors d'un coup critique de nuit 28%%
+Expérience à chaque ennemi tué +10%%"
+"478";"Chance d'obtenir Pouvoir lors d'un coup critique de jour de 36%%
+Chance d'infliger Givre lors d'un coup critique de nuit 36%%
+Expérience à chaque ennemi tué +10%%"
+"479";"Chance d'obtenir Pouvoir lors d'un coup critique de jour de 40%%
+Chance d'infliger Givre lors d'un coup critique de nuit 40%%
+Expérience à chaque ennemi tué +10%%"
+"480";"Confère 8%% de chance d'obtenir Pouvoir lors d'un coup critique de jour
+Expérience à chaque ennemi tué +10%%"
+"481";"Chance d'obtenir Pouvoir lors d'un critique de 16%%.
+Expérience à chaque ennemi tué +10%%"
+"482";"Chance d'obtenir Rapidité lorsque vous tuez un ennemi 20%%
+Expérience à chaque ennemi tué +10%%"
+"483";"Chance d'obtenir Rapidité lorsque vous tuez un ennemi 28%%
+Expérience à chaque ennemi tué +10%%"
+"484";"Chance d'obtenir Pouvoir lorsque vous esquivez de 20%%
+Expérience à chaque ennemi tué +10%%"
+"485";"Chance d'obtenir Pouvoir lorsque vous esquivez de 30%%
+Expérience à chaque ennemi tué +10%%"
+"486";"Chance de dissiper une altération lorsque vous utilisez une compétence de soins de 20%%
+Expérience à chaque ennemi tué +10%%"
+"487";"Chance de dissiper une altération lorsque vous utilisez une compétence de soins de 30%%
+Expérience à chaque ennemi tué +10%%"
+"488";"Chance de dissiper une altération lorsque vous utilisez une compétence de soins de 50%% 
+Guérison +40
+Expérience à chaque ennemi tué +10%%"
+"489";"Chance de dissiper une altération lorsque vous utilisez une compétence de soins de 60%% 
+Guérison +50
+Expérience à chaque ennemi tué +10%%"
+"490";"Chance de dissiper une altération lorsque vous utilisez une compétence de soins de 80%%
+Guérison +60
+Expérience à chaque ennemi tué +10%%"
+"491";"Chance de dissiper une altération lorsque vous utilisez une compétence de soins de 100%% (temps de recharge : 10 secondes).
+Guérison +70
+Expérience à chaque ennemi tué +10%%"
+"492";"Chance d'obtenir Pouvoir lorsque vous esquivez 50%%
+Régénération d'endurance +10%%
+Expérience à chaque ennemi tué +10%%"
+"493";"Chance d'obtenir Pouvoir lorsque vous esquivez 100%%
+Régénération d'endurance 40%%
+Expérience à chaque ennemi tué +10%%"
+"494";"Confère Concentration à hauteur de 1%% de votre Précision
+Expérience à chaque ennemi tué +10%%"
+"495";"Confère Concentration à hauteur de 2%% de votre Précision
+Expérience à chaque ennemi tué +10%%"
+"496";"Confère des Dégâts par altération à hauteur de 1%% de votre Précision
+Expérience à chaque ennemi tué +10%%"
+"497";"Confère des Dégâts par altération à hauteur de 2%% de votre Précision
+Expérience à chaque ennemi tué +10%%"
+"498";"Dégâts contre les fantômes +10%%
+Dégâts subis contre les fantômes -10%%
+Expérience à chaque ennemi tué +10%%"
+"499";"Durée de Brûlure +5%%
+Expérience à chaque ennemi tué +10%%"
+"500";"Durée de Brûlure +7%%
+Précision +40
+Expérience à chaque ennemi tué +10%%"
+"501";"Durée de Brûlure +15%%
+Précision +70
+Expérience à chaque ennemi tué +10%%"
+"502";"Durée de Brûlure +12%%
+Précision +60
+Expérience à chaque ennemi tué +10%%"
+"503";"Durée de Brûlure +10%%
+Précision +50
+Expérience à chaque ennemi tué +10%%"
+"504";"Durée de Givre +7%%
+Puissance +40
+Expérience à chaque ennemi tué +10%%"
+"505";"Durée de Givre +10%%
+Puissance +50
+Expérience à chaque ennemi tué +10%%"
+"506";"Durée de Givre +12%%
+Puissance +60
+Expérience à chaque ennemi tué +10%%"
+"507";"Durée de Givre +15%%
+Puissance +70
+Expérience à chaque ennemi tué +10%%"
+"508";"Durée d'Empoisonnement +5%%
+Expérience à chaque ennemi tué +10%%"
+"509";"Durée d'Empoisonnement +7%%
+Précision +40
+Expérience à chaque ennemi tué +10%%"
+"510";"Durée d'Empoisonnement +10%%
+Précision +50
+Expérience à chaque ennemi tué +10%%"
+"511";"Durée d'Empoisonnement +12%%
+Précision +60
+Expérience à chaque ennemi tué +10%%"
+"512";"Durée d'Empoisonnement +15%%
+Précision +70
+Expérience à chaque ennemi tué +10%%"
+"513";"Découverte de magie +18%%
+Puissance +40
+Expérience à chaque ennemi tué +10%%"
+"514";"Découverte de magie +22%%
+Puissance +50
+Expérience à chaque ennemi tué +10%%"
+"515";"Découverte de magie +26%%
+Puissance +60
+Expérience à chaque ennemi tué +10%%"
+"516";"Découverte de magie +30%%
+Puissance +70
+Expérience à chaque ennemi tué +10%%"
+"517";"Découverte de magie +18%%
+Dégâts par altération +40
+Expérience à chaque ennemi tué +10%%"
+"518";"Découverte de magie +22%%
+Dégâts par altération +50
+Expérience à chaque ennemi tué +10%%"
+"519";"Découverte de magie +26%%
+Dégâts par altération +60
+Expérience à chaque ennemi tué +10%%"
+"520";"Découverte de magie +30%%
+Dégâts par altération +70
+Expérience à chaque ennemi tué +10%%"
+"521";"Dégâts contre les karkas +8%%
+Dégâts subis contre les karkas -6%%
+Expérience à chaque ennemi tué +10%%"
+"522";"Guérison +50
+Dégâts par altération +40
+Expérience à chaque ennemi tué +10%%"
+"523";"Robustesse +50
+Dégâts par altération +40
+Expérience à chaque ennemi tué +10%%"
+"524";"Guérison +60
+Dégâts par altération +50
+Expérience à chaque ennemi tué +10%%"
+"525";"Robustesse +60
+Dégâts par altération +50
+Expérience à chaque ennemi tué +10%%"
+"526";"Guérison +80
+Dégâts par altération +60
+Expérience à chaque ennemi tué +10%%"
+"527";"Robustesse +80
+Dégâts par altération +60
+Expérience à chaque ennemi tué +10%%"
+"528";"Guérison +100
+Dégâts par altération +70
+Expérience à chaque ennemi tué +10%%"
+"529";"Robustesse +100
+Dégâts par altération +70
+Expérience à chaque ennemi tué +10%%"
+"530";"((300969))"
+"531";"Ramasser du bois"
+"532";"Ramasser du bois"
+"533";"<c=@abilitytype>Manipulation.</c> Confère à vos alliés l'Illusion de vie sur la zone ciblée, leur permettant de se relever et de poursuivre le combat. Les alliés affectés seront pleinement ranimés s'ils terrassent un ennemi."
+"534";"Illusion de vie"
+"535";"Charge des obus de mortier explosif."
+"536";"Chargement d'obus de mortier"
+"537";"Feu."
+"538";"Chargement des obus incendiaires."
+"539";"Chargement des obus incendiaires"
+"540";"Tir"
+"541";"Coup de grâce du trophée du troisième"
+"542";"Plantez la bannière de votre guilde à l'endroit même où vous avez terrassé votre ennemi en JcJ ou McM."
+"543";"Double-cliquez pour avoir la possibilité de prélever un échantillon spécifique de boss mordrems souterrains.
+Vous ne pouvez utiliser qu'une seule amélioration d'extraction à la fois."
+"544";"Coup de grâce de la faucheuse"
+"545";"Décoche l'intégralité de votre chariot à flèches sur la zone ciblée."
+"546";"Piqûre"
+"547";"Charge au dard"
+"548";"Rafale d'aiguillon"
+"549";"Siège de ver"
+"550";"Coup violent"
+"551";"Battage de cœur-de-chêne"
+"552";"Vous lancez votre hache de façon à ce qu'elle rebondisse sur plusieurs ennemis et vous confère Pouvoir à chaque ennemi touché."
+"553";"<c=@abilitytype>Signe passif :</c> augmente votre férocité et celle de votre familier.<br><c=@abilitytype>Signe actif :</c> vous puisez l'énergie de la terre pour enraciner les ennemis autour de vous."
+"554";"<c=@abilitytype>Signe passif :</c> vous améliorez votre Robustesse et celle de votre familier. <br><c=@abilitytype>Signe actif :</c> votre familier et vous ne subissez aucun dégât à cause des attaques, mais vous êtes toujours sensibles aux altérations et effets de contrôle."
+"555";"Dérobade pendant le maniement"
+"556";"<c=@abilitytype>Signe passif :</c> votre vitesse de déplacement et celle de votre familier augmentent de 25%%.<br><c=@abilitytype>Signe actif :</c> vos attaques et celles de votre familier ne peuvent être bloquées."
+"557";"Effet d'altération ignoré"
+"558";"Bloque les missiles"
+"559";"Nombre de coups"
+"560";"Intervalle d'application d'avantage"
+"561";"<c=@abilitytype>Combat à deux armes.</c> Tir imparable sur votre ennemi qui lui inflige Aveuglement, suivi d'une Foulée de l'ombre pour le frapper d'un coup de dague."
+"562";"<c=@abilitytype>Combat à deux armes.</c> Tir aveuglant sur votre ennemi suivi d'une Foulée de l'ombre pour le frapper d'un coup de dague."
+"563";"Tir de l'ombre"
+"564";"<c=@abilitytype>Arcane.</c> Un bouclier d'énergie bloque les attaques. Il explose après trois attaques essuyées."
+"565";"Bouclier des arcanes mineur"
+"566";"Foudroie un ennemi neutralisé."
+"567";"Lame zélée"
+"568";"Seuil de force vitale"
+"569";"Ivyvine Poultice"

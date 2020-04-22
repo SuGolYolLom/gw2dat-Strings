@@ -1,0 +1,510 @@
+"0";"Produit consommable"
+"1";"Boss du Défi de la reine vaincu[s] : %num1%/%num2%"
+"2";"Une arme boréale ancienne, fabriquée avec des matériaux trouvés à la Frontière de Bjora."
+"3";"Bâton boréal ancien"
+"4";"Cela va modifier l'apparence de votre monture et déverrouiller l'apparence de la monture liée au compte."
+"5";"Produit consommable"
+"6";"Durée d'altération subie -20%%
+Dégâts par altération +100
+Expertise +70
+Karma +10%%
+Expérience totale obtenue +5%%
+Découverte de magie +20%%
+Découverte d'or +20%%
+EXPM gagnée +10%%"
+"7";"Vous avez terminé la Fosse à limons en ayant prêté allégeance à la Légion Sanglante."
+"8";"Dégâts subis -10%%
+Dégâts par altération +100
+Expertise +70
+Karma +10%%
+Expérience totale obtenue +5%%
+Découverte de magie +20%%
+Découverte d'or +20%%
+EXPM gagnée +10%%"
+"9";"de durabilité"
+"10";"Produit consommable"
+"11";"Disponible pour une durée limitée.
+
+Remplace l'aspect de n'importe quel espadon et ajoute l'apparence à votre garde-robe de compte."
+"12";"Héritage d'Asgeir n° 04"
+"13";"Quotidien"
+"14";"Lancer de papier-toilette"
+"15";"Feux d'artifice"
+"16";"Soins dispensés +10%%
+Expertise +100
+Dégâts par altération +70
+Karma +10%%
+Expérience totale obtenue +5%%
+Découverte de magie +20%%
+Découverte d'or +20%%
+EXPM gagnée +10%%"
+"17";"Une arme boréale restaurée, fabriquée avec des matériaux trouvés à la Frontière de Bjora."
+"18";"de vie"
+"19";"D'autres objets correspondants ont été retirés et renvoyés dans votre inventaire."
+"20";"Vous avez terminé la Fosse à limons en ayant prêté allégeance à la Légion Sanglante."
+"21";"[M]Tonique[pl:"Toniques"] de coffre de boss inépuisable[pl:"inépuisables"]"
+"22";"Objectif communautaire "Course aux champions" : niveau 1"
+"23";"[F]Récompense d'objectif communautaire : niveau 2"
+"24";"Vaincre les étincelles"
+"25";"Sauter dans la fosse"
+"26";"[M]Œil du Corbeau"
+"27";"Hurlement"
+"28";"de montée en puissance"
+"29";"[M]Pistolet boréal ancien%str2%%str1%%str3%%str4%"
+"30";"[F]Graine[pl:"Graines"] de variété de menthe"
+"31";"Vaincre Kurai le Cruel pendant un événement Boss en folie dans le Pavillon de la Couronne. Ce succès peut être accompli une fois par an."
+"32";"Bouchée"
+"33";"Temps"
+"34";"Temps d'armement de base"
+"35";"Brûlure maximale"
+"36";"Remplacer les danseurs figurants"
+"37";"du trappeur"
+"38";"Produit consommable"
+"39";"Une arme boréale ancienne, fabriquée avec des matériaux trouvés à la Frontière de Bjora."
+"40";"d'aventure"
+"41";"de massacre d'élémentaires"
+"42";"Coups de poing enchaînés"
+"43";"[M]Prospectus de la course "À dos de dolyak""
+"44";"d'air"
+"45";"du vice"
+"46";"[F]Recette[pl:"Recettes"] : espadon boréal restauré"
+"47";"[M]Deltaplane[pl:"Deltaplanes"] parapente[pl:"parapentes"]zéphyrite"
+"48";"Contre la montre de la Poursuite du Pavillon"
+"49";"du fracasseur"
+"50";"[F]Épée boréale ancienne%str2%%str1%%str3%%str4%"
+"51";"Une arme boréale restaurée, fabriquée avec des matériaux trouvés à la Frontière de Bjora."
+"52";"Votre offrande a été contaminée par des spores toxiques."
+"53";"Héritage d'Asgeir n° 03"
+"54";"Uppercut"
+"55";"[M]Aperçu"
+"56";"<c=@Event>Objectifs communautaires terminés !</c>"
+"57";"Une arme boréale restaurée, fabriquée avec des matériaux trouvés à la Frontière de Bjora."
+"58";"[F]Récompense d'objectif communautaire : niveau 1"
+"59";"Produit consommable"
+"60";"Vous créez un champ d'éclairs à votre emplacement. Vous invoquez ensuite des gyrocoptères pour achever les ennemis et ranimer les alliés se trouvant dans le champ. Le temps de recharge de cette compétence augmente avec chaque gyrocoptère créé au-delà du premier.<br><c=@reminder>Les gyrocoptères interrompus sont détruits.</c>"
+"61";"Jet d'œuf"
+"62";"Un bouclier boréal restauré, fabriqué avec des matériaux trouvés à la Frontière de Bjora."
+"63";"Distorsion renvoie les projectiles."
+"64";"Niveau[pl:"Niveaux"] communautaire[pl:"communautaires"] terminé[pl:"terminés"] : %num1%/%num2%"
+"65";"Terminer le succès "Coup de froid""
+"66";"[F]Graine[pl:"Graines"] de variété de coriandre"
+"67";"Pack d'apparence de noble courtisan désormais disponible !"
+"68";"de dérobade"
+"69";"Légionnaire[s] de la Flamme tué[s] : %num1%/%num2%"
+"70";"Niveau 5 :"
+"71";"Boss en folie : pilonner Pyroxis (annuel)"
+"72";"Salut"
+"73";"Terminer %num2% méta-évènement[pl:"évènements"] Boss en folie dans le Pavillon de la Couronne. Ce succès peut être accompli une fois par an."
+"74";"Soins dispensés +10%%
+Concentration +100
+Puissance +70
+Karma +10%%
+Expérience totale obtenue +5%%
+Découverte de magie +20%%
+Découverte d'or +20%%
+EXPM gagnée +10%%"
+"75";"d'élémentaliste"
+"76";"[M]Aperçu"
+"77";"Cuisine du fort"
+"78";"du faucheur"
+"79";"Tuer %num2% Ogre[pl:"Ogres"] dans le Pavillon de la Couronne. Ce succès peut être accompli une fois par an."
+"80";"[F]Graine[pl:"Graines"] de variété de poivre"
+"81";"Produit consommable"
+"82";"Une arme norn ancienne immaculée, fabriquée avec des matériaux trouvés à la Frontière de Bjora."
+"83";"Wiggin le maléfique vaincu : %num1%/%num2%"
+"84";"Boule de feu"
+"85";"d'invalidation"
+"86";"[F]Clé[pl:"Clés"] de la Légion des Cendres"
+"87";"[F]Assiette[pl:"Assiettes"] gourmande[pl:"gourmandes"] de chili khan carne"
+"88";"Double-cliquez pour prendre une pose victorieuse sur une pierre."
+"89";"d'eau"
+"90";"Une arme boréale ancienne, fabriquée avec des matériaux trouvés à la Frontière de Bjora."
+"91";"Produit consommable"
+"92";"Vaincre Etincellus Gouttedefeu pendant un événement Boss en folie dans le Pavillon de la Couronne. Ce succès peut être accompli une fois par an."
+"93";"Crique de reconnaissance"
+"94";"Terminer le succès "Coutumes des Quatre Vents (annuel)". Ce succès ne peut être accompli qu'une fois par an."
+"95";"Une arme boréale ancienne, fabriquée avec des matériaux trouvés à la Frontière de Bjora."
+"96";"Objectif communautaire de course aux boss : niveau 3"
+"97";"Durée d'altération subie -20%%
+Concentration +100
+Chance d'obtenir Pouvoir lors d'un coup critique de 33%%
+Karma +10%%
+Expérience totale obtenue +5%%
+Découverte de magie +20%%
+Découverte d'or +20%%
+EXPM gagnée +10%%"
+"98";"de profanation"
+"99";"Succès "Coutumes des Quatre Vents (annuel)" terminé"
+"100";"Coup de genou sauté"
+"101";"Niveau[pl:"Niveaux"] communautaire[pl:"communautaires"] terminé[pl:"terminés"] : %num1%/%num2%"
+"102";"Antre des murmures"
+"103";"de sangsue"
+"104";"Double-cliquez pour apprendre une recette."
+"105";"Un sceptre de verre infusé d'essence du Corbeau."
+"106";"Fêtez l'anniversaire de Guild Wars 2 avec ce pack.
+
+Les apparences priment sur l'aspect initial de votre équipement et n'ont pas de statistiques propres."
+"107";"Vous avez éteint l'effigie avec des ballons d'eau"
+"108";"du dolyak"
+"109";"Nous vous rappellerons toutes les heures de faire une pause."
+"110";"Objectif communautaire "Course aux champions" : niveau 5"
+"111";"Assiette gourmande : double-cliquez pour servir une assiette gourmande de chili khan carne à partager avec quiconque se trouve à la ronde. L'assiette gourmande reste active pendant 5 minutes."
+"112";"Produit consommable"
+"113";"Sur les ailes des dolyaks : bronze"
+"114";"Produit consommable"
+"115";"de terre"
+"116";"[F]Torche boréale ancienne%str2%%str1%%str3%%str4%"
+"117";"Frénésie sanglante"
+"118";"Durée d'altération subie -20%%
++45 à toutes les caractéristiques
+Karma +10%%
+Expérience totale obtenue +5%%
+Découverte de magie +20%%
+Découverte d'or +20%%
+EXPM gagnée +10%%"
+"119";"Soins dispensés +10%%
+Vitalité +100
+Robustesse +70
+Karma +10%%
+Expérience totale obtenue +5%%
+Découverte de magie +20%%
+Découverte d'or +20%%
+EXPM gagnée +10%%"
+"120";"Objectif communautaire de course aux boss : niveau 5"
+"121";"[M]Aperçu"
+"122";"Prêt pour l'entraînement"
+"123";"d'eau"
+"124";"de bestialité"
+"125";"d'étouffement"
+"126";"Dégâts subis -10%%
+Concentration +100
+Guérison +70
+Karma +10%%
+Expérience totale obtenue +5%%
+Découverte de magie +20%%
+Découverte d'or +20%%
+EXPM gagnée +10%%"
+"127";"Temps d'armement de base"
+"128";"Fatigué par l'entraînement"
+"129";"Heaume lourd d'Apaizdragon"
+"130";"[F]Recette[pl:"Recettes"] : crème glacée au piment vert"
+"131";"de l'aigle"
+"132";"%num1%/%num2% Destructeur[s] tué[s]"
+"133";"de l'Animorphe"
+"134";"Mutilateur[f:"Mutilatrice"] du Manteau (annuel)"
+"135";"Utiliser les ballons d'eau dispersés autour du sommet des Falaises labyrinthiques pour éteindre l'effigie de flammes. Ce succès peut être accompli une fois par an."
+"136";"d'agonie"
+"137";"Une arme boréale restaurée, fabriquée avec des matériaux trouvés à la Frontière de Bjora."
+"138";"Bivouac du groupe"
+"139";"Vous avez terrassé %num1%/%num2% fanatique[pl:"fanatiques"]"
+"140";"Maintenir la pyrotechnie sous contrôle"
+"141";"du[f:"de la"] géomancien[f:"géomancienne"]"
+"142";"Produit consommable"
+"143";"Durée d'altération subie -20%%
+Concentration +100
+Expertise +70
+Karma +10%%
+Expérience totale obtenue +5%%
+Découverte de magie +20%%
+Découverte d'or +20%%
+EXPM gagnée +10%%"
+"144";"Brutalisation de bandits (annuel)"
+"145";"Produit consommable"
+"146";"Foyer de Garde-âme"
+"147";"L'équipe Guild Wars 2"
+"148";"Une arme boréale restaurée, fabriquée avec des matériaux trouvés à la Frontière de Bjora."
+"149";"Boss en folie : vaincre Wiggin (annuel)"
+"150";"Produit consommable"
+"151";"Grand-Salle"
+"152";"Terminer le succès "Défi de dracaille de Grothmar : argent""
+"153";"Produit consommable"
+"154";"Vous avez terminé la Fosse à limons en ayant prêté allégeance à la Légion de Fer."
+"155";"Contient tous ces objets."
+"156";"Vous avez terminé la Fosse à limons en ayant prêté allégeance à la Légion des Cendres."
+"157";"Cliquez pour déverrouiller cet onglet de modèle en utilisant des gemmes."
+"158";"Niveau[pl:"Niveaux"] communautaire[pl:"communautaires"] terminé[pl:"terminés"] : %num1%/%num2%"
+"159";"Tourbillonnement de branche"
+"160";"Quotidien"
+"161";"<c=@flavor>En terminant ceci, vous gagnerez 10 niveaux de progression dans la discipline d'artisanat de maître queux.</c>"
+"162";"Vous dites à votre dracaille de s'asseoir sans bouger."
+"163";"Soins dispensés +10%%
++45 à toutes les caractéristiques
+Karma +10%%
+Expérience totale obtenue +5%%
+Découverte de magie +20%%
+Découverte d'or +20%%
+EXPM gagnée +10%%"
+"164";"Concentration +100
+Expertise +70
+Total de karma obtenu +1%%"
+"165";"[F]Récompense d'objectif communautaire : niveau 5"
+"166";"Produit consommable"
+"167";"Bandit[s] tué[s] : %num1%/%num2%"
+"168";"Vaincre Pyroxis pendant un événement Boss en folie dans le Pavillon de la Couronne. Ce succès peut être accompli une fois par an."
+"169";"Contient tous ces objets."
+"170";"[M]Gants de Pyre"
+"171";"Ce deltaplane peut être teint.
+
+<c=@reminder>Disponible uniquement dans les coffres du Lion noir pendant certaines périodes spécifiques de l'année.</c>"
+"172";"Concentration sur une cible pour augmenter les dégâts."
+"173";"Contient tous ces objets."
+"174";"[M]Arc court boréal ancien%str2%%str1%%str3%%str4%"
+"175";"Niveau 4 :"
+"176";"Terminez la course le plus rapidement possible !"
+"177";"Jet"
+"178";"[F]Clé[pl:"Clés"] de la Légion de Fer"
+"179";"Une arme boréale restaurée, fabriquée avec des matériaux trouvés à la Frontière de Bjora."
+"180";"Gratouiller"
+"181";"du mécatronicien"
+"182";"du courroux"
+"183";"Produit consommable"
+"184";"[M]Défi de dracaille de Grothmar : argent"
+"185";"Lorsque Braham disparaît après avoir suivi les traces de Rytlock et Crecia, le[f:"la"] commandant[f:"commandante"] met le cap vers l'ouest pour le retrouver. Au-delà du portail des montagnes, il y a un lac que seules les légendes norns ont gardé en mémoire. C'est là que réside la terrifiante source des murmures qui tourmentent les Lointaines Cimefroides..."
+"186";"Récupérer le jeton Sanglant des épreuves de la Fosse à limons."
+"187";"Voulez-vous vraiment écraser le contenu : %str1% ?"
+"188";"d'énergie"
+"189";"Une hache de bûcheron pour<br>tous les personnages<br>et pour toujours !"
+"190";"de golemancien"
+"191";"Produit consommable"
+"192";"[M]Défi de dracaille de Grothmar : or"
+"193";"[F]Recette[pl:"Recettes"] : arc court boréal restauré"
+"194";"Produit consommable"
+"195";"Une arme boréale restaurée, fabriquée avec des matériaux trouvés à la Frontière de Bjora."
+"196";"Double-cliquez pour déverrouiller cette apparence de monture de chacal sur votre compte."
+"197";"Atelier d'Auris"
+"198";"Produit consommable"
+"199";"Sanctuaire du Taureau robuste"
+"200";"[M]Grimoire[pl:"Grimoires"] des Brumes"
+"201";"[F]Recette[pl:"Recettes"] : fusil boréal restauré"
+"202";"des lamentations"
+"203";"de forgeron"
+"204";"Acheter et ouvrir des boîtes de provisions des Zéphyrites auprès des vendeurs aux Falaises labyrinthiques. Ce succès peut être accompli une fois par an."
+"205";"Masse boréale restaurée"
+"206";"Remplace l'aspect de n'importe quel objet de dos et ajoute l'apparence à votre garde-robe de compte. 
+
+Cette apparence de sac à dos n'a pas de statistiques propres."
+"207";"de vampirisme"
+"208";"Récupérer le jeton de la Flamme de l'effigie de Charr."
+"209";"du cataclyste"
+"210";"Battage acéré"
+"211";"d'incapacité"
+"212";"Récupérer le jeton de la Flamme de l'effigie de Charr."
+"213";"Objectif communautaire "Course aux champions" : niveau 3"
+"214";"Produit consommable"
+"215";"Garanti"
+"216";"Échange de coupon de fournisseur de collectionneur"
+"217";"Bureau du gardien"
+"218";"Chance de drainer de la vie lors d'un coup critique de 66%%
+Puissance +100
+Férocité +70
+Karma +10%%
+Expérience totale obtenue +5%%
+Découverte de magie +20%%
+Découverte d'or +20%%
+EXPM gagnée +10%%"
+"219";"Maître des esprits"
+"220";"de la liche"
+"221";"Sceptre boréal restauré"
+"222";"Porte froide"
+"223";"Campement des Fils de Svanir n° 03"
+"224";"Cette clé porte l'emblème de la Légion Sanglante. Elle semble provenir du Caveau du Khan-Ur."
+"225";"<c=@flavor>En terminant ceci, vous gagnerez 10 niveaux de progression dans la discipline d'artisanat de maître queux.</c>"
+"226";"Panier[pl:"Paniers"] cerf[pl:"cerfs"]-volant[pl:"volants"] zéphyrite[pl:"zéphyrites"] ouvert[pl:"ouverts"] : %num1%/%num2%"
+"227";"Ouvrez pour choisir un heaume d'Apaizdragon."
+"228";"Contre la montre : Slalom à dos de voldécume"
+"229";"[F]Recette[pl:"Recettes"] : épée boréale restaurée"
+"230";"<c=@flavor>En terminant ceci, vous gagnerez 10 niveaux de progression dans la discipline d'artisanat de maître queux.</c>"
+"231";"d'Hoelbrak"
+"232";"Extincteur[f:"Extinctrice"] d'effigie (annuel)"
+"233";"Sang"
+"234";"Jet de fruit de roncier"
+"235";"[F]Masse boréale ancienne%str2%%str1%%str3%%str4%"
+"236";"Objectif communautaire de course aux boss : niveau 1"
+"237";"Une arme boréale ancienne, fabriquée avec des matériaux trouvés à la Frontière de Bjora."
+"238";"de pureté"
+"239";"Dégâts subis -10%%
+Puissance +100
+Férocité +70
+Karma +10%%
+Expérience totale obtenue +5%%
+Découverte de magie +20%%
+Découverte d'or +20%%
+EXPM gagnée +10%%"
+"240";"Vous regagnez de la santé à chaque seconde
++45 à toutes les caractéristiques
+Karma +10%%
+Expérience totale obtenue +5%%
+Découverte de magie +20%%
+Découverte d'or +20%%
+EXPM gagnée +10%%"
+"241";"[M]Espadon boréal ancien%str2%%str1%%str3%%str4%"
+"242";"de paralysie"
+"243";"Soins dispensés +10%%
+Concentration +100
+Chance d'obtenir Pouvoir lors d'un coup critique de 33%%
+Karma +10%%
+Expérience totale obtenue +5%%
+Découverte de magie +20%%
+Découverte d'or +20%%
+EXPM gagnée +10%%"
+"244";"Niveau 3 :"
+"245";"de nécromant"
+"246";"Heaume léger d'Apaizdragon"
+"247";"[M]Sac de paquetage boréal solide"
+"248";"Double-cliquez pour apprendre une recette."
+"249";"Personnalisez<br>votre sac à dos !"
+"250";"[F]Recette[pl:"Recettes"] : masse boréale restaurée"
+"251";"Pirate[s] tué[s] : %num1%/%num2%"
+"252";"Contre la montre : Poursuite du Pavillon"
+"253";"Vous regagnez de la santé à chaque seconde
+Concentration +100
+Guérison +70
+Karma +10%%
+Expérience totale obtenue +5%%
+Découverte de magie +20%%
+Découverte d'or +20%%
+EXPM gagnée +10%%"
+"254";"Produit consommable"
+"255";"de rage"
+"256";"[lbracket]Hebdomadaire[rbracket]"
+"257";"Produit consommable"
+"258";"Produit consommable"
+"259";"Vous avez vaincu le grand champion en ayant prêté allégeance à la Légion de Fer"
+"260";"Hurlement"
+"261";"de massacre de destructeurs"
+"262";"Oblitérateur[f:"Oblitératrice"] d'Ogres (annuel)"
+"263";"Cor de guerre boréal restauré"
+"264";"Produit consommable"
+"265";"Coutumes des Quatre Vents (annuel)"
+"266";"Battage invalidant"
+"267";"Durée d'altération subie -20%%
+Vitalité +100
+Robustesse +70
+Karma +10%%
+Expérience totale obtenue +5%%
+Découverte de magie +20%%
+Découverte d'or +20%%
+EXPM gagnée +10%%"
+"268";"de massacre de fantômes"
+"269";"des Zéphyrites"
+"270";"Repoussement maximal"
+"271";"Soins dispensés +10%%
+Concentration +100
+Robustesse +70
+Karma +10%%
+Expérience totale obtenue +5%%
+Découverte de magie +20%%
+Découverte d'or +20%%
+EXPM gagnée +10%%"
+"272";"Vous obtenez un poisson imprégné de magie que votre dracaille va adorer."
+"273";"[F]Recette[pl:"Recettes"] : bâton boréal restauré"
+"274";"[M]Espadon[pl:"Espadons"] de maître des aspects"
+"275";"Baines Boum-boum vaincue : %num1%/%num2%"
+"276";"Vous avez terminé les épreuves de la Fosse à limons en ayant prêté allégeance à la Légion des Cendres."
+"277";"Appelez votre dracaille et témoignez-lui votre affection."
+"278";"Une arme boréale ancienne, fabriquée avec des matériaux trouvés à la Frontière de Bjora."
+"279";"Produit consommable"
+"280";"[F]Récompense d'objectif communautaire : niveau 1"
+"281";"de Feu-de-Bael"
+"282";"Soins dispensés +10%%
+Puissance +100
+Précision +70
+Karma +10%%
+Expérience totale obtenue +5%%
+Découverte de magie +20%%
+Découverte d'or +20%%
+EXPM gagnée +10%%"
+"283";"Une hache de bûcheron pour<br>tous les personnages<br>et pour toujours !"
+"284";"[M]Sceptre boréal ancien%str2%%str1%%str3%%str4%"
+"285";"Chrono :"
+"286";"Jouer à la balle"
+"287";"de venin"
+"288";"Une arme boréale restaurée, fabriquée avec des matériaux trouvés à la Frontière de Bjora."
+"289";"Puissance de base"
+"290";"[lbracket]Sous influence[rbracket]"
+"291";"Mise à jour de la progression dans : %str1%"
+"292";"de frénésie"
+"293";"Une arme boréale ancienne, fabriquée avec des matériaux trouvés à la Frontière de Bjora."
+"294";"[F]Récompense d'objectif communautaire : niveau 3"
+"295";"Vous ordonnez à votre dracaille de rugir bruyamment."
+"296";"Produit consommable"
+"297";"Lagon sanglant"
+"298";"[F]Récompense d'objectif communautaire : niveau 3"
+"299";"Chance de drainer de la vie lors d'un coup critique de 66%%
+Guérison +100
+Concentration +70
+Karma +10%%
+Expérience totale obtenue +5%%
+Découverte de magie +20%%
+Découverte d'or +20%%
+EXPM gagnée +10%%"
+"300";"Battage lourd"
+"301";"d'élan"
+"302";"Héritage d'Asgeir n° 01"
+"303";"Impossible de retirer l'objet."
+"304";"[M]Mini-désosseur[pl:"désosseurs"]"
+"305";"Récupérer le coupon de Fer lors du concert de Metal Legion."
+"306";"Produit consommable"
+"307";"de massacre de karkas"
+"308";"du Fléau"
+"309";"[F]Recette[pl:"Recettes"] : assiette gourmande de chili khan carne"
+"310";"Promos hebdomadaires"
+"311";"de pitié"
+"312";"Cela va modifier l'apparence de votre monture et déverrouiller l'apparence de la monture de chacal pour tous les personnages de votre compte."
+"313";"Attraper le membre du groupe qui saute"
+"314";"Manger"
+"315";"de Krait"
+"316";"Produit consommable"
+"317";"En souvenir du bon vieux temps."
+"318";"du berserker"
+"319";"Épée boréale restaurée"
+"320";"Mutiler"
+"321";"de faiblesse"
+"322";"Boîte[pl:"Boîtes"] de provisions zéphyrite[pl:"zéphyrites"] ouverte[pl:"ouvertes"] : %num1%/%num2%"
+"323";"Volonté du justicier"
+"324";"Terminer le succès "Historien[f:"Historienne"] de la Vallée de Grothmar""
+"325";"Produit consommable"
+"326";"Torche boréale restaurée"
+"327";"Voulez-vous vraiment remplacer tous les objets dans ce modèle d'équipement ?"
+"328";"Empêcher l'ampli d'entrer en surcharge"
+"329";"À combiner avec un don des Brumes, un don d'ardeur compétitive et un diamant des Brumes forgé par le sel dans la forge mystique pour créer le don du champion."
+"330";"Terminer le succès "Passation de flambeau""
+"331";"Centaure[s] tué[s] : %num1%/%num2%"
+"332";"Récupérer le coupon des Cendres au Sanctuaire de la légende funeste."
+"333";"du Brisesort"
+"334";"Etincellus Gouttedefeu vaincu : %num1%/%num2%"
+"335";"Terminer le succès "Factionnaire des puits""
+"336";"d'Orr"
+"337";"Une arme boréale restaurée, fabriquée avec des matériaux trouvés à la Frontière de Bjora."
+"338";"Dague boréale restaurée"
+"339";"de soif de sang"
+"340";"de massacre de Grawls"
+"341";"Tourment supplémentaire"
+"342";"Vaincre l'étincelle puissante"
+"343";"Festin Gourmet : double-cliquez pour servir une soupe d'huîtres sphérifiée épicée au clou de girofle à partager avec quiconque se trouve à la ronde. L'assiette reste active pendant 5 minutes."
+"344";"Monts méridionaux"
+"345";"Notes de recherche : les anciennes lentilles du Corbeau"
+"346";"Voilà qui devrait rassasier Rivage éclatant."
+"347";"Votre offrande est acceptée !"
+"348";"[lbracket]Location de frappesol[rbracket]"
+"349";"Piétineur du Stigmate 9"
+"350";"[M]Plateau dégustation de salade de fruits épicée"
+"351";"[M]Plateau dégustation de pita végétarienne au clou de girofle"
+"352";"Lanterne[pl:"Lanternes"] koi du zéphyr"
+"353";"[F]Ombre[pl:"Ombres"] de l'Esprit du Corbeau"
+"354";"Festin Gourmet : double-cliquez pour servir un cheesecake à l'orange et au clou de girofle à partager avec quiconque se trouve à la ronde. L'assiette reste active pendant 5 minutes."
+"355";"[lbracket]Location de scaraboule[rbracket]"
+"356";"À gagner dans l'épisode "Liés par le sang"."
+"357";"Cela débloquera l'accès à cette variante de monture pour tous les personnages liés à ce compte."
+"358";"Festin Gourmet : double-cliquez pour servir une assiette de carpaccio de bœuf épicé aux grains de poivre à partager avec quiconque se trouve à la ronde. L'assiette reste active pendant 5 minutes."
+"359";"Manger"
+"360";"Festin Gourmet : double-cliquez pour servir une assiette de carpaccio de bœuf épicé au clou de girofle à partager avec quiconque se trouve à la ronde. L'assiette reste active pendant 5 minutes."
+"361";"Vous tendez votre torche pour détruire les toiles d'araignée à proximité."
+"362";"[M]Plateau dégustation de steak sous vide aux champignons et au clou de girofle"
+"363";"La sélection de caractéristiques n'est pas disponible pour cet objet."
+"364";"S'obtient en recyclant des aliments consommables fabriqués."
+"365";"Pistolet zéphyrite"
+"366";"Manger"
+"367";"Plateau dégustation de crème brûlée à la menthe"
+"368";"Festin Gourmet : double-cliquez pour servir une assiette d'aspic de volaille avec sauce salsa à partager avec quiconque se trouve à la ronde. L'assiette reste active pendant 5 minutes."
+"369";"On les trouve souvent en train de brouter les buissons."

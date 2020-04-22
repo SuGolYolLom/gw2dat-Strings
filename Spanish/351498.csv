@@ -1,0 +1,202 @@
+"0";"Estandarte de recolección de clan"
+"1";"Estandarte de hallazgo mágico de clan"
+"2";"Estandarte de karma de clan"
+"3";"Estandarte de Celeridad de clan"
+"4";"Termina la transformación y recupera tu forma real."
+"5";"Combo de noqueos"
+"6";"Combo de noqueos"
+"7";"Agonía del sabueso"
+"8";"Potenciador de sabueso de Balthazar"
+"9";"Disparas una flecha de balista a los enemigos que se acerquen. Inflige daño doble a las armas de asedio."
+"10";"Disparas una flecha de balista que se astilla al impactar y causa hemorragia a los enemigos cercanos."
+"11";"Disparar virote destrozador"
+"12";"Empleado por la Forja Mística para producir objetos PvP."
+"13";"Cristal[pl:"Cristales"] arcano[pl:"arcanos"]"
+"14";"Polvo[pl:"Polvos"] arcano[pl:"arcanos"]"
+"15";"Astilla[pl:"Astillas"] arcana[pl:"arcanas"]"
+"16";"Vale[pl:"Vales"] de yelmo ligero"
+"17";"Vale[pl:"Vales"] de hombrera ligera"
+"18";"Vale[pl:"Vales"] de abrigo ligero"
+"19";"Vale[pl:"Vales"] de guantes ligeros"
+"20";"Vale[pl:"Vales"] de calzas ligeras"
+"21";"Vale[pl:"Vales"] de botas ligeras"
+"22";"Vale[pl:"Vales"] de hacha"
+"23";"Vale[pl:"Vales"] de daga"
+"24";"Vale[pl:"Vales"] de foco"
+"25";"Vale[pl:"Vales"] de mandoble"
+"26";"Vale[pl:"Vales"] de martillo"
+"27";"Vale[pl:"Vales"] de maza"
+"28";"Vale[pl:"Vales"] de pistola"
+"29";"Vale[pl:"Vales"] de rifle"
+"30";"Vale[pl:"Vales"] de cetro"
+"31";"Vale[pl:"Vales"] de escudo"
+"32";"Vale[pl:"Vales"] de arco corto"
+"33";"Vale[pl:"Vales"] de báculo"
+"34";"Vale[pl:"Vales"] de espada"
+"35";"Vale[pl:"Vales"] de antorcha"
+"36";"Vale[pl:"Vales"] de tridente"
+"37";"Vale[pl:"Vales"] de cuerno de guerra"
+"38";"Vale[pl:"Vales"] de conejo"
+"39";"Vale[pl:"Vales"] de ciervo"
+"40";"Vale[pl:"Vales"] de dolyak"
+"41";"Vale[pl:"Vales"] de lobo"
+"42";"Vale[pl:"Vales"] de tigre"
+"43";"Vale[pl:"Vales"] de oso"
+"44";"Vale[pl:"Vales"] de tiburón"
+"45";"Vale[pl:"Vales"] de fénix"
+"46";"Vale[pl:"Vales"] de dragón"
+"47";"Adjuntos encontrarás unos objetos especiales que esperamos que disfrutes. <c=@warning>Estos objetos solo pueden obtenerse a través de un personaje. Por favor, asegúrate de no borrar el personaje que los recibe. </c>¡Gracias por jugar a Guild Wars 2!"
+"48";"Entrega de objeto especial"
+"49";"Causas daño con un alcance menor a 300"
+"50";"Causas daño con un alcance entre 300 y 600"
+"51";"Causas daño con un alcance entre 600 y 900"
+"52";"Causas daño con un alcance superior a 900"
+"53";"Disparas un rayo a tu enemigo. Cuanto más lejos esté, más daño le haces."
+"54";"Oleada espacial"
+"55";"<c=@abilitytype>Fantasma.</c> Creas un fantasma que ataca a tu objetivo y crea una burbuja de defensa para protegerse a sí mismo y a los aliados de los proyectiles."
+"56";"Guarda ilusorio"
+"57";"Fuego rotatorio"
+"58";"Siguen los problemas en las Catacumbas Ascalonianas"
+"59";"¡%str1% recibe la asistencia!"
+"60";"Ayuda a marcar un gol."
+"61";"Asistencias"
+"62";"Asistencia"
+"63";"¡%str1% no deja nada suelto!"
+"64";"Número de pérdidas que has recuperado."
+"65";"Recuperaciones"
+"66";"Recuperación"
+"67";"¡%str1% realiza la intercepción!"
+"68";"El número de lanzamientos de barricas que has interceptado."
+"69";"Intercepciones"
+"70";"Intercepción"
+"71";"¡%str1% lo derriba!"
+"72";"Número de pérdidas que has provocado."
+"73";"Pérdidas causadas"
+"74";"Pérdida causada"
+"75";"NPC eliminados"
+"76";"Número de enemigos que has derrotado."
+"77";"Enemigos derrotados"
+"78";"Enemigo derrotado"
+"79";"%str1% ha invitado a %str2% al clan."
+"80";"%str1% ha expulsado a %str2% del clan."
+"81";"%str1% ha dejado el clan."
+"82";"%str1% se ha unido al clan."
+"83";"¡Salve, poderoso[f:"poderosa"] héroe[f:"heroína"]!
+
+¡Espero que estés bien! ¡El vecindario está muy emocionado contigo! Me han dicho que van a celebrar una fiesta en honor de las negociaciones de paz entre humanos y charr del Valle de la Reina. La recepción será en el feudo de Lord Caudecus, con vistas a la ciudad de Beetletun, y asistirán diplomáticos de todas las razas principales. El capitán Logan Thackeray teme por la seguridad de la reina Jennah, que asistirá al acontecimiento, y necesitará ayuda. Un[f:"Una"] héroe[f:"heroína"] de tu calibre debería asistir a la fiesta y ofrecer su ayuda.
+
+Gracias,
+
+Tu heraldo
+
+PD: Sabemos que Zojja también asistirá como parte de la delegación asura, pero no sabemos por qué. Nunca sabes por donde puede salir, ten cuidado."
+"84";"Una invitación a la Mansión de Caudecus."
+"85";"¡Saludos!<br><br>Como resultado de tus acciones, la reina Jennah ha sido rescatada de los bandidos. Ahora, el ministro Caudecus es su huésped en Linde de la Divinidad mientras duran las obras de reforma de su mansión. <br><br>Sin embargo, también me han dicho que hay problemas con las reformas y es posible que vuelvan a necesitar tu ayuda allí. Ve a la hacienda a ver cuál es el problema. Me han dicho que debes encontrarte con un miembro de la Hoja Brillante llamado Talie. Seguro que no hay ningún peligro.<br><br>Atentamente,<br><br>Tu heraldo"
+"86";"Noticias inquietantes de la Mansión de Caudecus"
+"87";"He oído que Faolain ha sido expulsada de la Pérgola del Crepúsculo, pero que, en su ausencia, tres partidarios de la Corte de la Pesadilla han irrumpido en el bosque e intentan hacerse con el control de un secreto que yace en algún lugar entre los árboles.
+
+No sé qué puede ser ese secreto, pero al parecer merece la pena matar por él. He recibido informes sobre sylvari que huyen aterrorizados de la arboleda relatando historias de derramamiento de sangre y horror. Un puñado de sylvari cuidan de los refugiados desalojados por la invasión de la Corte de la Pesadilla, pero hay que hacer algo más. 
+
+Ya te he presentado voluntario, así que demuestra que eres un[f:"una"] héroe[f:"heroína"] y pon fin a esta brutalidad.
+
+Buen viaje,
+
+Tu heraldo"
+"88";"Una pesadilla continua"
+"89";"¡Salve, poderoso[f:"poderosa"] héroe[f:"heroína"]!
+
+Las historias de tus logros han llegado hasta muy lejos. He recibido noticias de Caithe, necesita ayuda en la Pérgola del Crepúsculo, un nido de seguidores de la Corte de la Pesadilla al norte de la Arboleda. Yo creo que se dirige allí porque otra de las primogénitas de los sylvari, Faolain, se ha erigido como líder de la Corte de la Pesadilla y cree que es responsabilidad suya. Caithe siempre ha sido solitaria, primero tras la pérdida de Faolain ante la Corte y luego con la ruptura del Filo del Destino, y creo que está intentando movilizar a sus nuevos amigos contra su antigua aliada.
+
+Como siempre,
+
+Tu heraldo"
+"90";"Ayuda a Caithe en la Pérgola del Crepúsculo"
+"91";"Mi enhorabuena por haber derrotado a Kudu. He de admitir que, cuando supe que Kudu estaba trabajando con energías dracónicas, me pregunté qué tramaba realmente.<br><br>Dicho esto, tenemos problemas más apremiantes. Ahora que Kudu ya no está, las cosas han empeorado en Abrazo del Pesar. Los draga se encaminan a la guerra civil, y algunos miembros de la sociedad de Kudu siguen activos en las profundidades. Y, lo que es más extraño, hay un par de grupos escindidos de los draga que parecen estar pidiendo ayuda al mundo exterior.<br><br>Nunca imaginé que vería a esos xenófobos habitantes de los túneles pedir ayuda, pero podría ser la oportunidad de hacer amigos. Como mínimo, podrás controlar a los draga. Además, tenemos la oportunidad de acabar con los miembros de la Inquisa que aún queden en Abrazo del Pesar. Parece algo apropiado para ti.<br><br>Atentamente,<br><br>Tu heraldo"
+"92";"Noticias de Abrazo del Pesar"
+"93";"¡Salve, poderoso[f:"poderosa"] héroe[f:"heroína"]!
+
+He vuelto a recibir noticias de Caithe. Está decepcionada por no haber podido reconciliar a Logan y Rytlock, pero se ha reunido con Eir Stegalkin. Ambas se dirigen al Abrazo del Pesar, las antiguas fundiciones de los enanos en Fragua del Pesar. Ahora estas cavernas están ocupadas por los draga, que en el pasado fueron los esclavos de los enanos. Los informes dicen que Zojja ya está allí y que tiene sus propios objetivos. No sé qué pretende, está dispuesta a todo. Caithe te agradecería toda la ayuda que pudieras proporcionarles.
+
+Siempre tuyo,
+
+Tu heraldo"
+"94";"Zojja en Abrazo del Pesar"
+"95";"La muerte de Gaheron ha supuesto un duro golpe para la Legión de la Llama, aunque muchos de sus seguidores se niegan a rendirse. Ahora las facciones de la Legión de la Llama conspiran para unificar sus fuerzas y asaltar a los soldados del Pacto asediados que mantienen a raya a los zelotes. También corren rumores oscuros (¿los hay de otro tipo?) de que la Legión de la Llama trata desesperadamente de volver las tornas, y cuando los zelotes se desesperan, se vuelven peligrosos.<br><br>Vuelve a la Ciudadela de la Llama y asegúrate de que la Legión de la Llama no reduce Tyria a cenizas. Te será útil localizar al comandante Suma. Es el oficial encargado de las fuerzas del Pacto dentro de la ciudadela.<br><br>Ve ya,<br><br>Tu heraldo"
+"96";"Otro incendio que apagar"
+"97";"¡Salve, poderoso[f:"poderosa"] héroe[f:"heroína"]!
+
+Hemos recibido noticias del frente de batalla nororiental, Gaheron Fuegobael, el líder de los charr de la Legión de la Llama renegados, se ha visto obligado a retroceder hasta las puertas de su cuartel general, la Ciudadela de la Llama. Un grupo militar formado por la Vigilia, el Priorato de Durmand y la Orden de los Susurros siguen teniendo problemas para atravesar esa puerta. 
+
+Logan Thackeray y Rytlock Brimstone han sido enviados a ese frente y, dada la opinión que tienen el uno del otro, creo que necesitarán a alguien que evite que se maten entre ellos. Obviamente, he pensado en ti, aunque no sé quién es más peligroso: Gaheron o los dos antiguos aliados.
+
+Gracias.
+
+Tu heraldo"
+"98";"Logan y Rytlock luchan en la Ciudadela de la Llama."
+"99";"Caithe me ha dicho que Eir ha dejado a un lado su mal humor y ahora viaja junto a ella para volver a reunir al Filo del Destino. Tu participación en la rehabilitación de Eir es admirable, pero no es momento para que te duermas en los laureles.<br><br>La nave santuario kodan, el Honor de las Olas, todavía está amenazada por los Hijos de Svanir. La Garra de Honor, el líder bélico de estos kodan, ha pedido ayuda. <br><br>Tengo la impresión de que últimamente solo te mando a la boca del lobo. Pese a todo, este asunto merece el riesgo. Ayuda a los kodan. Ya han sufrido bastante.<br><br>Buena suerte,<br><br>Tu heraldo"
+"100";"¡Salva el Honor de las Olas!"
+"101";"¡Salve, poderoso[f:"poderosa"] héroe[f:"heroína"]!
+
+No sé cómo decirte esto, pero me temo que últimamente Eir Stegalkin está de mal humor. Parece que su última reunión con Zojja la ha afectado para mal y yo (y otros) tenemos miedo de que piense hacer algo extremo, para "acabar como una heroína". Me lo ha contado Caithe, que ha estado siguiendo a los norn hacia el norte por el Estrecho de Gorjaescarcha. Allí hay una gran nave santuario de los kodan, el Honor de las Olas, que lucha por mantenerse a flote tras los ataques de los siervos de Jormag. Tanto Caithe como yo creemos que Eir está buscando una batalla que se le escape de las manos y yo dije que irías con ellos para ayudarla.
+
+Ocúpate de este tema tan pronto como te sea posible,
+
+Tu heraldo"
+"102";"Eir ha ido hacia el norte, al Honor de las Olas."
+"103";"Hace unos días, un agente del Pacto fue enviado a Crisol de la Eternidad para cerrar el lugar antes de que alguno de los experimentos de la Inquisa huyera o fuera robado por fuerzas hostiles. 
+
+Pero acabo de enterarme de que el Pacto tiene motivos para creer que el laboratorio de la Inquisa se ha vuelto inestable. Y lo que es peor, la agente Aguja no sabe el peligro en el que se encuentra.
+
+Debido a tu relación previa con el lugar, el Pacto cree que eres el[f:"la"] candidato[f:"candidata"] ideal para volver al Crisol, encontrar a la agente Aguja y transmitirle las novedades. Haz lo que sea necesario para cerrar ese lugar de la Inquisa para siempre y mantener a Espiral a salvo de cualquier peligro.
+
+Buena suerte,
+
+Tu heraldo"
+"104";"Peligro en el Crisol"
+"105";"Salve, poderoso[f:"poderosa"] héroe[f:"heroína"]:
+
+Me han llegado noticias de que han visto a Rytlock y Logan juntos y sin lanzarse amenazas. No sé qué hiciste en la Ciudadela de la Llama, pero parece que ha funcionado.
+
+Zojja ha seguido los pasos del otro aprendiz de su maestro, Kudu, desde que lo expulsó de Abrazo del Pesar. Kudu ha construido un gran laboratorio en el corazón de la base en expansión que la Inquisa tiene en el Crisol de la Eternidad, en la parte oriental de las Montañas Brotavapor.
+
+Kudu ha continuado con sus experimentos con energía dracónica y no tengo ninguna duda de que Zojja pretende enfrentarse a él, aunque tenga que hacerlo sola. He avisado a Rytlock y Logan, pero no sé si llegarán a tiempo. ¿Puedes ayudarme?
+
+Como siempre,
+
+Tu heraldo"
+"106";"Actividad de la Inquisa en el Crisol de la Eternidad."
+"107";"¡Salve, héroe[f:"heroína"] victorioso[f:"victoriosa"]!
+
+ 
+
+¡No puedo contener mi felicidad por la muerte de Zhaitan! Toda Tyria reconoce tu valentía y bravura y se alegra por la reunión de Filo del Destino.
+
+ 
+
+La muerte de Zhaitan no significa el fin de la guerra contra los dragones ancianos, porque ellos y la corrupción que han extendido siguen amenazando nuestra tierra. En el norte, los Hijos de Svanir, seguidores de Jormag, intentan saquear los restos del Honor de las Olas. En el sur, los experimentos de la Inquisa con energías dracónicas en Crisol de la Eternidad son inestables y todo el complejo amenaza con explotar. Y a la sombra del cadáver de Zhaitan, aquellos de sus siervos que han sobrevivido, hostigan a nuestros investigadores, que pretenden desvelar los secretos de los dragones ancianos.
+
+ 
+
+Cualquiera de estas tareas es un desafío digno de un[f:"una"] auténtico[f:"auténtica"] héroe[f:"heroína"]. ¿Quién mejor para encargarse de todas estas amenazas que el[f:"la"] héroe[f:"heroína"] de Tyria, el[f:"la"] asesino[f:"asesina"] de Zhaitan?
+
+ 
+
+Estoy deseando conocer tus futuros triunfos. Y sigo siendo, con admiración,
+
+ 
+
+Tu heraldo"
+"108";"Exploraciones en Arah"
+"109";"¡Salve, poderoso[f:"poderosa"] héroe[f:"heroína"]!
+
+¡Tu leyenda ya recorre desde Rata Sum hasta la Ciudadela Negra, brindan por tu nombre en Linde de la Divinidad y Hoelbrak y cuentan tus hazañas en Arco del León y la Arboleda! Tus vivencias en Orr han inspirado a muchos. Ahora te espera tu mayor misión.
+
+Las fuerzas del Pacto han lanzado un ataque desde el aire contra el propio Zhaitan, en su guarida, en la antigua ciudad de los dioses humanos, Arah. Mientras escribo esto, las primeras aeronaves han empezado a luchar con los campeones de los dragones ancianos, sufriendo terribles pérdidas. El Pacto necesita todas las aeronaves que puedan volar y necesita que luches contra el enemigo para recuperar y relanzar una de sus aeronaves más potentes. He emitido un aviso, buscan a otros que les ayuden, pero no creo que estén dispuestos a dejar a un lado sus problemas y ayudar.
+
+¡Ayuda a golpear bien fuerte el poder de los dragones ancianos! Zhaitan es mortal, pero solo el más noble de los héroes puede acabar con él.
+
+¡Lucha por todos nosotros!
+
+Tu heraldo"
+"110";"¡Ataque a Zhaitan!"
+"111";"Defiende a Gixx mientras trabaja en el dispositivo de contención."

@@ -1,0 +1,475 @@
+"0";"Contenu conçu pour des groupes de 10 joueurs. Rassemblez vos amis pour prendre part à des batailles intenses !"
+"1";"Un cadeau réservé aux courageux assistants du fabricant de jouets."
+"2";"[M]Document"
+"3";"La voie vers l'ouest est ouverte"
+"4";"Arc court chamarré étincelant%str2%%str1%%str3%%str4%"
+"5";"[M]Talon de billet de concert de Metal Legion"
+"6";"Fusil verdoyant gelé%str2%%str1%%str3%%str4%"
+"7";"Sylvari"
+"8";"Monde vivant : saison 4"
+"9";"Dague verdoyante frigorifiée%str2%%str1%%str3%%str4%"
+"10";"Ranoah Brisacier"
+"11";"Mannequin d'entraînement"
+"12";"[M]Déverrouillage d'atelier[pl:"ateliers"] de cuisine"
+"13";"Une épée utilisée par les PNJ des Veilleurs"
+"14";"Mannequin d'entraînement"
+"15";"A une chance d'octroyer un présent ou une augmentation d'Hivernel. L'augmentation d'Hivernel confère les bonus suivants pendant 15 minutes :
+• Expérience à chaque ennemi tué +25%%
+• Gain d'or par ennemi tué +25%%
+• Progression en parcours de récompenses JcJ et McM +25%%"
+"16";"Métal de rebut"
+"17";"Bouclier verdoyant frigorifié%str2%%str1%%str3%%str4%"
+"18";"<c=@flavor>"Des séparatistes d'un côté, des fantômes de l'autre. Et au final, beaucoup trop de Charrs morts."</c>"
+"19";"Vous avez réussi l'épreuve du Corbeau."
+"20";"Le murmure de Jormag invoque un blizzard."
+"21";"[M]Couvercle de coffre brisé"
+"22";"[F]Collaboration"
+"23";"[M]Ouvrage de portail de l'Épopée du givre"
+"24";"Guérison par intervalle"
+"25";"[P]Espauliers de la Légion Sanglante abîmés"
+"26";"Focus verdoyant gelé%str2%%str1%%str3%%str4%"
+"27";"[M]Morceau[pl:"Morceaux"] de karma cristallisé"
+"28";"[P]Bottes du Sommet de Pierre%str2%%str1%%str3%%str4%"
+"29";"[M]Lien de portail du Bosquet"
+"30";"Galeries de Sombregivre"
+"31";"Un peu de la magie d'Aurene"
+"32";"[P]Notes de l'artificière"
+"33";"[F]Caisse de munitions de la Légion Sanglante"
+"34";"[M]Déverrouillage d'atelier de bijoutier"
+"35";"Panorama dans la forêt"
+"36";"Masse verdoyante frigorifiée%str2%%str1%%str3%%str4%"
+"37";"[F]Boîte de gants du Sommet de Pierre"
+"38";"[F]Cape de guilde simple"
+"39";"Boîte de heaume du Sommet de Pierre"
+"40";"[M]Insigne de membre de la Légion Sanglante"
+"41";"Bâton verdoyant frigorifié%str2%%str1%%str3%%str4%"
+"42";"[F]Boîte[pl:"Boîtes"] d'épaulières du Sommet de Pierre"
+"43";"Cor de guerre chamarré étincelant%str2%%str1%%str3%%str4%"
+"44";"Accès à la banque"
+"45";"Ryland Steelcatcher"
+"46";"[M]Fragment de journal intime"
+"47";"Portail de Gardepierre"
+"48";"[F]Flamme du Khan-Ur"
+"49";"Totem du désosseur"
+"50";"Ajoute un atelier de travailleur du cuir à l'Œil du Nord."
+"51";"Capuche de golem de glace%str2%%str1%%str3%%str4%"
+"52";"Couper"
+"53";"Apparaît parfois en tuant des Centaures, et systématiquement en tuant Ulgoth le Modniir."
+"54";"Parler à Vishen après avoir vaincu le forgeron ancestral."
+"55";"Équipement standard
+
+Cliquez pour voir l'équipement JcJ.
+Les avantages de l'équipement JcJ s'appliquent uniquement aux modes de jeu JcJ.
+Les armes sont visibles dans les deux affichages."
+"56";"[M]Insigne de tireur d'élite en herbe"
+"57";"Récupérer les munitions de tank"
+"58";"[F]Autorité de Ryland"
+"59";"[M]Déception"
+"60";"Miniatures des joyeuses fêtes"
+"61";"Apparaît parfois en tuant des destructeurs, et systématiquement en tuant le Mégadestructeur."
+"62";"Agripper la cible"
+"63";"Bâton d'éclat de glace"
+"64";"La promesse et le don de Koda"
+"65";"[F]Recette[pl:"Recettes"] : bâton de la Légion de Fer"
+"66";"[M]Mini-renne[pl:"rennes"] magique[pl:"magiques"]"
+"67";"Atelier de travailleur du cuir"
+"68";"Placez le poisson dans ce panier."
+"69";"[F]Baguette brisée"
+"70";"Espadon verdoyant frigorifié%str2%%str1%%str3%%str4%"
+"71";"Charme chamarré étincelant%str2%%str1%%str3%%str4%"
+"72";"À récupérer dans l'Antre du Tonnerre des Collines de Brise-tonnerre, dans les Champs de ruine."
+"73";"[M]Présent[pl:"Présents"] d'Hivernel verdoyant[pl:"verdoyants"] gelé[pl:"gelés"]"
+"74";"Nicabar Tissacier"
+"75";"À récupérer dans un coffre à la fin d'un puzzle lumineux de la Frontière de Bjora."
+"76";"[F]Rédemption"
+"77";"[M]Lien de portail du Promontoire divin"
+"78";"[F]Epée[s] des Veilleurs"
+"79";"[P]Notes de recrutement : Vishen Tirdacier"
+"80";"Recharge de ceinture utilitaire augmentée"
+"81";"Miséricorde du fabricant de jouets"
+"82";"Heart of Thorns"
+"83";"[M]Déverrouillage d'atelier de travailleur du cuir"
+"84";"Targe chamarrée étincelante%str2%%str1%%str3%%str4%"
+"85";"Terminer le succès "Apprenti[f:"Apprentie"] de l'ingénieur""
+"86";"[F]Remise en question"
+"87";"À récupérer dans le coffre à la fin du puzzle de saut de la Carrière de fonte brute, à la Montée de Flambecœur."
+"88";"Galeries de Sombregivre"
+"89";"[P]Scories primordiales"
+"90";"Clones créés"
+"91";"[F]Bottes de chamane runique%str2%%str1%%str3%%str4%"
+"92";"À récupérer au fort de la Légion Sanglante dans la Vallée de Grothmar."
+"93";"Bâton chamarré étincelant%str2%%str1%%str3%%str4%"
+"94";"Ajoute un accès à la banque depuis l'Œil du Nord."
+"95";"[F]Barre[pl:"Barres"] en canne en sucre"
+"96";"À récupérer dans le coffre à la fin de la mission d'attaque du Col des Cimefroides, dans la Vallée de Grothmar."
+"97";"Nicabar Tissacier"
+"98";"Atelier de forgeron d'armes"
+"99";"[F]Recette[pl:"Recettes"] : fusil longue portée de la Légion de Fer"
+"100";"[F]Confrontation"
+"101";"Mystère du labyrinthe"
+"102";"À récupérer dans un coffre à la fin du puzzle de saut du Plateau cramoisi, au Plateau de Diessa."
+"103";"Monde vivant : saison 3"
+"104";"Course contre la montre"
+"105";"Faire griller un râtelier à viande dans le foyer du village du Bloc de Boucher, au Plateau de Diessa."
+"106";"Endroit secret gardé par des portails"
+"107";"Terminer le succès "Médecine de terrain""
+"108";"À récupérer au Forum d'Ashford, dans les Plaines d'Ashford."
+"109";"Mécanismes de jeu"
+"110";"Après les victoires que nous avons remportées à la Chute draconique, le grand maître de guerre Laranthir a demandé une permission afin de pouvoir retourner au Bosquet.
+
+À titre personnel, je recommande que cette requête lui soit accordée, et qu'on l'autorise à reprendre ses fonctions au sein des Veilleurs quand il le souhaitera.
+
+Laranthir a prouvé qu'il était un chef fort et compétent. Ses instincts sont irréprochables, et ma confiance en lui est inaltérable.
+
+Son absence se fera sentir au sein des Veilleurs, mais nous savons que nous le retrouverons en temps voulu. D'ici là, je travaillerai en étroite collaboration avec Jhavi afin de m'assurer qu'elle est prête à me seconder.
+
+– Garde-âme"
+"111";"Fléau des murmures profanes"
+"112";"Cape de monarque d'hiver"
+"113";"Rang de mission bonus obtenu : support de la troupe"
+"114";"[lbracket]Activité : Défi céleste[rbracket]"
+"115";"L'histoire des Eaux calmes, deuxième partie"
+"116";"[M]Harnois de pourfendeur runique%str2%%str1%%str3%%str4%"
+"117";"[F]Caisse de munitions nanique"
+"118";"[P]Gants de chamane runique%str2%%str1%%str3%%str4%"
+"119";"À acheter auprès de Lakor Grisebabine dans le village du Bloc du boucher, au Plateau de Diessa."
+"120";"Guérison par intervalle"
+"121";"Sceptre verdoyant frigorifié%str2%%str1%%str3%%str4%"
+"122";"À récupérer devant l'entrée de la Citadelle de la Flamme, à la Montée de Flambecœur."
+"123";"Le grand Rat"
+"124";"[M]Cristal[pl:"Cristaux"] stabilisé[pl:"stabilisés"] du prophète"
+"125";"À acheter auprès de Fahrtak Brisedémon près du point de passage du gouffre de Cassedent, dans les Steppes de la strie flamboyante."
+"126";"Camp de la troupe"
+"127";"Rang de mission bonus obtenu : protecteur[f:"protectrice"] de tank"
+"128";"À récupérer dans le coffre à la fin du Grand détour, dans le Détroit de la dévastation."
+"129";"[M]Combo[pl:"Combos"] de sac à dos et deltaplane à ailes stellaires"
+"130";"[M]Croc[pl:"Crocs"] des murmures immaculé[pl:"immaculés"]"
+"131";"[P]Notes de la forgeronne d'armes"
+"132";"[M]Déverrouillage d'atelier[pl:"ateliers"] de chasseur"
+"133";"Services de l'Œil du Nord"
+"134";"À créer en tuant plusieurs ennemis stigmatisés dans les Steppes de la strie flamboyante."
+"135";"Larmes de Koda"
+"136";"Rassemblez votre groupe ou votre escouade et explorez le continent principal de la Tyrie.<br><c=@reminder>(Inclut tous les lieux accessibles dans la version gratuite de Guild Wars 2.)</c>"
+"137";"Ajoute Hoelbrak à la liste des destinations disponibles depuis le portail de l'Œil du Nord."
+"138";"À récupérer sur un éperon de Terra Carorunda, dans les Steppes de la strie flamboyante."
+"139";"Seize the Awkward"
+"140";"Luka Tomasdottir
+
+Silence.
+
+Par pitié.
+
+Arrête.
+
+Tu ne m'écoutes même plus. J'ai l'impression de parler à un mur. Les mots ne servent plus à rien. J'ai hurlé si longtemps contre toi que ma voix m'a abandonné. Je n'ai plus de mots. Je ne parlerai plus jamais, et je choisis donc d'écrire, dans l'espoir que tu me lises et que tu me laisses en paix.
+
+Tu me parles tous les jours sans interruption. Au début, je pensais que tu étais Tonnerre Serviable, même si les gardes du village m'avaient annoncé sa mort.
+
+Non, ce n'est pas vraiment ce qu'ils ont dit. Ils ont dit que sa voix n'était plus la sienne. Je pensais qu'il était peut-être encore vivant, que les guerriers du village l'avaient injustement condamné à l'exil, aveuglés par la peur et l'incompréhension. Je ne pouvais croire que celui que j'avais rencontré dans le Détroit des gorges glacées, avec lequel j'avais échangé tant de récits au coin du feu dans la Vallée du Guetsûr, ne pouvait succomber à la folie si facilement.
+
+J'ai donc suivi la voix. Sa voix. Je l'ai suivie vers l'ouest, au-delà du lac où Svanir succomba à la corruption.
+
+La voix m'a demandé si je voulais revoir Tonnerre Serviable, si je voulais apprendre les secrets des Kodans.
+
+J'ai dit oui. Par les yeux du Corbeau, j'ai dit oui. Pas une seule seconde, je me suis demandé s'il était naturel que la voix de Tonnerre Serviable me demande de telles choses. Je n'ai pas réfléchi.
+
+Mon compagnon apparut alors dans le passage qui mène aux profondeurs du lac gelé et me demanda de le suivre. Nous traversâmes la vallée sans encombre, les créatures qui ne m'avaient laissé aucun répit quelques heures plus tôt s'écartant désormais sur notre passage. Je trouvai cela étrange, bien entendu, mais ça m'était égal. Après tout, elles craignaient peut-être le redoutable Kodan qui m'escortait ? Ou peut-être avaient-elles perdu l'appétit après un copieux repas ?
+
+Tonnerre Serviable m'amena jusqu'à ces ruines et me révéla tout ce que j'avais toujours voulu savoir, pas uniquement au sujet des Kodans, mais de toutes les races de la Tyrie ou presque. Les Brumes. Tout ce qui vivait et avait vécu. Tous mes désirs de connaissance furent comblés, au point que je dus m'arrêter d'écrire, car ma main commençait à saigner.
+
+Mais la voix, elle, ne s'arrêta pas. Je levai les yeux et vit que Tonnerre Serviable n'était plus là. Il ne restait plus que la voix, différente maintenant. Ce n'était plus celle de mon compagnon.
+
+C'était la tienne.
+
+Jormag. Je t'en supplie. Cesse de murmurer à mes oreilles.
+
+Je ne veux plus t'écouter."
+"141";"Ajoute des marchands spécialisés à l'Œil du Nord, comme la marchande de lauriers et les services de guilde."
+"142";"Mission d'attaque (recherche de joueurs)"
+"143";"[M]Déverrouillage de marchand[pl:"marchands"]"
+"144";"Atelier de cuisine"
+"145";"À récupérer dans la rivière près des terrains d'entraînement de la Vallée de Grothmar."
+"146";"[P]Grèves de pourfendeur runique%str2%%str1%%str3%%str4%"
+"147";"[M]Reliquaire[pl:"Reliquaires"] de brassards de cérémonie du Corbeau"
+"148";"À récupérer dans le coffre au fond du Labo de Vexa, à la Montée de Flambecœur."
+"149";"Recette pour fabriquer un fusil longue portée de la Légion de Fer."
+"150";"Vous ne pouvez pas transporter davantage de munitions."
+"151";"À récupérer en terminant la mission d'attaque du murmure de Jormag."
+"152";"[lbracket]Marchand[f:"Marchande"] de flocons de neige[rbracket]"
+"153";"Panorama dans une caverne, témoin d'un passé oublié"
+"154";"[F]Douille à pointe de cristal"
+"155";"Ajoute un atelier de chasseur à l'Œil du Nord."
+"156";"À récupérer en parlant à Marghel Gardeconte à la Porte de Mortelame, dans les Champs de ruine."
+"157";"[F]Expérimentation"
+"158";"Lamerine chamarrée étincelante%str2%%str1%%str3%%str4%"
+"159";"Capuchon de cérémonie du Corbeau%str2%%str1%%str3%%str4%"
+"160";"[M]Lien[pl:"Liens"] de portail de la Citadelle noire"
+"161";"Campement de la troupe d'Acier. Cliquer pour se téléporter."
+"162";"Vendeur générique"
+"163";"Aider Ryland en terrassant le forgeron ancestral dans la vision de la Forge de l'acier."
+"164";"[F]Perspective du mur ascalonien"
+"165";"[F]Ancienne[pl:"Anciennes"] pièce[pl:"pièces"] d'engrenage de Deldrimor"
+"166";"Ajoute un atelier de tailleur à l'Œil du Nord."
+"167";"<c=@flavor>"Premier poste : affectation temporaire à la troupe de Reave, à la Scierie de Couperouge. Être une sentinelle, dans les montagnes, c'est facile. La vue est dégagée. Il paraît qu'il y a un festival du tonnerre au Bloc de Boucher."</c>"
+"168";"Stockez des parchemins de portail du Monde vivant dans cet ouvrage.<br>"
+"169";"Une épée utilisée par les PNJ des Veilleurs"
+"170";"À récupérer dans le coffre à la fin du puzzle de saut de la Grotte du cristal du chaos, dans les Marais de fer."
+"171";"Un peu de la magie d'Aurene"
+"172";"À récupérer dans le coffre au sommet du camp de la Légion de la Flamme, dans la Vallée de Grothmar."
+"173";"Vous portez déjà quelque chose."
+"174";"[lbracket]Cadeaux d'Hivernel[rbracket]"
+"175";"Mannequin d'entraînement"
+"176";"[M]Thon arctique"
+"177";"Miner"
+"178";"Tour oubliée perdue dans les montagnes"
+"179";"Atelier d'artificier"
+"180";"[M]Gobe-flocons"
+"181";"[M]Flux de givre squelettique"
+"182";"/tremble : à déverrouiller dans l'épisode 2 de l'Épopée du givre, "Une ombre dans la glace"."
+"183";"Faire le mort"
+"184";"Apparaît parfois en tuant des fantômes ascaloniens dans la Vallée de Grothmar."
+"185";"[P]Gantelets de pourfendeur runique%str2%%str1%%str3%%str4%"
+"186";"Maîtrisez votre lien avec le Corbeau pour recevoir de meilleurs bonus des portails et des sanctuaires de barrière du Corbeau."
+"187";"[F]Arête de poisson ancestrale"
+"188";"[F]Résistance"
+"189";"Gagnez un bonus de karma permanent en terminant des événements à la Frontière de Bjora. Cumulable jusqu'à trois fois."
+"190";"[M]Tableau industriel du Lion noir"
+"191";"À récupérer dans le coffre à la fin de la Mine stigmatisée, dans les Champs de ruine."
+"192";"Faire le mort"
+"193";"Atelier de tailleur"
+"194";"Mannequin d'entraînement"
+"195";"<c=@flavor>"Aurait pu être un atout de taille, mais est trop fidèle à sa troupe pour être recrutée. Contacter à nouveau en cas de déstabilisation réussie de l'Acier."</c>"
+"196";"Côte du désosseur"
+"197";"À récupérer dans les archives de la Légion des Cendres à la Crique de reconnaissance, dans la Vallée de Grothmar."
+"198";"Recharge de ceinture utilitaire augmentée"
+"199";"Vous avez réussi l'épreuve du Corbeau. Votre grande récompense se trouve sur ses yeux."
+"200";"À acheter auprès du légionnaire Kress Rouygueule au poste de commandement de Tuyère, à la Montée de Flambecœur."
+"201";"À récupérer en terminant l'un des événements de la Vallée de Grothmar."
+"202";"Créature aviaire"
+"203";"Équipement JcJ
+
+Cliquez pour voir l'équipement standard.
+Les avantages de l'équipement standard ne s'appliquent pas aux modes de jeu JcJ.
+Les armes sont visibles dans les deux affichages."
+"204";"Double-cliquez pour ouvrir et obtenir une sélection de sandales, de robes ou de brassards de cérémonie du Corbeau, ou des éclats de glace éternelle. Le contenu sera lié au compte !"
+"205";"Recrutement de guilde"
+"206";"Augmentation de la recharge"
+"207";"Ceci place un tableau industriel du Lion noir dans votre zone personnelle. Il vous permet de récolter les matériaux d'artisanat basiques de votre choix, chaque livraison ayant une faible chance de contenir des ressources excédentaires.
+Types de ressources inclus :
+• Bouts de tissu
+• Segments de cuir
+• Minerai
+• Rondins de bois
+• Bijoux"
+"208";"Un peu de la magie d'Aurene"
+"209";"Mystère des ruines du portail du Corbeau"
+"210";"Ajoute l'Arche du Lion à la liste des destinations disponibles depuis le portail de l'Œil du Nord."
+"211";"Couper"
+"212";"ArenaNet"
+"213";"Par Luka Tomasdottir, scribe des Veilleurs
+
+Il y a plusieurs siècles, le Lac Drakkar fut le théâtre d'une lutte entre les forces du bien et du mal. Svanir, frère de la légendaire héroïne norn Jora, invoqua une puissante créature venue des profondeurs glaciales, un champion du dragon des glaces qui donna plus tard son nom au lac. Svanir se transforma alors en une incarnation torturée de sa forme spirituelle d'ours, et Jora n'eut d'autre choix que de le terrasser.
+
+Depuis ce jour, on raconte que ces lieux abritent un sombre pouvoir, et que d'étranges murmures s'y font entendre, portés par le vent. Suite à l'avènement de Jormag, de nombreux Norns désertèrent les villages et les antiques sanctuaires clairsemés de la vallée, les abandonnant aux éléments et aux fidèles serviteurs du dragon.
+
+Quand les Kodans arrivèrent dans la région peu de temps après, ils furent contraints de s'y installer : les eaux ne pouvaient pas les porter plus loin, et leurs vaisseaux étaient pris dans les glaces. Les modestes huttes qu'ils érigèrent pour se protéger du froid finirent par constituer un village permanent, et quand vint le moment de lui choisir un nom, ses habitants ne purent ignorer le caractère... surnaturel du lac tout proche.
+
+La neige a toujours étouffé le chant de la nature et donné une voix particulière au vent, mais il y avait là une chose encore bien différente. L'eau elle-même semblait douée de parole, murmurant de manière presque perceptible. C'est pour cela que les Kodans ont baptisé l'endroit "Eaux calmes des murmures", son nom complet et consacré.
+
+Par la suite, Zhaïtan fut vaincu. Puis Mordremoth, suivi de Kralkatorrik. Chaque fois que le commandant du Pacte et ses alliés terrassaient un dragon ancestral, les murmures allaient s'intensifiant. Ce qui était d'abord un chuchotement porté par le vent devint bientôt des mots intelligibles, qui s'imposaient à vous et vous disaient ce que vous vouliez entendre.
+
+Progressivement, lentement, ils vous inspiraient confiance, se mêlaient à vos propres pensées au point de ne plus pouvoir les en distinguer.
+
+Et c'est ainsi que les pensées de Jormag devenaient les vôtres.
+
+Pour une raison inconnue, la présence de Drakkar dans le lac renforçait l'emprise de sa voix sur la vallée. Les Kodans furent les premiers à prendre conscience du danger. Ils comprirent qui était Drakkar : la créature du lac, le champion du dragon des glaces, le héraut du dragon ancestral. Il agissait comme un porte-voix qui répandait les paroles de son maître bien au-delà des limites de son royaume. Après la mort de Kralkatorrik et l'émergence d'un nouveau dragon ancestral, les murmures de Drakkar devinrent insupportables.
+
+Les Kodans des Eaux calmes, qui auparavant commerçaient et communiquaient sans entrave avec les factions et les villages hors de leurs frontières, s'isolèrent totalement du monde extérieur. Ils ne savaient plus distinguer leurs propres pensées de celles de Jormag. À qui appartient cette voix ? Est-ce la vôtre, ou bien celle du dragon ?
+
+J'ai eu la chance de faire la connaissance de l'un d'entre eux, Tonnerre Serviable ; nos chemins se sont croisés dans le Détroit des gorges glacées, peu après la mort de Zhaïtan. Il était parti en mission auprès des autres sanctuaires kodans à la recherche de vivres et de nouvelles de l'extérieur, sans doute déjà conscient que les murmures continueraient de gagner en puissance tant que perdurerait le cycle du dragon ancestral actuel.
+
+Je me rendis ensuite aux Eaux calmes, juste après la chute de Mordremoth, où je fus refoulé sans ménagement aux portes du village par les gardes. Pour eux, la vallée était bien trop dangereuse pour qui n'était pas accoutumé aux murmures incessants.
+
+Quand je les questionnai au sujet de Tonnerre Serviable, le Kodan avec lequel j'avais tissé des liens quelque temps auparavant, ils échangèrent un regard énigmatique. Était-ce de la colère ? De la honte ?
+
+L'un d'eux se tourna vers moi, le souffle lourd et les yeux embués.
+
+"Sa voix n'était pas la sienne", lança-t-il, la gorge nouée.
+
+Je lui demandai alors si Tonnerre Serviable allait bien, si je pouvais le voir.
+
+"Si vous prêtez l'oreille, vous l'entendrez. Il vous appellera par-delà le lac, vers l'ouest."
+
+Le garde me fixait, inflexible. "Vous ne devez pas l'écouter. Sa voix n'est plus la sienne.""
+"214";"[P]Notes de l'armurière"
+"215";"Panorama dans une grotte paisible"
+"216";"[F]Recette[pl:"Recettes"] : lame de combat de la Légion de Fer"
+"217";"[M]Masque de chasseur runique%str2%%str1%%str3%%str4%"
+"218";"[M]Masque de chamane runique%str2%%str1%%str3%%str4%"
+"219";"[F]Bénédiction[pl:"Bénédictions"] du gobe-flocons"
+"220";"Un focus provenant de la carcasse d'un désosseur vaincu."
+"221";"Mystère de la tour cachée"
+"222";"À acheter auprès d'un fournisseur du rassemblement dans la Vallée de Grothmar."
+"223";"Miner"
+"224";"Joueurs classés"
+"225";"<c=@flavor>"J'ai toujours eu du mal à sauter de l'arbre jusqu'aux ruines. Finalement, ma fille a trouvé un chemin qui menait jusqu'à la rive sud."</c>"
+"226";"[M]Feu[pl:"Feux"] d'artifice à l'effigie du grand Rat"
+"227";"[P]Bottes de chasseur runique%str2%%str1%%str3%%str4%"
+"228";"Vous devez avoir atteint le niveau 80 pour utiliser cet objet."
+"229";"Terminer le succès "Guetteur[f:"Guetteuse"]""
+"230";"Hache verdoyante gelée%str2%%str1%%str3%%str4%"
+"231";"Cible"
+"232";"Cinder Trempedacier"
+"233";"Chute d'eau suspendue dans le temps"
+"234";"Échange de flocons de neige"
+"235";"Poignard chamarré étincelant%str2%%str1%%str3%%str4%"
+"236";"[M]Traité sur le traitement thermique des matériaux draconiques"
+"237";"Ouvrez pour choisir une paire de gants du Sommet de Pierre."
+"238";"Atelier de bijoutier"
+"239";"Norn"
+"240";"Joueurs classés"
+"241";"Arc court verdoyant frigorifié%str2%%str1%%str3%%str4%"
+"242";"Ce seau sert à recueillir les restes de thon arctique."
+"243";"Boîte de bottes du Sommet de Pierre"
+"244";"Ajoute un atelier de cuisine à l'Œil du Nord."
+"245";"Mission d'attaque (recherche de groupe)"
+"246";"À récupérer en interagissant avec une enclume de réparation."
+"247";"Présents d'Hivernel
+<c=@flavor>Le prix est réinitialisé tous les jours.</c>"
+"248";"[P]Espauliers de pourfendeur runique%str2%%str1%%str3%%str4%"
+"249";"Par Luka Tomasdottir, scribe des Veilleurs
+
+"Que nos voix ne se brisent jamais, et qu'elles restent les nôtres."
+
+La première fois que j'ai entendu ces paroles, elles venaient d'un voyageur kodan, non loin de la Moraine de Rime, au cœur des gorges glacées. En ce lieu, il était un étranger, et les coutumes des Kodans locaux le mettaient clairement mal à l'aise. Il s'appelait "Tonnerre Serviable", et il venait d'une région qui appartenait pour moi aux contes et aux légendes : le Lac Drakkar.
+
+Pour être tout à fait précise, il ne s'est pas présenté exactement de cette manière. "Tonnerre Serviable, des Eaux calmes", voilà ce qu'il a dit.
+
+Les Eaux calmes. Je lui dis que je n'avais jamais entendu parler de ce sanctuaire. Il me répondit que ce n'en était pas un. Son peuple venait bien d'un sanctuaire, très loin au nord, mais le nom et l'histoire de celui-ci avaient été totalement oubliés.
+
+Pendant un instant, mon interlocuteur eut l'air mélancolique, mais cette expression fut rapidement remplacée par une grande inquiétude. La perte est une notion très problématique dans la culture kodan. Il y a énormément de choses qui ne sont plus. Des choses qui conféraient aux Kodans une grandeur sans pareille, mais... tout ça, c'est du passé.
+
+J'essayai d'en savoir plus, mais ma curiosité semblait rendre Tonnerre Serviable nerveux. Le pire fut quand je lui demandai où se trouvaient les Eaux calmes, comme si le simple fait de révéler son emplacement sur la carte eût pu en faire une destination touristique prisée. Je lui assurai que la nature de mon intérêt était purement académique, et après plusieurs heures d'efforts, j'eus l'impression d'être parvenue à apaiser son esprit tourmenté.
+
+La colonie qui allait devenir les Eaux calmes avait tout d'abord été ce que l'on appelait un sanctuaire kodan, une de ces cités de glace qui flottaient sur les eaux au nord des Cimefroides. Elles étaient plus anciennes que le précédent éveil des dragons ancestraux, que les Kodans appellent la "tempête de dragons". À cette époque, leur croyance était que ces îles mouvantes étaient un cadeau qui leur était fait, une compensation pour les souffrances qu'ils enduraient tandis que le reste du monde était purifié par les dragons ancestraux.
+
+Ces cités résistèrent aux éléments pendant des millénaires. Malheureusement, elles ne survécurent pas à Jormag. La montée des eaux et les créatures terrifiantes qui l'accompagnèrent eurent raison des sanctuaires et obligèrent les Kodans à fuir. Un groupe issu d'un sanctuaire embarqua sur un navire de bois, chose rare à une telle latitude, et mit le cap au sud. Ils allaient suivre les cartes dessinées par les plus grands explorateurs de leur espèce et trouver refuge dans les montagnes.
+
+Mais leurs cartes étaient antérieures à l'éveil de Jormag. Depuis, les rivières étaient devenues des lacs, et les montagnes des vallées. Les Kodans finirent par se perdre au cœur des Lointaines Cimefroides. Leur navire était immobilisé par la neige et la glace. Ils étaient arrivés au Lac Drakkar.
+
+Et le lac murmurait..."
+"250";"Marteau de guerre chamarré étincelant%str2%%str1%%str3%%str4%"
+"251";"Ajoute la Citadelle noire à la liste des destinations disponibles depuis le portail de l'Œil du Nord."
+"252";"Armure légère"
+"253";"Panorama depuis les plus hautes cimes"
+"254";"Retournez dans les plaines d'Elona et aventurez-vous toujours plus loin pour faire face au dragon ancestral de cristal, Kralkatorrik.<br><c=@reminder>(Requiert l'extension Path of Fire, ainsi que l'achat ou le déverrouillage des épisodes de la saison 4 du Monde vivant, ou l'appartenance à un groupe comprenant un joueur les possédant déjà.)</</c>"
+"255";"[M]Manteau de chasseur runique%str2%%str1%%str3%%str4%"
+"256";"Cobaye du tournoi"
+"257";"[M]Déverrouillage d'atelier d'artificier"
+"258";"Apparaît en tuant des ours dans les Steppes de la strie flamboyante."
+"259";"Ouvrez pour choisir une paire de spallières du Sommet de Pierre."
+"260";"[M]Ordre de redéploiement"
+"261";"[F]Lettre[s] d'approbation"
+"262";"Parcourez Elona avec votre fidèle monture et affrontez l'armée de Balthazar, le dieu de la guerre et du feu.<br><c=@reminder>(Requiert l'extension Path of Fire.)</c>"
+"263";"[M]Manuel de maintenance de terrain"
+"264";"Un peu de la magie d'Aurene"
+"265";"[F]Étincelle[pl:"Étincelles"] de vie gelée[pl:"gelées"]"
+"266";"Parler à Cinder après avoir vaincu le forgeron ancestral."
+"267";"Monde vivant : l'Épopée du givre"
+"268";"À récupérer dans le coffre à la fin du puzzle de saut de la Folie de Delirius, dans les Steppes de la strie flamboyante."
+"269";"Le Pacte"
+"270";"[F]Cape armoriée"
+"271";"[F]Aspiration"
+"272";"Terminer le succès "Rival[f:"Rivale"] d'acier""
+"273";"Commandant[f:"Commandante"],
+
+Malgré les assauts constants de l'ennemi qui ne laissent pas une minute de repos aux Veilleurs, je suis parvenue à envoyer un petit groupe en reconnaissance au portail fermé que nous avons découvert sur la route des montagnes occidentales.
+
+Après de nombreuses tentatives, ils ont réussi à dissiper la magie corruptrice du chamane de Svanir et à ouvrir le portail à l'aide d'une lentille du Corbeau. Rytlock et Crecia s'y sont précipités sans attendre pour poursuivre Bangar, et je n'ai pas eu de nouvelles d'eux depuis.
+
+Je ne dispose d'aucun éclaireur qui me semble à même de traverser ce portail, mais je sais ce qui se trouve de l'autre côté : le lac où Svanir a appelé le champion du dragon des glaces. Ce lieu est imprégné d'une grande puissance. Une puissance absolument terrifiante.
+
+Soyez prudent[f:"prudente"].
+
+– Jhavi"
+"274";"Ajoute un atelier de forgeron d'armes à l'Œil du Nord."
+"275";"Double-cliquez pour échanger des flocons de neige contre une chance d'obtenir une augmentation ou un présent d'Hivernel."
+"276";"[F]Statuette[pl:"Statuettes"] du Corbeau bénie[pl:"bénies"]"
+"277";"À propos du bassin de divination"
+"278";"[F]Demande de transfert"
+"279";"La durée de la barrière est doublée. Utilisez les portails du Corbeau pour bénéficier d'une augmentation de vitesse."
+"280";"[F]Stimulation karmique"
+"281";"[P]Epaulières de chasseur runique%str2%%str1%%str3%%str4%"
+"282";"Miniatures de rôdeur"
+"283";"[M]Secret du réflecteur du Corbeau"
+"284";"Par Luka Tomasdottir, scribe des Veilleurs
+
+À plusieurs titres, les Kodans des Eaux calmes sont l'exemple parfait d'une communauté isolée. C'est bien simple : ils sont tellement isolés que je n'ai pas encore réussi à leur rendre visite en personne. À défaut, je dois me contenter des notes que j'ai prises au cours de plusieurs échanges fascinants avec un authentique habitant du village, Tonnerre Serviable.
+
+Il a attiré mon attention sur un fait surprenant qui m'avait jusque-là échappé : la plupart des habitants des Eaux calmes ont des noms plutôt inhabituels chez les Kodans. Même s'ils peuvent paraître similaires au premier abord, on remarque des différences notables, que l'on peut rattacher aux traditions plus anciennes de ce peuple.
+
+La société kodan telle que nous la connaissons emploie des patronymes flexibles. Ils peuvent changer au gré des circonstances et des humeurs, ou décrire des objets particuliers. On note également l'absence de nom de famille et de prénom à proprement parler. Certains peuvent être composés de trois mots, voire plus.
+
+Alors que nous attendions le passage d'une tempête qui balayait la Vallée du Guetsûr, bien au chaud au coin du feu, Tonnerre Serviable m'a confié sa crainte que les Kodans aient oublié le temps où leurs noms avaient davantage de sens. Il regrettait que les conventions actuelles, qui s'étaient répandues dans un nombre de sanctuaires minoritaires ayant élu domicile dans les Cimefroides, puissent donner une mauvaise image de tous les Kodans auprès des races du Sud.
+
+Il m'a ainsi appris que ses semblables, dont font partie un grand nombre de tribus ayant péri, loin au nord, suite à l'émergence de Jormag, employaient des conventions totalement différentes.
+
+Aux Eaux calmes, le premier nom d'un Kodan est appelé "le don de Koda", et il se réfère à la nature. Montagne. Tonnerre. Nuage. Crique.
+
+Le deuxième nom se base généralement sur une qualité précise, qui n'est pas forcément possédée par le petit à la naissance, mais plutôt souhaitée par sa famille ou sa tribu. Humble. Stoïque. Serviable. Noble. Dans leur société, ce nom est appelé "la promesse de Koda". Les deux noms sont ensuite liés, le don précédant toujours la promesse.
+
+Je me dois de préciser que ce dernier ne constitue en rien un nom de famille, bien au contraire ; les Kodans des Eaux calmes ne semblent avoir aucun désir de perpétuer leur lignée de cette manière. Leur village est si faiblement peuplé que les noms sont quasiment tous uniques, et le nom de famille est une commodité inutile. Pour autant, Tonnerre Serviable ne s'est pas présenté à moi comme tel, mais comme "Tonnerre Serviable, des Eaux calmes".
+
+Il faut également mentionner leurs chefs, qui semblent s'affranchir des conventions patronymiques établies lorsqu'ils deviennent Griffe ou Voix. Il apparaît même que chaque position possède sa propre convention. Tonnerre Serviable m'a parlé d'une Griffe nommée "Cherchenuée" et d'une Voix baptisée "Guide-du-printemps", deux patronymes qui semblent défier les lois établies. Cela souleva évidemment de nouvelles questions, auxquelles mon compagnon promit de répondre lors de notre prochaine rencontre.
+
+Rencontre qui, à ma plus grande tristesse, n'eut jamais lieu."
+"285";"Masque de golem de glace%str2%%str1%%str3%%str4%"
+"286";"[F]Étrenne céleste"
+"287";"[M]Pantalon de chamane runique%str2%%str1%%str3%%str4%"
+"288";"Boîte d'épaulières du Sommet de Pierre"
+"289";"Maniement double"
+"290";"[F]Cape armoriée"
+"291";"Forge thermique. Cliquer pour se téléporter."
+"292";"Un jour, un ermite m'a parlé des pouvoirs de l'eau. Si elle est calme et pure, on peut l'enchanter pour en faire un miroir qui réfléchit d'autres lieux et d'autres époques.
+
+
+
+Les rituels qu'elle exige sont simples, et elle peut offrir en retour des visions riches et détaillées. Un héros a été capable d'exploiter cette puissance à l'aide de souvenirs d'événements récents. Peut-être que les anciens qui ont créé cet endroit savaient qu'il serait un jour nécessaire.
+
+
+
+Ô, champion de l'avenir qui liras un jour ces paroles, voici les instructions que je te laisse ! Trouve les reliques de ton histoire et apprends à maîtriser la puissance de cette eau.
+
+
+
+Dans ce bassin calme et silencieux, puisse la force du passé t'aider dans les épreuves à venir."
+"293";"Métal de rebut"
+"294";"[M]Hydromel distillé hylek"
+"295";"[M]Reliquaire[pl:"Reliquaires"] de sandales de cérémonie du Corbeau"
+"296";"Minerai[s] d'orichalque"
+"297";"Silence"
+"298";"Afficher l'équipement JcE"
+"299";"Labyrinthe perdu"
+"300";"Apparaît parfois en tuant des couvegivres, et systématiquement en tuant la Griffe de Jormag."
+"301";"Vous ne pouvez pas ouvrir ce coffre."
+"302";"[M]Morceau de papier carbonisé"
+"303";"[lbracket]Récompenses d'Hivernel[rbracket]"
+"304";"[F]Saucisse du Viandoberfest"
+"305";"Mission d'attaque : grand coffre de bravoure oublié"
+"306";"[F]Pousse[s] de cyprès"
+"307";"[F]Recette[pl:"Recettes"] : pistolet de la Légion de Fer"
+"308";"Ouvrez pour choisir une paire de bottes du Sommet de Pierre."
+"309";"Ajoute Rata Sum à la liste des destinations disponibles depuis le portail de l'Œil du Nord."
+"310";"À récupérer au village de Claypool, dans la Vallée de la reine."
+"311";"Récupérer les munitions de tank"
+"312";"Ajoute un marchand basique à l'Œil du Nord."
+"313";"Récompenses d'Hivernel"
+"314";"Grotte de Soufflevent"
+"315";"Un peu de la magie d'Aurene"
+"316";"Les joueurs individuels et les groupes peuvent signaler ici aux escouades déjà formées qu'ils souhaitent explorer les missions d'attaque."
+"317";"Cor de guerre verdoyant gelé%str2%%str1%%str3%%str4%"
+"318";"Une épée utilisée par les PNJ des Veilleurs"
+"319";"Brillance du Corbeau"
+"320";"[P]Munitions de fer sombre"
+"321";"À récupérer dans le coffre après le concert de Metal Legion dans la Vallée de Grothmar."
+"322";"La menace posée par les dragons ancestraux n'est pas écartée. Pour l'affronter, explorez les terres gelées du nord de la Tyrie et plongez-vous dans les cultures charr et norn.<br><c=@reminder>(Requiert l'extension Path of Fire, ainsi que l'achat ou le déverrouillage des épisodes du Monde vivant, ou l'appartenance à un groupe comprenant un joueur les possédant déjà.)</</c>"

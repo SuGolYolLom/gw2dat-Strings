@@ -1,0 +1,333 @@
+"0";"Combiner cinq fioles cristallines corrompues différentes pour créer le coffret de fioles cristallines corrompues."
+"1";"Votre Héraut"
+"2";"Bâton explosif assaillant de Sabetha"
+"3";"Cristal vivant infusé"
+"4";"Puissance +20
+Précision +20
+Robustesse +10
+Concentration +10"
+"5";"Flasque hylek vide"
+"6";"Crique de Sud-Soleil"
+"7";"Lance-flammes"
+"8";"Apparence[pl:"Apparences"] de fusil impitoyable"
+"9";"Jus de scarabée"
+"10";"[M]Talisman de Garr guérisseur"
+"11";"Mucus malodorants"
+"12";"Kit[pl:"Kits"] de teintures carillons d'hiver"
+"13";"Combiner les quatre sanies en ayant la flasque hylek vide dans votre inventaire pour créer l'alkahest de sanies."
+"14";"À combiner avec une arme liée par le sang, une pierre philosophale et 5 tas de poussière cristalline dans la forge mystique pour réinitialiser les statistiques de l'arme."
+"15";"Pour basculer sur la boîte de saisie."
+"16";"Récompenses d'artisanat"
+"17";"Fusil-harpon lié par le sang"
+"18";"Envoyer au sous-groupe %str1%"
+"19";"Terres sauvages de Brisban"
+"20";"Trouvé dans le coffre du Réacteur de Thaumanova après avoir vaincu l'élémentaire de feu de la Province de Metrica."
+"21";"Point de passage du Poste de commandement sud"
+"22";"[PF]Ailes de la gloire d'élite%str2%%str1%%str3%%str4%"
+"23";"Salutations, l'ami[f:"amie"],
+
+Le printemps ne tardera pas à venir et le Monastère Eldvin est en plein préparatif pour la nouvelle saison de brassage. La pilsner du mois a été inspirée par l'Arbre clair. Bière cristalline qui se déguste au printemps, son goût de houblon balance à merveille les autres saveurs qui la composent.
+
+Bonne santé et buvez une chope à la mienne !
+
+– Desch Metz,
+Maître brasseur du Monastère Eldvin"
+"24";"Clé[pl:"Clés"] d'encodage fractal à prix vraiment cassé"
+"25";"Double-cliquez pour ouvrir.
+Contient du butin de créatures
+<c=@reminder>Cet objet est affecté par la Découverte de magie.</c>"
+"26";"Desch Metz, maître brasseur"
+"27";"Recette[pl:"Recettes"] : pantalon de guilde orné"
+"28";"Contient le trophée d'or de la Ligue des guildes-challengers, des potions de récompense JcJ, un coupon, une pièce et des objets de décoration de la Ligue des guildes-challengers qui vous permettent de restaurer votre arène de guilde."
+"29";"Lancer de présent d'Hivernel"
+"30";"Trophée de platine de la Ligue des guildes-challengers de la saison 1"
+"31";"Tir de piques"
+"32";"Point de passage du Camp avant sud"
+"33";"Boîte[pl:"Boîtes"] de pièces d'armure glorieuse"
+"34";"Deltaplane de l'Ascension"
+"35";"Remporter 3 fois la victoire dans le Chaos des neiges pendant Hivernel."
+"36";"Spore[pl:"Spores"] de champignon invisible de berserker"
+"37";"Bouteille[pl:"Bouteilles"] de lager estivale à l'orange et à la pierre de sang"
+"38";"Double-cliquez pour apprendre la recette de barre aux baies d'Omnom et à la menthe poivrée pour maître queux."
+"39";"Récompense de bronze de la Ligue des guildes-challengers"
+"40";"Vous devez acheter l'essence de défi pour acheter cet objet."
+"41";"Mini-présent[s] skritt[pl:"skritts"] munificent[pl:"munificents"]"
+"42";"Détruisez les récupérateurs des lignes de force et alimentez le golem pour attirer le régent chak."
+"43";"À combiner dans la forge mystique avec des mini-présents skritts pour améliorer leur esprit d'Hivernel."
+"44";"Toujours afficher mon nom"
+"45";"Point de passage du Camp avancé sud"
+"46";"Papier cadeau"
+"47";"Brise-porte"
+"48";"Mitraillage"
+"49";"Salutations, l'ami[f:"amie"],
+
+La joie, les blagues et la créativité sont à l'honneur ce mois-ci, et nos amis de la Citadelle noire ont créé un breuvage délicieux, bien que curieux. La Rytlager Brimstout est une bière forte qui ne pardonne pas, d'où son nom parfaitement choisi. Il va sans dire que les brasseurs avaient largement "goûté" leur breuvage avant de le nommer.
+
+Bonne santé et buvez une chope à la mienne !
+
+– Desch Metz,
+Maître brasseur du Monastère Eldvin"
+"50";"Mini-têtenflèche[s]"
+"51";"Ce joueur se trouve dans une autre instance de la carte."
+"52";"Nouveau mini-têtenflèche disponible !"
+"53";"En combiner 5 dans la forge mystique avec 2 cristaux de vision, 250 éclats de gloire et un noyau des Brumes parfait pour créer un don d'escarmouche."
+"54";"Présent[pl:"Présents"] emballé[pl:"emballés"] donné[pl:"donnés"] : %num1%/%num2%"
+"55";"Vous devez acheter l'essence de discipline pour acheter cet objet."
+"56";"Présent[pl:"Présents"] emballé[pl:"emballés"]"
+"57";"Double-cliquez pour invoquer cette miniature qui vous suivra partout. Vous ne pouvez utiliser qu'une seule miniature à la fois."
+"58";"Gage d'amitié offert par Varonos Saszglop de Doubleboucle à la fin des jeux quaggans."
+"59";"Libère des kits médicaux"
+"60";"Tenue de solstice d'hiver"
+"61";"Mission McM durant laquelle les membres doivent coopérer pour terminer plusieurs défis et tâches McM."
+"62";"Double-cliquez pour apprendre la recette de boule de crème glacée au coulis de menthe poivrée et aux baies pour maître queux."
+"63";"Bouteille[pl:"Bouteilles"] de Rytlager Brimstout"
+"64";"Ce présent peut être offert aux orphelins du Promontoire divin.<br><c=@flavor>"En cette période de fêtes, n'oubliez pas les orphelins. Le plus petit présent peut apporter la plus grande joie."</c>– Reine Jennah"
+"65";"Point de passage du Camp avant central"
+"66";"Recette[pl:"Recettes"] : habits de guilde ornés"
+"67";"Embardée"
+"68";"Écrasez les œufs de chak pour attirer le régent chak."
+"69";"<c=@flavor>Toute célébration devrait avoir sa propre bière brassée spécialement pour l'occasion. Avec sa robe brune, sa forte saveur à mélasse, épices et fruits, la Jupilé de la reine a connu un véritable succès.</c>"
+"70";"[PF]Grèves de guilde ornées%str2%%str1%%str3%%str4%"
+"71";"Point de passage du Camp avancé nord"
+"72";"Emplacements d'inventaire partagés"
+"73";"Félicitations ! Vous avez obtenu le sac à dos et l'apparence de deltaplane de l'Ascension."
+"74";"À trouver dans les présents d'Hivernel."
+"75";"Point de passage du Poste de commandement nord"
+"76";"Héros"
+"77";"Canon[pl:"Canons"] à neige"
+"78";"Boule[pl:"Boules"] de neige de champion"
+"79";"Trophée d'or de la Ligue des guildes-challengers de la saison 1"
+"80";"<c=@flavor>Les puissants arômes de cette bière envahiront votre palais. Sa couleur ambrée dissimule ses fortes touches fruitées, sa senteur de chêne et son amertume. Cet ancien breuvage se fait de plus en plus rare et il est très recherché par les collectionneurs.</c>"
+"81";"Charge"
+"82";"Salutations, l'ami[f:"amie"],
+
+Brassée à base d'ingrédients qui incluent entre autres les plus belles citrouilles de Kryte, la porter à la citrouille du Roi Dément est une bonne alternative aux esprits tourmentés et joueurs de l'Arche du Lion. Profitez de l'ambiance festive et terrifiante de la Tyrie pour découvrir cette bière aux saveurs d'épices qui réjouira vos papilles.
+
+Bonne santé et buvez une chope à la mienne !
+
+– Desch Metz,
+Maître brasseur du Monastère Eldvin"
+"83";"Bière du mois du Monastère Eldvin : faro de Guéripierre"
+"84";"Marchand[f:"Marchande"]<br>• Achat de provisions<br>• Vente d'objets"
+"85";"Ignore les joueurs • Inflige de lourds dégâts aux portes"
+"86";"Récompense d'argent de la Ligue des guildes-challengers"
+"87";"[lbracket]Papier cadeau[rbracket]"
+"88";"Bière du mois du Monastère Eldvin : gueuze ascalonienne vieillie en fût"
+"89";"Décollage"
+"90";"Tenue[pl:"Tenues"] de pourfendeur"
+"91";"Confère des Dégâts par altération à hauteur de 3%% de votre Précision
+Confère des Dégâts par altération à hauteur de 8%% de votre Expertise
+Expérience à chaque ennemi tué +10%%
+Bonus de karma +10%%"
+"92";"Recette[pl:"Recettes"] : gants de guilde ornés"
+"93";"Pierre[pl:"Pierres"] à affûter aurique[pl:"auriques"] de druide"
+"94";"Gourmand[f:"Gourmande"]"
+"95";"Héros"
+"96";"<c=@abilitytype>Élixir.</c> L'Élixir U vous confère Célérité, Stabilité et Vigueur."
+"97";"Écho invoqué • Soutient les alliés à proximité • Inflige des dégâts modérés aux joueurs et des dégâts mineurs aux portes"
+"98";"[PF]Jambières de guilde ornées%str2%%str1%%str3%%str4%"
+"99";"Défaites"
+"100";"Déverrouille la collection Présence hivernale."
+"101";"Récompense de platine de la Ligue des guildes-challengers"
+"102";"Pulsion généreuse"
+"103";"Compétence de l'esprit d'Hivernel 2 déverrouillée"
+"104";"Bienvenue dans le club de la bière du mois du Monastère Eldvin"
+"105";"Bouteille[pl:"Bouteilles"] de lambic d'Istan"
+"106";"Contient le trophée d'argent de la Ligue des guildes-challengers, des potions de récompense JcJ, un coupon, une pièce et des objets de décoration de la Ligue des guildes-challengers qui vous permettent de restaurer votre arène de guilde."
+"107";"Recette[pl:"Recettes"] : pourpoint de guilde orné"
+"108";"Contient des trophées d'artisanat rares de niveau 4."
+"109";"Essence[pl:"Essences"] des neiges"
+"110";"À acheter avec du minerai cristallin à la Corniche de Mordremoth au Repli du dragon une fois la zone sécurisée."
+"111";"Spore[pl:"Spores"] de champignon invisible de fracasseur"
+"112";"Limite d'achat : 30 clés d'encodage fractal à prix cassé par jour.
+Cet objet contient une clé d'encodage fractal. Chaque clé décode un encodage fractal contenant un objet bonus des fractales !
+Vous pouvez trouver des encodages fractals dans les coffres de récompense finale de n'importe quelle fractale des Brumes."
+"113";"Retirer toutes les décorations"
+"114";"Vous soignez les alliés à proximité et votre familier lorsque vous utilisez une compétence de soins."
+"115";"Le nom de votre personnage est toujours affiché au-dessus de votre tête."
+"116";"Griffe gelée"
+"117";"Double-cliquez pour convertir en flocons de neige."
+"118";"N'est-ce pas agréable de faire un don ? Et au moins, c'est pour une bonne cause."
+"119";"À créer dans la forge mystique avec des flocons de neige."
+"120";"Réverbère[pl:"Réverbères"] festif[pl:"festifs"]"
+"121";"Recette[pl:"Recettes"] : boule de crème glacée au coulis de menthe poivrée et aux baies"
+"122";"Essence[pl:"Essences"] d'espièglerie"
+"123";"Bouteille[pl:"Bouteilles"] de pilsner de l'Arbre clair"
+"124";"Vous devez acheter les ailes de la gloire de vétéran pour acheter cet objet."
+"125";"Mini-présent[s] skritt[pl:"skritts"]"
+"126";"Confère 10 000 points de karma."
+"127";"[PF]Chausses de guilde ornées%str2%%str1%%str3%%str4%"
+"128";"Taillis abandonné"
+"129";"Mission JcJ durant laquelle les membres d'une équipe de guilde doivent gagner un certain nombre de matchs dans le temps imparti. Pour former une équipe de guilde, sélectionner l'onglet de l'équipe depuis la fenêtre Guilde et sélectionnez « Créer une équipe ». Choisissez un nom et sélectionnez le mode JcJ puis assignez des joueurs à cette équipe. Une équipe doit être constituée d'au moins 3 joueurs."
+"130";"Nombre de boules de neige"
+"131";"<c=@flavor>Élaboré selon une recette élonienne millénaire, le lambic d'Istan est amer au goût d'agrumes. Une bière parfaite pour les après-midi d'été.</c>"
+"132";"Double-cliquez pour débloquer la recette d'huile de maintenance à la menthe poivrée pour chasseur."
+"133";"Bière du mois du Monastère Eldvin : pilsner de l'Arbre clair"
+"134";"Récompense de cuivre de la Ligue des guildes-challengers"
+"135";""Il faut combattre le feu par les chamallows", comme on dit."
+"136";"Mission du monde ouvert durant laquelle les membres coopèrent afin de trouver et de tuer des cibles en Tyrie."
+"137";"Spore[pl:"Spores"] de champignon invisible de chronomancien"
+"138";"Reine[pl:"Reines"] des abeilles préservée[pl:"préservées"]"
+"139";"Mission JcJ durant laquelle les membres d'une équipe de guilde doivent terminer diverses tâches en mode Bastion. Pour former une équipe de guilde, sélectionner l'onglet de l'équipe depuis la fenêtre Guilde et sélectionnez « Créer une équipe ». Choisissez un nom et sélectionnez le mode JcJ puis assignez des joueurs à cette équipe. Une équipe doit être constituée d'au moins 3 joueurs."
+"140";"Double-cliquez pour débloquer la recette de boîte de cake aux fruits pour forgeron d'arme."
+"141";"Accords de la saison"
+"142";"Terminer le puzzle de saut du Pays des merveilles d'hiver %num2% fois pendant Hivernel."
+"143";"À obtenir en atteignant la troisième division du classement JcJ."
+"144";"Trouver les bonnes notes est plus difficile que prévu."
+"145";"Décorer"
+"146";"Salutations, l'ami[f:"amie"],
+
+Nous encourageons toujours nos brasseurs à expérimenter avec de nouveaux ingrédients. Le résultat est toujours surprenant, dans le bon comme dans le mauvais sens du terme. De nombreux sceptiques attendaient la lager estivale à l'orange et à la pierre de sang au tournant, mais leurs doutes se sont rapidement évaporés, comme nos réserves d'ailleurs. Une légère sensation de picotement vient enrichir le puissant arôme d'agrumes de cette bière.
+
+Bonne santé et buvez une chope à la mienne !
+
+– Desch Metz,
+Maître brasseur du Monastère Eldvin"
+"147";"Bénédiction hivernale"
+"148";"Classement légendaire"
+"149";"Pierre[pl:"Pierres"] à affûter aurique[pl:"auriques"] de fracasseur"
+"150";"Présent[pl:"Présents"] d'Hivernel géant[pl:"géants"] poussiéreux"
+"151";"Recette[pl:"Recettes"] : grèves de guilde ornées"
+"152";"À combiner avec 20 écailles renforcées, 50 grandes écailles et 250 minerais de dragonite dans la forge mystique pour créer une essence mystique de discipline."
+"153";"<c=@flavor>La Rytlager Brimstout est une bière forte qui ne pardonne pas, d'où son nom parfaitement choisi. Il va sans dire que les brasseurs avaient largement "goûté" leur breuvage avant de le nommer.</c>"
+"154";"Combiner les 4 ailes de la gloire pour obtenir les ailes de l'Ascension, le précurseur de l'Ascension."
+"155";"Recette[pl:"Recettes"] : casque de guilde orné"
+"156";"Retirer les décorations"
+"157";"Jouet[pl:"Jouets"] réparé[pl:"réparés"]"
+"158";"Appuyez pour procéder à un tir de mortier à l'emplacement ciblé. Il inflige des dégâts et Renversement aux ennemis."
+"159";"Point de passage du Poste de commandement central"
+"160";"Balayage"
+"161";"À gagner à la fin de la saison de JcJ quand votre équipe de guilde se trouve entre la 2e et la 25e place du classement de la Ligue des guildes-challengers."
+"162";"La force du titan augmente."
+"163";"Recette[pl:"Recettes"] : bottes de guilde ornées"
+"164";"Terminer le succès Accords de la saison.
+(Uniquement disponible pendant Hivernel.)"
+"165";"Coffre de Paressor"
+"166";"<c=@flavor>Dans l'Abbaye d'Ashford, des aventuriers ont eu la chance de découvrir une recette de bière longtemps oubliée. Le Monastère Eldvin s'est fait un point d'honneur à renouer avec cette tradition, offrant aux amateurs de bières un breuvage à la robe brune foncée et aux saveurs épicées.</c>"
+"167";"Bière du mois du Monastère Eldvin : porter à la citrouille du Roi Dément"
+"168";"Un rang de prestige est obtenu chaque fois qu'un joueur atteint une nouvelle division légendaire. Les rangs de prestige peuvent être perdus."
+"169";"Fêtard[f:"Fêtarde"]"
+"170";"Bataille de boules de neige"
+"171";"Salutations, l'ami[f:"amie"],
+
+Le Monastère Eldvin vous souhaite une bonne année ! Celle-ci ne peut par ailleurs que bien commencer puisque voici votre première bière du mois, une bière sombre et festive recréée d'après une ancienne recette canthienne. Le stout empyréen possède un arôme qui rappelle les temps anciens, il est parfait pour les fraîches nuits étoilées.
+
+Bonne santé et buvez une chope à la mienne !
+
+– Desch Metz,
+Maître brasseur du Monastère Eldvin"
+"172";"Contient le trophée de bronze de la Ligue des guildes-challengers, des potions de récompense JcJ, un coupon, une pièce et des objets de décoration de la Ligue des guildes-challengers qui vous permettent de restaurer votre arène de guilde."
+"173";"Essence[pl:"Essences"] de charité skritt[pl:"skritts"]"
+"174";"Succès quotidiens - Hivernel"
+"175";"<c=@flavor>Des agrumes de Tyrie donnent à cette lager son goût si unique. Une petite quantité de poussière de pierre de sang qui lui est ajoutée fournit une sensation de picotement aux buveurs.</c>"
+"176";"Achever les morceaux de l'Orchestre de sonneurs %num2% fois pendant Hivernel."
+"177";"Même les lieutenants du dragon ne peuvent résister à la période des fêtes."
+"178";"Recette[pl:"Recettes"] : boîte de cake aux fruits"
+"179";"À obtenir en atteignant la sixième division du classement JcJ."
+"180";"Contient de l'aurillium et de l'équipement."
+"181";"Amélioration"
+"182";"À gagner à la fin de la saison de JcJ quand votre équipe de guilde se trouve entre la 101e et la 250e place du classement de la Ligue des guildes-challengers."
+"183";"Mission instanciée durant laquelle les membres coopèrent pour accomplir différentes tâches comme protéger des PNJ ou des objets, vaincre des PNJ ennemis, détruire rapidement des objets ou survivre pendant une durée définie. Pour accéder à une mission instanciée, interagissez avec le drapeau de mission de guilde en monde ouvert. Cela ouvrira un portail que votre guilde pourra utiliser pour se rendre jusqu'à l'instance."
+"184";"Mini-dragon à rafale des neiges<br>disponible !"
+"185";"Ces emplacements ne peuvent pas contenir d'objets liés à l'âme."
+"186";"Bonus de karma +10%%
+La durée est cumulable (30 minutes maximum)."
+"187";"Stalactite[pl:"Stalactites"] d'harmonisation"
+"188";"de la ruche"
+"189";"Mission McM durant laquelle les membres doivent capturer un objectif dans un laps de temps donné."
+"190";"Double-cliquez pour débloquer la recette de stalactite d'harmonisation pour artificier."
+"191";"Mission du monde ouvert durant laquelle les membres doivent coopérer pour trouver plusieurs lieux spécifiques à travers la Tyrie dans le temps imparti. Pour gagner des récompenses personnelles, les joueurs doivent se tenir près d'au moins une icône de randonnée de guilde quand un membre de la guilde interagit avec l'icône."
+"192";"À combiner avec le frisson du combat, la fresque du sacrifice, le monument des légendes et l'hymne à la gloire dans la forge mystique pour créer le don du compétiteur."
+"193";"Marchand[f:"Marchande"]"
+"194";"Salutations, l'ami[f:"amie"],
+
+Rescapée du Fléau de feu et vieillie en fûts de chêne pendant des siècles, cette fantastique boisson est non seulement buvable, mais en plus elle possède un goût unique. Les puissants arômes de cette bière envahiront votre palais. Sa couleur ambrée dissimule ses fortes touches fruitées, sa senteur de chêne et son amertume. Cet ancien breuvage se fait de plus en plus rare et il est très recherché par les collectionneurs.
+
+Bonne santé et buvez une chope à la mienne !
+
+– Desch Metz,
+Maître brasseur du Monastère Eldvin"
+"195";"Vous devez acheter les ailes de la gloire de recrue pour acheter cet objet."
+"196";"Sculpture de renne en glace"
+"197";"Mini-présent[s] skritt[pl:"skritts"] charitable[pl:"charitables"]"
+"198";"Présent bonus "Un très joyeux Hivernel""
+"199";"Défendez le Charr pour attirer le régent chak."
+"200";"Décoration[pl:"Décorations"] de la Ligue des guildes-challengers"
+"201";"Recette[pl:"Recettes"] : stalactite d'harmonisation"
+"202";"Bière du mois du Monastère Eldvin : Rytlager Brimstout"
+"203";"Inflige des dégâts mineurs aux joueurs et aux portes, ainsi que des dégâts majeurs aux gardes défensifs"
+"204";"Confère de la Puissance à hauteur de 3%% de votre Précision
+Confère de la Puissance à hauteur de 6%% de votre Férocité
+Expérience à chaque ennemi tué +10%%
+Bonus de karma +10%%"
+"205";"Recette[pl:"Recettes"] : barre aux baies d'Omnom et à la menthe poivrée"
+"206";"Recette[pl:"Recettes"] : masque de guilde orné"
+"207";"<c=@flavor>Brassée à base d'ingrédients qui incluent entre autres les plus belles citrouilles de Kryte, la porter à la citrouille du Roi Dément est une bonne alternative aux esprits tourmentés et joueurs de l'Arche du Lion.</c>"
+"208";"À utiliser pour emballer des vêtements en laine hideux et des armes de jouets pour les orphelins du Promontoire divin."
+"209";"Tire un projectile qui explose et libère des shrapnels au sol. Ceux-ci infligent Saignement et Infirmité pendant 5 secondes."
+"210";"<c=@flavor>Cette pilsner a été inspirée par l'Arbre clair. Bière cristalline qui se déguste au printemps, son goût de houblon balance à merveille les autres saveurs qui la composent.</c>"
+"211";"Contient un trophée d'artisanat rare de niveau 5."
+"212";"Sautez sur les nodules des champignons pour attirer le régent chak."
+"213";"Bière du mois du Monastère Eldvin : bock de la Foire du Dragon"
+"214";"[PF]Ailes de la gloire de vétéran%str2%%str1%%str3%%str4%"
+"215";"Point de passage du Camp avancé central"
+"216";"Point de passage central du Domaine du dragon"
+"217";"Morceau[pl:"Morceaux"] terminé[pl:"terminés"] avec l'orchestre de sonneurs : %num1%/%num2%"
+"218";"Coffre de Matthias"
+"219";"Votre rang de prestige actuel. Un rang de prestige peut être obtenu ou perdu en remportant ou en perdant des matchs classé dans la division légendaire."
+"220";"Manche[pl:"Manches"] du Chaos des neiges remportée[pl:"remportées"] : %num1%/%num2%"
+"221";"Obtenir des présents emballés auprès du marchand d'Hivernel et les offrir aux orphelins du Promontoire divin tous les jours pour obtenir des augmentations de karma et d'expérience."
+"222";"Récompense d'or de la Ligue des guildes-challengers"
+"223";"Déchirure"
+"224";"Aperçu des divisions"
+"225";"Amélioration"
+"226";"Bouteille[pl:"Bouteilles"] de trappiste d'Eldvin"
+"227";"Boule[pl:"Boules"] à neige"
+"228";"Vaincre la Griffe de Jormag %num2% fois pendant Hivernel."
+"229";"La Gueule de Mordremoth va détruire la plateforme !"
+"230";"Orfèvrerie"
+"231";"Tas de neige"
+"232";"À gagner à la fin de la saison de JcJ quand votre équipe de guilde a décroché la première place du classement de la Ligue des guildes-challengers."
+"233";"À combiner avec 20 griffes sauvages, 50 grandes griffes et 10 boules de matière noire dans la forge mystique pour créer une essence mystique de succès."
+"234";"Terminer le succès Défi d'Hivernel.
+(Uniquement disponible pendant Hivernel.)"
+"235";"À obtenir en atteignant la cinquième division du classement JcJ."
+"236";"[PM]Habits de guilde ornés%str2%%str1%%str3%%str4%"
+"237";"Vous devez acheter les ailes de la gloire de vétéran pour acheter cet objet."
+"238";"Temps d'assemblage : %str1%"
+"239";"<c=@flavor>Tabassez des dragons et fêtez vos victoires en dégustant cette bock unique ! Sa robe légère et ses arômes fruités vous laisseront toujours sur votre faim. Et comme dans un combat contre les dragons, mieux vaut savoir s'arrêter à temps.</c>"
+"240";"Chassez la Gueule de Mordremoth de cette île !"
+"241";"Le joueur peut retirer toutes les décorations du hall de guilde et les remettre dans le stock de la guilde."
+"242";"Bière du mois du Monastère Eldvin : lager estivale à l'orange et à la pierre de sang"
+"243";"Bénédiction[pl:"Bénédictions"] hivernale[pl:"hivernales"]"
+"244";"Mission McM durant laquelle les membres doivent gagner une certaine quantité d'expérience McM dans le temps imparti."
+"245";"Apportez ce coupon dans votre hall de guilde pour déverrouiller une amélioration spéciale."
+"246";"L'Ascension"
+"247";"Salutations, l'ami[f:"amie"],
+
+Tabassez des dragons et fêtez vos victoires en dégustant cette bock unique ! Sa robe légère et ses arômes fruités vous laisseront toujours sur votre faim. Et comme dans un combat contre les dragons, mieux vaut savoir s'arrêter à temps. La bock de la Foire du Dragon se marie à merveille à cette période festive de l'année.
+
+Bonne santé et buvez une chope à la mienne !
+
+– Desch Metz,
+Maître brasseur du Monastère Eldvin"
+"248";"Bière du mois du Monastère Eldvin : lambic d'Istan"
+"249";"Bière du mois du Monastère Eldvin : trappiste d'Eldvin"
+"250";"Ramasser"
+"251";"Trophée de bronze de la Ligue des guildes-challengers de la saison 1"
+"252";"Adhésion[pl:"Adhésions"] au club de la bière du mois du Monastère Eldvin"
+"253";"Bière du mois du Monastère Eldvin : Jupilé de la reine"
+"254";"Contient des potions de récompense JcJ et un coupon, une pièce et des objets de décoration de la Ligue des guildes-challengers qui vous permettent de restaurer votre arène de guilde."
+"255";"Terminer %num2% manche[pl:"manches"] de la Joueffervescence pendant Hivernel."
+"256";"Salutations, l'ami[f:"amie"],
+
+Un brasseur du coin a recréé la recette découverte dans l'héritage de l'un de ses ancêtres, qui avait passé une grande partie de sa vie à Elona. Le lambic d'Istan est une bière amère à l'arrière-goût d'agrumes, un breuvage de choix pour les après-midi d'été. De nombreux brasseurs ayant créé leur propre version, il faut vous attendre à en goûter d'autres à l'avenir.
+
+Bonne santé et buvez une chope à la mienne !
+
+– Desch Metz,
+Maître brasseur du Monastère Eldvin"
+"257";"Cuivre"
+"258";"Contient des trophées d'artisanat rares de niveau 3."
+"259";"Inflige des dégâts mineurs aux joueurs et aux portes, ainsi que des dégâts majeurs aux gardes défensifs"
+"260";"Manche[pl:"Manches"] de la Joueffervescence terminée[pl:"terminées"] : %num1%/%num2%"

@@ -1,0 +1,329 @@
+"0";"[F]Pistola de señor de la Niebla%str3%%str4%%str2%%str1%"
+"1";"No tienes una bebida. ¡Deja de jugar con el charr borracho!"
+"2";"La expectación decaerá si no tocan todos los miembros de la banda."
+"3";"Participa en los eventos de la estampida de hologramas. Este logro se puede completar una vez al año."
+"4";"<c=@abilitytype>Física.</c> Eliminas condiciones y te curas."
+"5";"Miniatura[s] de Calabazón dracónico"
+"6";"Hiedra acolmillada mordrem"
+"7";"Mirada glacial"
+"8";"Supervivencia a estampidas"
+"9";"Caballero de la arena"
+"10";"Megadestructor"
+"11";"Sirve para extraer todo tipo de metales. Uso ilimitado."
+"12";"Barril de aceite vacío"
+"13";"Lámpara[s] de aliento de dragón"
+"14";"[F]Antorcha de señor de la Niebla%str3%%str4%%str2%%str1%"
+"15";"Hidra marcada"
+"16";"Has participado en un evento de estampida de hologramas."
+"17";"Atuendo[s] de extraño de la Niebla"
+"18";"Necesitas un núcleo de potencia."
+"19";"Metaeventos completados:"
+"20";"Acometida"
+"21";"Armas marcadas"
+"22";"Herramientas de talar de cría de escamaceleste"
+"23";"<c=@abilitytype>Postura.</c>No recibes daño cuando te atacan. Eres susceptible a las condiciones y efectos de control."
+"24";"Transformar carro charr desarmado"
+"25";"Remitimos adjunto lo que han conseguido las expediciones en activo. Mañana enviaremos un nuevo cargamento. Recuerda que en cualquier momento puedes cambiar los lugares en los que tus equipos están recolectando desde el puesto para equipos de requisa del León Negro que tienes en tu hogar.
+
+—La división de requisas del León Negro"
+"26";"¡La matriarca acechadora de la fisura marcada ha sido derrotada!"
+"27";"Reúne a tus aliados para librar las batallas más cruentas en la zona. Que la seguridad en Tyria sea duradera está en vuestras manos."
+"28";"Debes llevar un barril vacío para recolectar esto."
+"29";"Maestros de la arena"
+"30";"Haz doble clic para mostrar tu luna de campeón.<br><c=@flavor>Esta luna se ha ganado tras alcanzar las más altas cotas en la competición de la Niebla.</c>"
+"31";"Recolectar madera"
+"32";"Haz doble clic para mostrar tu cáliz de campeón[f:"campeona"].
+<c=@flavor>Se ha ganado tras alcanzar las más altas cotas en la competición de la Niebla.</c>"
+"33";"[M]Arco corto de señor de la Niebla%str3%%str4%%str2%%str1%"
+"34";"Derrota a los 5 campeones holográficos de la arena del Festival del Dragonicidio. Este logro se puede completar una vez al año."
+"35";"[M]Martillo de señor de la Niebla%str3%%str4%%str2%%str1%"
+"36";"Carga gélida"
+"37";"Brote de muerte"
+"38";"Sueltas una cortina de humo detrás de ti que bloquea proyectiles enemigos."
+"39";"Bestia de hielo"
+"40";"Activa los generadores y derrota a los hologramas."
+"41";"Rango 3:"
+"42";"¡Participa en metaeventos por toda Tyria para conseguir recompensas de bonificación!"
+"43";"Completa la colección "Visiones de Jahai"."
+"44";"Pulsa para subirte a la escamaceleste o para bajar de tu montura actual."
+"45";"Hiedra acolmillada mordrem"
+"46";"Haz doble clic para mostrar tu corona de campeón[f:"campeona"] de invierno.<br><c=@flavor>Esta corona se ha ganado tras alcanzar las más altas cotas en la competición de la Niebla.</c>"
+"47";"Piedra calmante"
+"48";"Luna de campeón"
+"49";"Rito del Gran Enano"
+"50";"Hidra marcada"
+"51";"Barón de la arena"
+"52";"Haz doble clic para mostrar tu cometa de campeón[f:"campeona"].
+<c=@flavor>Se ha ganado tras alcanzar las más altas cotas en la competición de la Niebla.</c>"
+"53";"Reina de la arena"
+"54";"Título[s]: Barón y baronesa de la arena"
+"55";"Título[s]: Rey y reina de la arena"
+"56";"Ahora puedes gestionar todos tus equipos del León Negro desde un mismo sitio. Usa el puesto para equipos de requisa del León Negro en tu hogar para dirigir a todos los equipos contratados, que combinarán los materiales recolectados en una única entrega diaria."
+"57";"Armas marcadas"
+"58";"Esencia de línea ley condensada"
+"59";"Saltas hacia tus enemigos, aturdiéndolos."
+"60";"Dios de la arena"
+"61";"[F]Espada de señor de la Niebla%str3%%str4%%str2%%str1%"
+"62";"Asesino[f:"Asesina"] de la arena"
+"63";"Haz doble clic para mostrar tus laureles de campeón[f:"campeona"].<br><c=@flavor>Se han ganado tras alcanzar las más altas cotas en la competición de la Niebla.</c>"
+"64";"Megadestructor"
+"65";"Completa la colección "Visiones de los Picos del Trueno"."
+"66";"Compromiso forzado"
+"67";"Haz doble clic para mostrar tu corona de campeón.<br><c=@flavor>Esta corona se ha ganado tras alcanzar las más altas cotas en la competición de la Niebla.</c>"
+"68";"Derrota a los 5 campeones holográficos de la arena del Festival del Dragonicidio."
+"69";"Muéstrame adónde ir."
+"70";"Princesa de la arena"
+"71";"Diosa de la arena"
+"72";"Salto dracónico"
+"73";"¡La hidra marcada ha sido derrotada!"
+"74";"Soportar el dolor"
+"75";"Cometa de campeón[f:"campeona"]"
+"76";"[M]Escudo de señor de la Niebla%str3%%str4%%str2%%str1%"
+"77";"Activa los generadores y derrota a los hologramas."
+"78";"Haz doble clic para mostrar tu dragón de campeón[f:"campeona"].
+<c=@flavor>Se ha ganado tras alcanzar las más altas cotas en la competición de la Niebla.</c>"
+"79";"Bestia de hielo"
+"80";"Ya está disponible el dispositivo de teletransporte hasta un amigo inagotable"
+"81";"Ultrarreluciente"
+"82";"Desapareces en las sombras y adquieres invulnerabilidad por los légamos explosivos."
+"83";"Príncipe de la arena"
+"84";"¡Los desbloqueadores de guardarropa aleatorios se han actualizado con nuevos diseños!"
+"85";"Semidiosa de la arena"
+"86";"Cohete"
+"87";"Participación"
+"88";"Debes esperar que la cristalización azul verdoso expire para usarla nuevamente."
+"89";"Completa la colección "Visiones de las Islas Arenosas"."
+"90";"Rango 4:"
+"91";"Antorcha ultrarreluciente"
+"92";"Completa la colección "Visiones de Dragoncaído"."
+"93";"Título[s]: Dios y diosa de la arena"
+"94";"Te abalanzas hacia el área objetivo y rompes las piñatas que encuentras a tu paso. <c=@abilitytype>Salto dracónico</c> se recarga si se rompe una piñata."
+"95";"Laureles de campeón[f:"campeona"]"
+"96";"¡Enhorabuena a todos los participantes!"
+"97";"Sigilo"
+"98";"Caja[s] de armas de señor de la Niebla"
+"99";"¡El cambio de básicas está activo en Mundo contra Mundo!<br>Machaca a tus enemigos para tener acceso a sus habilidades de profesión."
+"100";"Dragón de campeón[f:"campeona"]"
+"101";"Se consigue[pl:"consiguen"] participando en el Festival de los Cuatro Vientos anual."
+"102";"Sigilo"
+"103";"Haz doble clic para mostrar tu sol de campeón.<br><c=@flavor>Este sol se ha ganado tras alcanzar las más altas cotas en la competición de la Niebla.</c>"
+"104";"Contrato[s] de expediciones de la 4.ª temporada"
+"105";"Recolectar madera"
+"106";"Cargar el amplificador"
+"107";"Participación"
+"108";"Pistola ultrarreluciente"
+"109";"Necesitas tener aceite en el barril para usar esta habilidad."
+"110";"Cortina de humo"
+"111";"Haz doble clic para mostrar tus espadas llameantes de campeón[f:"campeona"].
+<c=@flavor>Se han ganado tras alcanzar las más altas cotas en la competición de la Niebla.</c>"
+"112";"¡El heraldo de la ira marcado por la muerte ha sido derrotado!"
+"113";"Invisible a los enemigos."
+"114";"Portero"
+"115";"División de requisas del León Negro"
+"116";"Herramientas de talar de cría de escamaceleste"
+"117";"[F]Maza de señor de la Niebla%str3%%str4%%str2%%str1%"
+"118";"¡La ronda final de la estampida de hologramas va a comenzar!"
+"119";"Ojo de Zhaitan"
+"120";"Participa en los eventos de estampida de hologramas."
+"121";"Doma de hologramas"
+"122";"Hidra marcada"
+"123";"Pastoreo de hologramas"
+"124";"Puesto de control"
+"125";"El no va más"
+"126";"Panel de expediciones de la 4.ª temporada"
+"127";"Dispara un misil que inflige daño de asedio."
+"128";"Logros históricos de PvP"
+"129";"Derrota a un jefe campeón en la arena del Festival del Dragonicidio."
+"130";"Estandarte espiritual"
+"131";"Corazón[pl:"Corazones"] del Khan-Ur"
+"132";"Holograma de dragón"
+"133";"EJECUTAR_IMPRESIÓN_REGISTRO
+
+
+
+>La actividad de la Inquisa en las instalaciones de Rata Primus queda suspendida sine die. Supone una contrariedad, ya que empezaba a esbozar la posibilidad de miniaturizar mi tecnología de portales para uso personal. 
+
+
+
+>Hice una copia de seguridad local de algunos datos, pero Gorrik insistió en que crease copias externas a prueba de fallos. Funcionó, claro está, pero que estuviese todo almacenado en la propia Rata Primus supuso un problema: cuando los Despertados la ocuparon y nos vimos obligados a evacuarla, las cosas se complicaron enormemente. Confío en que, al menos, los datos custodiados se vean gravemente afectados si intentan forzar mi algoritmo de encriptación.
+
+
+
+>Llegado el momento, consideré más importante descargar los datos de Gorrik sobre la plaga de escarabajos y todo lo que había en materia de investigación sobre Kralkatorrik. Puede que salvar a toda la civilización sea más importante que mi tecnología de portales. Además, es probable que pueda reconstruir mis hallazgos de una forma más eficiente si vuelvo a empezar de cero.
+
+
+
+EJECUTAR_ACCIÓN_ESPERA
+
+
+
+>A Taimi... le gusta mi aspecto.
+
+
+
+>...
+
+
+
+>Me alegra que volvamos a trabajar juntos."
+"134";"Daño infligido a armas de asedio o enemigos vivos"
+"135";"Activar"
+"136";"Haz doble clic para aplicar este aspecto a otras botas."
+"137";"Tienes la esencia del Cuervo al completo."
+"138";"Holograma de dragón"
+"139";"2 clones"
+"140";"Holograma de dragón"
+"141";"Contiene todos estos objetos."
+"142";"Estás saliendo de la zona de entrenamiento. Si te vas, desaparecerán todos los efectos de esencia."
+"143";"Enfréntate a los poderosos siervos de Jormag que buscan someter el Sagrario del Cuervo y pon a prueba tus habilidades de manipulación de esencia."
+"144";"+9 %% de daño contra hologramas del Festival del Dragonicidio
+
++1 %% de daño"
+"145";"Cofre norn glorioso"
+"146";"Tarro[s] de salsa"
+"147";"[lbracket]Semanal[rbracket]"
+"148";"Activar"
+"149";"Quemadura mínima"
+"150";"Expedición del Santuario Maldito"
+"151";"Viaja a la Marca de Bjora para desbloquear este objeto."
+"152";"[lbracket]Pociones[rbracket]"
+"153";"Escuadrón privado"
+"154";"Panel de expediciones de la 4.ª temporada"
+"155";"INFORME DE CAMPO: OLMAKHAN
+
+
+
+No tengo ni idea de por qué lo hago. No redacto uno de estos desde...
+
+
+
+Hace mucho.
+
+
+
+Siempre me vino muy bien para aclarar las ideas, como si hiciese un informe para Rytlock o algo así.
+
+
+
+Vale, los Olmakhan.
+
+
+
+Se separaron de los charr hace mucho tiempo y se fueron de Ascalon mientras la Legión de la Llama se lo cargaba todo por allí. Pasaron mucho tiempo a la fuga y aprendieron a hacer las cosas de otra manera.
+
+Lo primero en lo que me fijé es en que no tienen fahrars: la aldea entera cría a los cachorros de forma colectiva y les enseña a cazar, a pescar y también a jugar. No tienen escuadras porque no libran guerras, tan solo luchan contra la Inquisa y sus experimentos. Viven en armonía con la naturaleza.
+
+
+
+No tienen fahrars. No tienen escuadras. No tienen gladios. Todos son parte de la tribu. Todos tienen una misión. Todos son necesarios. Todos son queridos.
+
+
+
+Suena bien. A decir verdad, demasiado bien.
+
+
+
+FIN DEL INFORME DE CAMPO"
+"156";"[lbracket]Moa de carreras[rbracket]"
+"157";"3 clones"
+"158";"Activar"
+"159";"Armas bioluminiscentes"
+"160";"Tónico[s] de caja de bonificación inagotable[s]"
+"161";"Al consumir este objeto conseguirás un diseño para montura al azar de los establos del León Negro."
+"162";"Botella[s] de sirope sencillo"
+"163";"Yelmo de dragón holográfico"
+"164";"Sumidero temporal"
+"165";"Recargar"
+"166";"Cuernos de escamaceleste"
+"167";"Vista previa"
+"168";"%num1%/%num2% rangos comunitarios completados"
+"169";"Una fracción de segundo"
+"170";"Poción[pl:"Pociones"] de masacre de mordrem menor[pl:"menores"]"
+"171";"Cajón"
+"172";"Dinio Saurio"
+"173";"El equipo de Guild Wars 2"
+"174";"Última vuelta. ¡A por la meta!"
+"175";"Comida del festival"
+"176";"Puntos"
+"177";"+5 %% de daño contra la Alianza Tóxica, mecanismos, los Filoetéreos y la Alianza Fundida
+
++10 %% de experiencia al matar"
+"178";"Solo está disponible cuando ya no se puede conseguir esencia de línea ley condensada de los jefes de mundo."
+"179";"Se puede[pl:"pueden"] usar en artesanía o intercambiar con comerciantes en el Valle de Grothmar.
+
+<c=@Flavor>Estos pimientos, que crecen en nidos de devoradores, son especialmente fuertes.</c>"
+"180";"Miniatura[s] de Crecia Piedrabrillante"
+"181";"Aumento de daño máximo"
+"182";"Tiempo"
+"183";"Sigilo de Ceniza: oro"
+"184";"Reducción de daño por punto de mantenimiento"
+"185";"Haz doble clic para abrirlo."
+"186";"Chacal"
+"187";"En total"
+"188";"de masacre de hologramas"
+"189";"Abrigo[s] de cocinero"
+"190";"Recompensa de objetivo comunitario: rango 2"
+"191";"En total"
+"192";"+17 %% de daño contra hologramas del Festival del Dragonicidio
+
++3 %% de daño"
+"193";"Al consumir este objeto conseguirás un diseño para montura al azar de los establos del León Negro."
+"194";"Raíces encadenadas"
+"195";"%num1%/%num2% rangos comunitarios completados"
+"196";"Misión de ataque de la semana: Fraenir de Jormag (pública)"
+"197";"Nota garabateada sin terminar"
+"198";"Tiempo"
+"199";"Sigilo de Ceniza: bronce"
+"200";"Ventisca"
+"201";"Nunca quise dejar a nadie a ciegas.
+
+
+
+Y es que odio esa expresión. Me parece cruel, como si quisieras hacerle daño a alguien. Que no te dejen ver no puede ser bueno.
+
+
+
+Así que voy a inventarme otra expresión: Omití la verdad para que mis amigos y compañeros no se preocupasen por mí. Porque teníamos que salvar al mundo. Y salvar al mundo requiere planificación y estrategia. Y es mucho más difícil hacer planes y establecer estrategias cuando, además, te estás preguntando: "¿Taimi estará bien? ¿Debería ver cómo lo lleva?"
+
+
+
+Vale, no es una expresión, pero la idea es clara.
+
+
+
+El gran problema es que conozco bien al[f:"a la"] comandante. Conozco bien a todos los de la Guardia de la Eternidad. Tienen el corazón demasiado grande. Se preocupan demasiado. Y necesito que se preocupen menos por mí durante un tiempo, hasta que arreglemos esto. Hasta que podamos tomarnos un respiro.
+
+
+
+Salvar al mundo entero es una misión tremenda. Inabarcable. Cuesta valorar lo que está en juego. A la hora de la verdad, ¿estarán pensando en el mundo entero o en mí y mis problemas? Cuando tengan que tomar decisiones, plantear estrategias, hacer viajes, explorar ruinas... ¿estarán pensando en el mundo entero o preocupándose por si sufro?
+
+
+
+Sé que jamás me dejarían de lado, pero no quiero ponerlos en posición de...
+
+
+
+De que tengan siquiera que planteárselo."
+"202";"Recompensa de objetivo comunitario: rango 3"
+"203";"Botas de cocinero"
+"204";"Ya está disponible el paquete de cuernos de escamaceleste"
+"205";"Registro de datos externo"
+"206";"Cofre norn"
+"207";"de masacre de hologramas"
+"208";"+5 %% de daño contra hologramas del Festival del Dragonicidio
+
++10 %% de experiencia al matar"
+"209";"<c=@Event>¡Objetivos comunitarios completados!</c>"
+"210";"Diseño[s] de estandarte de la Legión de Ceniza"
+"211";"Vale[s] de heliplataforma[s] charr"
+"212";"+10 %% de daño contra marcados
+
+-10 %% de daño recibido de marcados
+
++10 %% de experiencia al matar"
+"213";"Comandante Luchador"
+"214";"Poción[pl:"Pociones"] de masacre de hologramas menor[pl:"menores"]"
+"215";"Cuervo"
+"216";"Voz de Metal"
+"217";"Receta[s]: Poción de masacre de mordrem poderosa"
+"218";"Recetas"

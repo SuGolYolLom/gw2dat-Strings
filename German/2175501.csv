@@ -1,0 +1,510 @@
+"0";"Verbrauchsstoff"
+"1";"Besiegte Bosse des Spießrutenlaufs der Königin: %num1%/%num2%"
+"2";"Eine Antike Boreal-Waffe aus Materialien, die man in den Bjora-Sümpfen findet."
+"3";"Antiker Boreal-Stab"
+"4";"Hiermit wird das Aussehen Eures Reittiers verändert und der Reittier-Skin wird für alle Charaktere Eures Accounts freigeschaltet."
+"5";"Verbrauchsstoff"
+"6";"-20 %% erlittene Zustandsdauer
++100 Zustandsschaden
++70 Fachkenntnis
++10 %% Karma
++5 %% auf alle erhaltenen Erfahrungspunkte
++20 %% Magisches Gespür
++20 %% Goldgespür
++10 %% auf erhaltene WEP"
+"7";"Die Schleimgrube während Eurer Zusicherung, die Blut-Legion zu unterstützen, erfolgreich abgeschlossen"
+"8";"-10 %% erlittener Schaden
++100 Zustandsschaden
++70 Fachkenntnis
++10 %% Karma
++5 %% auf alle erhaltenen Erfahrungspunkte
++20 %% Magisches Gespür
++20 %% Goldgespür
++10 %% auf erhaltene WEP"
+"9";"der Haltbarkeit"
+"10";"Verbrauchsstoff"
+"11";"Nur für kurze Zeit erhältlich.
+
+Verändert das Aussehen jedes existierenden Großschwerts. Dieser Gegenstand schaltet den Skin auch für Eure Account-Garderobe frei."
+"12";"Asgeirs Vermächtnis 4"
+"13";"Täglich"
+"14";"Klopapier werfen"
+"15";"Feuerwerkskörper"
+"16";"+10 %% erteilte Heilung
++100 Fachkenntnis
++70 Zustandsschaden
++10 %% Karma
++5 %% auf alle erhaltenen Erfahrungspunkte
++20 %% Magisches Gespür
++20 %% Goldgespür
++10 %% auf erhaltene WEP"
+"17";"Eine Wiederhergestellte Boreal-Waffe aus Materialien, die man in den Bjora-Sümpfen findet."
+"18";"des Lebens"
+"19";"Zusätzliche verbundene Gegenstände wurden abgelegt und in Euer Inventar zurückgebracht."
+"20";"Die Schleimgrube während Eurer Zusicherung, die Blut-Legion zu unterstützen, erfolgreich abgeschlossen"
+"21";"Endloser[pl:"Endlose"] Boss-Truhen-Trank[pl:"Tränke"]"
+"22";"Gemeinschaftsziel Champion-Ansturm: Rang 1"
+"23";"Gemeinschaftsziel-Belohnung: Rang 2"
+"24";"Die Luft-Elementarlinge bezwingen"
+"25";"Im Moshpit herumspringen"
+"26";"Auge des Raben"
+"27";"Geheul"
+"28";"der Brandung"
+"29";"[F]%str1%%str2%Antike Boreal-Pistole%str3%%str4%"
+"30";"Sortenreines Minz-Saatgut"
+"31";"Bezwingt Kuraii den Grausamen während eines Bossblitz-Events im Kronpavillon. Dieser Erfolg kann einmal jedes Jahr abgeschlossen werden."
+"32";"Fressen"
+"33";"Zeit"
+"34";"Standardzeit zum Scharfmachen"
+"35";"Maximales Brennen"
+"36";"Für die Hintergrundtänzer einspringen"
+"37";"des Fallenstellers"
+"38";"Verbrauchsstoff"
+"39";"Eine Antike Boreal-Waffe aus Materialien, die man in den Bjora-Sümpfen findet."
+"40";"des Abenteuers"
+"41";"der Elementar-Vernichtung"
+"42";"Kombinationsschlag"
+"43";"Dolyak-Rennen-Flieger"
+"44";"der Luft"
+"45";"der Veschandelung"
+"46";"Rezept[pl:"Rezepte"]: Wiederhergestelltes Boreal-Großschwert"
+"47";"Zephyriten-Gleiter-Gleitschirm[pl:"Gleitschirme"]"
+"48";"Pavillonjagd-Zeitprüfung"
+"49";"des Draufgängers"
+"50";"[N]%str1%%str2%Antikes Boreal-Schwert%str3%%str4%"
+"51";"Eine Wiederhergestellte Boreal-Waffe aus Materialien, die man in den Bjora-Sümpfen findet."
+"52";"Eure Darbringung wurde durch Toxische Sporen verdorben."
+"53";"Asgeirs Vermächtnis 3"
+"54";"Aufwärtshaken"
+"55";"Vorschau"
+"56";"<c=@Event>Gemeinschaftsziele abgeschlossen!</c>"
+"57";"Eine Wiederhergestellte Boreal-Waffe aus Materialien, die man in den Bjora-Sümpfen findet."
+"58";"Gemeinschaftsziel-Belohnung: Rang 1"
+"59";"Verbrauchsstoff"
+"60";"Erstellt ein Blitzfeld an Eurer Position. Ruft dann Gyroskope herbei, um Gegner im Feld zu erledigen und Verbündete wiederzubeleben. Die Wiederaufladung dieser Fertigkeit erhöht sich für jedes nach dem ersten erstellte Gyroskop.<br><c=@reminder>Unterbrochene Gyroskope werden zerstört.</c>"
+"61";"Ei werfen"
+"62";"Ein Wiederhergestellter Boreal-Schild aus Materialien, die man in den Bjora-Sümpfen findet."
+"63";""Verzerrung" reflektiert Projektile"
+"64";"Gemeinschafts-Ränge abgeschlossen: %num1%/%num2%"
+"65";"Den Erfolg "Immer schön frostig" abschließen"
+"66";"Sortenreines Koriander-Saatgut"
+"67";"Jetzt gibt es das "Edler Höfling"-Erscheinungsbildpaket!"
+"68";"der Ausflucht"
+"69";"Bezwungene Flammen-Legionäre: %num1%/%num2%"
+"70";"Rang 5:"
+"71";"Bossblitz: Verdrescht Pyroxis (jährlich)"
+"72";"Salutieren"
+"73";"Schließt %num2% Bossblitz-Meta-Event[pl:"Events"] im Kronpavillon ab. Dieser Erfolg kann einmal jedes Jahr abgeschlossen werden."
+"74";"+10 %% erteilte Heilung
++100 Konzentration
++70 Kraft
++10 %% Karma
++5 %% auf alle erhaltenen Erfahrungspunkte
++20 %% Magisches Gespür
++20 %% Goldgespür
++10 %% auf erhaltene WEP"
+"75";"des Elementarmagiers"
+"76";"Vorschau"
+"77";"Festen-Küche"
+"78";"des Schnitters"
+"79";"Besiegt %num2% Oger im Kronpavillon. Dieser Erfolg kann einmal jedes Jahr abgeschlossen werden."
+"80";"Sortenreines Pfefferkorn-Saatgut"
+"81";"Verbrauchsstoff"
+"82";"Eine makellose antike Norn-Waffe aus Materialien, die man in den Bjora-Sümpfen findet."
+"83";"Wiggin den Bösen besiegt: %num1%/%num2%"
+"84";"Feuerball"
+"85";"der Auslöschung"
+"86";"Asche-Legion-Schlüssel"
+"87";"Schmaus[pl:"Schmäuse"] mit Carne Khan Chili"
+"88";"Doppelklicken, um siegreich auf einem Fels zu stehen."
+"89";"des Wassers"
+"90";"Eine Antike Boreal-Waffe aus Materialien, die man in den Bjora-Sümpfen findet."
+"91";"Verbrauchsstoff"
+"92";"Bezwingt Sparcus Feuerschlag während eines Bossblitz-Events im Kronpavillon. Dieser Erfolg kann einmal jedes Jahr abgeschlossen werden."
+"93";"Aufklärungs-Bucht"
+"94";"Schließt den Erfolg "Bräuche der Vier Winde (jährlich)" ab. Dieser Erfolg kann einmal im Jahr abgeschlossen werden."
+"95";"Eine Antike Boreal-Waffe aus Materialien, die man in den Bjora-Sümpfen findet."
+"96";"Gemeinschaftsziel Boss-Ansturm: Rang 3"
+"97";"-20 %% erlittene Zustandsdauer
++100 Konzentration
++33 %% Chance, bei kritischem Treffer Macht zu erhalten
++10 %% Karma
++5 %% auf alle erhaltenen Erfahrungspunkte
++20 %% Magisches Gespür
++20 %% Goldgespür
++10 %% auf erhaltene WEP"
+"98";"des Plünderns"
+"99";"Bräuche der Vier Winde (jährlich) abgeschlossen"
+"100";"Springendes Knie"
+"101";"Gemeinschafts-Ränge abgeschlossen: %num1%/%num2%"
+"102";"Bau des Geflüsters"
+"103";"des Lebensfressers"
+"104";"Doppelklicken, um ein Rezept zu erlernen."
+"105";"Ein Zepter aus Glas, infundiert mit Raben-Essenz."
+"106";"Feiert den Jahrestag von GW2 mit diesem Paket.
+
+Diese Skins ersetzen das Erscheinungsbild Eurer Ausrüstung und haben keine eigenen Werte."
+"107";"Das Abbild mit Wasserbomben gelöscht"
+"108";"des Dolyaks"
+"109";"Ihr werdet einmal pro Stunde daran erinnert, eine Pause zu machen."
+"110";"Gemeinschaftsziel Champion-Ansturm: Rang 5"
+"111";"Festschmaus: Doppelklicken, um einen Schmaus mit Carne Khan Chili hinzustellen, den Ihr mit allen in der Nähe teilt. Schmaus bleibt für fünf Minuten aktiv."
+"112";"Verbrauchsstoff"
+"113";"Fliegender Dolyak: Bronze"
+"114";"Verbrauchsstoff"
+"115";"der Erde"
+"116";"[F]%str1%%str2%Antike Boreal-Fackel%str3%%str4%"
+"117";"Blutrausch"
+"118";"-20 %% erlittene Zustandsdauer
++45 auf alle Attribute
++10 %% Karma
++5 %% auf alle erhaltenen Erfahrungspunkte
++20 %% Magisches Gespür
++20 %% Goldgespür
++10 %% auf erhaltene WEP"
+"119";"+10 %% erteilte Heilung
++100 Vitalität
++70 Zähigkeit
++10 %% Karma
++5 %% auf alle erhaltenen Erfahrungspunkte
++20 %% Magisches Gespür
++20 %% Goldgespür
++10 %% auf erhaltene WEP"
+"120";"Gemeinschaftsziel Boss-Ansturm: Rang 5"
+"121";"Vorschau"
+"122";"Trainingsbereitschaft"
+"123";"des Wassers"
+"124";"der Skrupellosigkeit"
+"125";"der Erstickung"
+"126";"-10 %% erlittener Schaden
++100 Konzentration
++70 Heilkraft
++10 %% Karma
++5 %% auf alle erhaltenen Erfahrungspunkte
++20 %% Magisches Gespür
++20 %% Goldgespür
++10 %% auf erhaltene WEP"
+"127";"Standardzeit zum Scharfmachen"
+"128";"Trainingsmüdigkeit"
+"129";"Schwerer Drachenmacher-Helm"
+"130";"Rezept[pl:"Rezepte"]: Eiscreme mit grünem Chili"
+"131";"des Adlers"
+"132";"Bezwungene Zerstörer: %num1%/%num2%"
+"133";"des Seelenwandlers"
+"134";"Mantel-Malmer[f:"Malmerin"] (jährlich)"
+"135";"Benutzt um die Spitze der Labyrinthklippen verteilte Wasserbomben zum Löschen des Flammen-Abbilds. Dieser Erfolg kann einmal jedes Jahr abgeschlossen werden."
+"136";"der Qual"
+"137";"Eine Wiederhergestellte Boreal-Waffe aus Materialien, die man in den Bjora-Sümpfen findet."
+"138";"Biwak der Musikgruppe"
+"139";"Bezwungene Kultisten: %num1%/%num2%"
+"140";"Die Pyrotechnik unter Kontrolle halten"
+"141";"des Geomanten"
+"142";"Verbrauchsstoff"
+"143";"-20 %% erlittene Zustandsdauer
++100 Konzentration
++70 Fachkenntnis
++10 %% Karma
++5 %% auf alle erhaltenen Erfahrungspunkte
++20 %% Magisches Gespür
++20 %% Goldgespür
++10 %% auf erhaltene WEP"
+"144";"Banditen-Schreck (jährlich)"
+"145";"Verbrauchsstoff"
+"146";"Herd der Seele"
+"147";"Das Guild Wars 2 Team"
+"148";"Eine Wiederhergestellte Boreal-Waffe aus Materialien, die man in den Bjora-Sümpfen findet."
+"149";"Bossblitz: Eliminiert Wiggin (jährlich)"
+"150";"Verbrauchsstoff"
+"151";"Große Halle"
+"152";"Den Erfolg "Grothmar-Himmelsschuppen-Herausforderung: Silber" abschließen"
+"153";"Verbrauchsstoff"
+"154";"Die Schleimgrube während Eurer Zusicherung, die Eisen-Legion zu unterstützen, erfolgreich abgeschlossen"
+"155";"Enthält all diese Gegenstände."
+"156";"Die Schleimgrube während Eurer Zusicherung, die Asche-Legion zu unterstützen, erfolgreich abgeschlossen"
+"157";"Klickt, um diese Vorlagen-Registerkarte mit Edelsteinen freizuschalten."
+"158";"Gemeinschafts-Ränge abgeschlossen: %num1%/%num2%"
+"159";"Astwirbel"
+"160";"Täglich"
+"161";"<c=@flavor>Bei Abschluss werden zehn Stufen Fortschritt im Handwerksberuf "Chefkoch[f:"Chefköchin"]" gewährt.</c>"
+"162";"Sagt Eurer Himmelsschuppe, sie soll "Sitz!" machen."
+"163";"+10 %% erteilte Heilung
++45 auf alle Attribute
++10 %% Karma
++5 %% auf alle erhaltenen Erfahrungspunkte
++20 %% Magisches Gespür
++20 %% Goldgespür
++10 %% auf erhaltene WEP"
+"164";"+100 Konzentration
++70 Fachkenntnis
++10 %% auf erhaltenes Karma"
+"165";"Gemeinschaftsziel-Belohnung: Rang 5"
+"166";"Verbrauchsstoff"
+"167";"Bezwungene Banditen: %num1%/%num2%"
+"168";"Bezwingt Pyroxis während eines Bossblitz-Events im Kronpavillon. Dieser Erfolg kann einmal jedes Jahr abgeschlossen werden."
+"169";"Enthält all diese Gegenstände."
+"170";"Scheiterhaufen-Handschuhe"
+"171";"Dieser Gleitschirm kann eingefärbt werden.
+
+<c=@reminder>Nur zu bestimmten Zeiten des Jahres ausschließlich in Schwarzlöwen-Truhen zu finden.</c>"
+"172";"Konzentriert Euch auf ein Ziel, um höheren Schaden zuzufügen."
+"173";"Enthält all diese Gegenstände."
+"174";"[M]%str1%%str2%Antiker Boreal-Kurzbogen%str3%%str4%"
+"175";"Rang 4:"
+"176";"Schließt die Strecke so schnell wie möglich ab!"
+"177";"Werfen"
+"178";"Eisen-Legion-Schlüssel"
+"179";"Eine Wiederhergestellte Boreal-Waffe aus Materialien, die man in den Bjora-Sümpfen findet."
+"180";"Kratzen"
+"181";"des Schrotters"
+"182";"des Zorns"
+"183";"Verbrauchsstoff"
+"184";"Grothmar-Himmelsschuppen-Herausforderung: Silber"
+"185";"Als Braham auf der Jagd nach Rytlock und Crecia verschwindet, reist der Kommandeur nach Westen, um ihn zu suchen. Hinter der Tür in den Bergen liegt ein lang vergessener See, dessen man sich nur in Norn-Legenden erinnert – die Heimat der beängstigenden Quelle des Geflüsters, das die Fernen Zittergipfel verpestet ..."
+"186";"Sammelt die Blut-Marke der Schleimgruben-Prüfungen."
+"187";"Seid Ihr sicher, dass Ihr den Inhalt von %str1% überschreiben möchtet?"
+"188";"der Energie"
+"189";"Holzarbeit für<br>jeden beliebigen Charakter<br>für alle Zeit!"
+"190";"des Golemanten"
+"191";"Verbrauchsstoff"
+"192";"Grothmar-Himmelsschuppen-Herausforderung: Gold"
+"193";"Rezept[pl:"Rezepte"]: Wiederhergestellter Boreal-Kurzbogen"
+"194";"Verbrauchsstoff"
+"195";"Eine Wiederhergestellte Boreal-Waffe aus Materialien, die man in den Bjora-Sümpfen findet."
+"196";"Doppelklicken, um diesen Schakal-Reittier-Skin für Euren Account freizuschalten."
+"197";"Werkstatt Auris'"
+"198";"Verbrauchsstoff"
+"199";"Schrein des unverwüstlichen Ochsen"
+"200";"Foliant[pl:"Folianten"] der Nebel"
+"201";"Rezept[pl:"Rezepte"]: Wiederhergestelltes Boreal-Gewehr"
+"202";"des Kummers"
+"203";"des Schmieds"
+"204";"Kauft bei Händlern in den Labyrinthklippen Zephyriten-Vorratskisten und öffnet sie. Dieser Erfolg kann einmal jedes Jahr abgeschlossen werden."
+"205";"Wiederhergestellter Boreal-Streitkolben"
+"206";"Dies wird das Aussehen jedes beliebigen Rücken-Gegenstandes ersetzen und den Skin in Eurer Account-Garderobe freischalten. 
+
+Dieser Rucksack-Skin hat selbst keine Werte."
+"207";"des Vampirismus"
+"208";"Sammelt die Flammen-Marke des Charr-Abbilds."
+"209";"des Sturmboten"
+"210";"Zerfetzender Schwinger"
+"211";"der Unfähigkeit"
+"212";"Sammelt die Flammen-Marke des Charr-Abbilds."
+"213";"Gemeinschaftsziel Champion-Ansturm: Rang 3"
+"214";"Verbrauchsstoff"
+"215";"Garantiert"
+"216";"Versorgermarken-Börse des Sammlers"
+"217";"Schreibstube des Aufsehers"
+"218";"66 %% Chance auf Lebensentzug bei kritischem Treffer
++100 Kraft
++70 Wildheit
++10 %% Karma
++5 %% auf alle erhaltenen Erfahrungspunkte
++20 %% Magisches Gespür
++20 %% Goldgespür
++10 %% auf erhaltene WEP"
+"219";"Meister[f:"Meisterin"] der Geister"
+"220";"des Lich"
+"221";"Wiederhergestelltes Boreal-Zepter"
+"222";"Zittertor"
+"223";"Svanir-Lager 3"
+"224";"Dieser Schlüssel trägt das Symbol der Blut-Legion. Er sieht aus, als käme er aus dem Gewölbe des Khan-Ur."
+"225";"<c=@flavor>Bei Abschluss werden zehn Stufen Fortschritt im Handwerksberuf "Chefkoch[f:"Chefköchin"]" gewährt.</c>"
+"226";"Zephyriten-Drachenkörbe geöffnet: %num1%/%num2%"
+"227";"Öffnen, um einen Drachenmacher-Helm auszuwählen."
+"228";"Zeitprüfung: Schweberochen-Slalom"
+"229";"Rezept[pl:"Rezepte"]: Wiederhergestelltes Boreal-Schwert"
+"230";"<c=@flavor>Bei Abschluss werden zehn Stufen Fortschritt im Handwerksberuf "Chefkoch[f:"Chefköchin"]" gewährt.</c>"
+"231";"von Hoelbrak"
+"232";"Abbild-Löscher[f:"Löscherin"] (jährlich)"
+"233";"Blut"
+"234";"Stachelwurzelfrucht werfen"
+"235";"[M]%str1%%str2%Antiker Boreal-Streitkolben%str3%%str4%"
+"236";"Gemeinschaftsziel Boss-Ansturm: Rang 1"
+"237";"Eine Antike Boreal-Waffe aus Materialien, die man in den Bjora-Sümpfen findet."
+"238";"der Reinheit"
+"239";"-10 %% erlittener Schaden
++100 Kraft
++70 Wildheit
++10 %% Karma
++5 %% auf alle erhaltenen Erfahrungspunkte
++20 %% Magisches Gespür
++20 %% Goldgespür
++10 %% auf erhaltene WEP"
+"240";"Erhaltet jede Sekunde Lebenspunkte
++45 auf alle Attribute
++10 %% Karma
++5 %% auf alle erhaltenen Erfahrungspunkte
++20 %% Magisches Gespür
++20 %% Goldgespür
++10 %% auf erhaltene WEP"
+"241";"[N]%str1%%str2%Antikes Boreal-Großschwert%str3%%str4%"
+"242";"der Lähmung"
+"243";"+10 %% erteilte Heilung
++100 Konzentration
++33 %% Chance, bei kritischem Treffer Macht zu erhalten
++10 %% Karma
++5 %% auf alle erhaltenen Erfahrungspunkte
++20 %% Magisches Gespür
++20 %% Goldgespür
++10 %% auf erhaltene WEP"
+"244";"Rang 3:"
+"245";"des Nekromanten"
+"246";"Leichter Drachenmacher-Helm"
+"247";"Stabile Boreal-Reisetasche"
+"248";"Doppelklicken, um ein Rezept zu erlernen."
+"249";"Individualisiert<br>Euren Rucksack!"
+"250";"Rezept[pl:"Rezepte"]: Wiederhergestellter Boreal-Streitkolben"
+"251";"Bezwungene Piraten: %num1%/%num2%"
+"252";"Zeitprüfung: Pavillonjagd"
+"253";"Erhaltet jede Sekunde Lebenspunkte
++100 Konzentration
++70 Heilkraft
++10 %% Karma
++5 %% auf alle erhaltenen Erfahrungspunkte
++20 %% Magisches Gespür
++20 %% Goldgespür
++10 %% auf erhaltene WEP"
+"254";"Verbrauchsstoff"
+"255";"der Rage"
+"256";"[lbracket]Wöchentlich[rbracket]"
+"257";"Verbrauchsstoff"
+"258";"Verbrauchsstoff"
+"259";"Den großen Champion bezwungen, während Ihr der Eisen-Legion Eure Unterstützung zugesichert habt"
+"260";"Kreischen"
+"261";"der Zerstörer-Vernichtung"
+"262";"Oger-Ohrfeiger[f:"Ohrfeigerin"] (jährlich)"
+"263";"Wiederhergestelltes Boreal-Kriegshorn"
+"264";"Verbrauchsstoff"
+"265";"Bräuche der Vier Winde (jährlich)"
+"266";"Verkrüppelnder Schwinger"
+"267";"-20 %% erlittene Zustandsdauer
++100 Vitalität
++70 Zähigkeit
++10 %% Karma
++5 %% auf alle erhaltenen Erfahrungspunkte
++20 %% Magisches Gespür
++20 %% Goldgespür
++10 %% auf erhaltene WEP"
+"268";"der Geister-Vernichtung"
+"269";"der Zephyriten"
+"270";"Maximaler Rückschlag"
+"271";"+10 %% erteilte Heilung
++100 Konzentration
++70 Zähigkeit
++10 %% Karma
++5 %% auf alle erhaltenen Erfahrungspunkte
++20 %% Magisches Gespür
++20 %% Goldgespür
++10 %% auf erhaltene WEP"
+"272";"Besorgt einen magisch infundierten Fisch, den Eure Himmelsschuppe essen kann."
+"273";"Rezept[pl:"Rezepte"]: Wiederhergestellter Boreal-Stab"
+"274";"Aspektmeister-Großschwert[pl:"Großschwerter"]"
+"275";"Bumm-Bumm Baines besiegt: %num1%/%num2%"
+"276";"Die Schleimgruben-Prüfungen während Eurer Zusicherung, die Asche-Legion zu unterstützen, erfolgreich abgeschlossen"
+"277";"Ruft Eure Himmelsschuppe herbei und zeigt ihr Zuneigung."
+"278";"Eine Antike Boreal-Waffe aus Materialien, die man in den Bjora-Sümpfen findet."
+"279";"Verbrauchsstoff"
+"280";"Gemeinschaftsziel-Belohnung: Rang 1"
+"281";"des Baelfeuers"
+"282";"+10 %% erteilte Heilung
++100 Kraft
++70 Präzision
++10 %% Karma
++5 %% auf alle erhaltenen Erfahrungspunkte
++20 %% Magisches Gespür
++20 %% Goldgespür
++10 %% auf erhaltene WEP"
+"283";"Holzarbeit für<br>jeden beliebigen Charakter<br>für alle Zeit!"
+"284";"[N]%str1%%str2%Antikes Boreal-Zepter%str3%%str4%"
+"285";"Zeit:"
+"286";"Volleyball"
+"287";"des Giftes"
+"288";"Eine Wiederhergestellte Boreal-Waffe aus Materialien, die man in den Bjora-Sümpfen findet."
+"289";"Basis-Kraft"
+"290";"[lbracket]Beeinflusst[rbracket]"
+"291";"Fortschrittsaktualisierung in: %str1%"
+"292";"der Raserei"
+"293";"Eine Antike Boreal-Waffe aus Materialien, die man in den Bjora-Sümpfen findet."
+"294";"Gemeinschaftsziel-Belohnung: Rang 3"
+"295";"Befehlt Eurer Himmelsschuppe, kraftvoll zu brüllen."
+"296";"Verbrauchsstoff"
+"297";"Blutlagune"
+"298";"Gemeinschaftsziel-Belohnung: Rang 3"
+"299";"66 %% Chance auf Lebensentzug bei kritischem Treffer
++100 Heilkraft
++70 Konzentration
++10 %% Karma
++5 %% auf alle erhaltenen Erfahrungspunkte
++20 %% Magisches Gespür
++20 %% Goldgespür
++10 %% auf erhaltene WEP"
+"300";"Heftiger Schwinger"
+"301";"der Wucht"
+"302";"Asgeirs Vermächtnis 1"
+"303";"Dieser Gegenstand kann nicht abgelegt werden."
+"304";"Mini Knochenhäuter"
+"305";"Sammelt die Eisen-Marke vom "Metal Legion"-Konzert."
+"306";"Verbrauchsstoff"
+"307";"der Karka-Vernichtung"
+"308";"des Pestbringers"
+"309";"Rezept[pl:"Rezepte"]: Schmaus mit Carne Khan Chili"
+"310";"Wöchentliche Verkäufe"
+"311";"der Gnade"
+"312";"Hiermit wird das Aussehen Eures Reittiers verändert und der Schakal-Reittier-Skin wird für alle Charaktere Eures Accounts freigeschaltet."
+"313";"Das springende Mitglied der Musikgruppe fangen"
+"314";"Essen"
+"315";"der Krait"
+"316";"Verbrauchsstoff"
+"317";"Um der alten Zeiten willen"
+"318";"des Berserkers"
+"319";"Wiederhergestelltes Boreal-Schwert"
+"320";"Zermalmen"
+"321";"der Schwäche"
+"322";"Zephyriten-Vorratskisten geöffnet: %num1%/%num2%"
+"323";"Wille des Justiziars"
+"324";"Den Erfolg "Grothmar-Tal-Historiker[f:"Historikerin"]" abschließen"
+"325";"Verbrauchsstoff"
+"326";"Wiederhergestellte Boreal-Fackel"
+"327";"Seid Ihr sicher, dass Ihr alle Gegenstände dieser Ausrüstungs-Vorlage ersetzen möchtet?"
+"328";"Die Überlastung des Verstärkers verhindern"
+"329";"Kombiniert in der Mystischen Schmiede eine Gabe der Nebel, eine Gabe der Kämpferischen Hingabe und einen Salzgeschmiedeten Nebeldiamanten, um die Gabe des Champions herzustellen."
+"330";"Den Erfolg "Reicht die Fackel weiter" abschließen"
+"331";"Bezwungene Zentauren: %num1%/%num2%"
+"332";"Sammelt die Asche-Marke vom Schrein des Schicksalswissens."
+"333";"des Bannbrechers"
+"334";"Sparcus Feuerschlag besiegt: %num1%/%num2%"
+"335";"Den Erfolg "Brunnen-Beobachter[f:"Beobachterin"]" abschließen"
+"336";"von Orr"
+"337";"Eine Wiederhergestellte Boreal-Waffe aus Materialien, die man in den Bjora-Sümpfen findet."
+"338";"Wiederhergestellter Boreal-Dolch"
+"339";"der Blutgier"
+"340";"der Grawl-Vernichtung"
+"341";"Zusätzliche Pein"
+"342";"Den Kraftvollen Luft-Elementarling bezwingen"
+"343";"Gourmet-Schmaus: Doppelklicken, um allen in der Nähe sphärifizierte, nelkengewürzte Austernsuppe zu servieren. Schmaus bleibt für fünf Minuten aktiv."
+"344";"Südgebirge"
+"345";"Forschungsnotizen: Uralte Raben-Linse"
+"346";"Das sollte den Hunger von Heller Küste doch sicher stillen."
+"347";"Eure Darbringung wurde angenommen!"
+"348";"[lbracket]Springer-Vermietung[rbracket]"
+"349";"Brand-Stampfer 9"
+"350";"Kostprobenplatte mit gewürztem Fruchtsalat"
+"351";"Kostprobenplatte mit Nelken- und Gemüse-Fladenbrot"
+"352";"Zephyr-Koi-Laterne[pl:"Laternen"]"
+"353";"Rabengeist-Schatten"
+"354";"Gourmet-Schmaus: Doppelklicken, um allen in der Nähe Orangen-Nelken-Käsekuchen zu servieren. Schmaus bleibt für fünf Minuten aktiv."
+"355";"[lbracket]Rollkäfer-Vermietung[rbracket]"
+"356";"Kann mit der Episode "Durch Blut gebunden" verdient werden."
+"357";"Dies schaltet den Zugriff auf die Reittier-Variante für alle Charaktere dieses Accounts frei."
+"358";"Gourmet-Schmaus: Doppelklicken, um allen in der Nähe pfefferkorngewürztes Rindercarpaccio zu servieren. Schmaus bleibt für fünf Minuten aktiv."
+"359";"Essen"
+"360";"Gourmet-Schmaus: Doppelklicken, um allen in der Nähe Teller mit nelkengewürztem Rindercarpaccio zu servieren. Schmaus bleibt für fünf Minuten aktiv."
+"361";"Streckt Eure Fackel aus, um Spinnennetze in der Nähe zu beseitigen."
+"362";"Kostprobenplatte mit vakuumgegartem Pilz-Nelken-Schnitzel"
+"363";"Attributsauswahl steht für diesen Gegenstand nicht zur Verfügung."
+"364";"Erhalten durch die Wiederverwertung von hergestellten Nahrungs-Verbrauchsgegenständen."
+"365";"Zephyriten-Pistole"
+"366";"Essen"
+"367";"Kostprobenplatte mit Minz-Creme Brulee"
+"368";"Gourmet-Schmaus: Doppelklicken, um allen in der Nähe Teller mit Geflügelsülze mit Salsa-Beilage zu servieren. Schmaus bleibt für fünf Minuten aktiv."
+"369";"Findet man oft an Büschen grasend."
