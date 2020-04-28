@@ -3,41 +3,45 @@
 "2";"Diseño[s] de botas tóxicas"
 "3";"+50 %% probabilidad de ganar experiencia de éxito crítico al fabricar"
 "4";"Diario 2 de "Forja de Acero""
-"5";"Pocos se han unido a nosotros, pero seremos fuertes. Se ha exhumado un coloso de la forja y varios exploradores han vuelto con investigaciones saqueadas. Los eruditos están reconstruyendo los textos antiguos para encontrar la forma de detener el mal de piedra.
+"5";"Escarabajo"
+"6";"Pocos se han unido a nosotros, pero seremos fuertes. Se ha exhumado un coloso de la forja y varios exploradores han vuelto con investigaciones saqueadas. Los eruditos están reconstruyendo los textos antiguos para encontrar la forma de detener el mal de piedra.
 
 
 
 Me cuesta mucho moverme. La piedra ha avanzado hasta los hombros, lo que me dificulta el manejo del hacha. Si no puedo luchar, tanto da que me eche al fuego. Cualquier destino sería mejor que este."
-"6";"[F]Varita de la voz rota%str3%%str4%%str2%%str1%"
-"7";"Capa de acechador del abismo"
-"8";"Recipiente vacío"
-"9";"[lbracket]Forjadora de armaduras rúnicas[rbracket]"
-"10";"Espada de ira"
-"11";"Salir de la visión"
-"12";"Onda de espada"
-"13";"Koss sobre Koss: Sin autorización y sin censura"
-"14";"Diario del reparaforjas Arngirn"
-"15";"[M]Martillo de guerra de la voz rota%str3%%str4%%str2%%str1%"
-"16";"Potenciador de explorador"
-"17";"Diario del reparaforjas Arngirn"
-"18";"Potenciador[pl:"Potenciadores"] de artesanía"
-"19";"Bote[s] de tinte[s] del León Negro exótico[s]: Verde[s]"
-"20";"Diario 6 de "Cuevas de Escarchaoscura""
-"21";"El Pacto de Cerranegro"
-"22";"Aumenta la velocidad de movimiento en un 15 %%.
+"7";"[F]Varita de la voz rota%str3%%str4%%str2%%str1%"
+"8";"Capa de acechador del abismo"
+"9";"Recipiente vacío"
+"10";"[lbracket]Forjadora de armaduras rúnicas[rbracket]"
+"11";"Espada de ira"
+"12";"Salir de la visión"
+"13";"Onda de espada"
+"14";"Koss sobre Koss: Sin autorización y sin censura"
+"15";"Diario del reparaforjas Arngirn"
+"16";"[M]Martillo de guerra de la voz rota%str3%%str4%%str2%%str1%"
+"17";"Potenciador de explorador"
+"18";"Diario del reparaforjas Arngirn"
+"19";"Al consumir este objeto conseguirás un diseño para montura al azar de los establos del León Negro."
+"20";"Potenciador[pl:"Potenciadores"] de artesanía"
+"21";"Bote[s] de tinte[s] del León Negro exótico[s]: Verde[s]"
+"22";"Grifo"
+"23";"Diario 6 de "Cuevas de Escarchaoscura""
+"24";"El Pacto de Cerranegro"
+"25";"Aumenta la velocidad de movimiento en un 15 %%.
 Ganas 10 segundos de celeridad al recolectar.
 33 %% de probabilidad de obtener recursos extra al recolectar.
 Aumenta la experiencia al matar un 50 %%.
 <c=@reminder>El efecto se eliminará si entras en PvP competitivo o en una incursión.</c>"
-"23";"Ataques imbloqueables por impacto"
-"24";"Bote[s] de tinte[s] del León Negro exótico[s]: Azul[pl:"Azules"]"
-"25";""Promesa al destino", de Snargle Garradorada"
-"26";"Enlaces de puertas"
-"27";"+125 de daño de condición; +10 %% de duración de miedo"
-"28";"Jugadores en modo clasificatorio"
-"29";"¿Quieres salir de la visión y volver al Estanque Mágico?"
-"30";"Empieza el desafío: Escolta de tanque"
-"31";"CAPÍTULO 2
+"26";"Ataques imbloqueables por impacto"
+"27";"Bote[s] de tinte[s] del León Negro exótico[s]: Azul[pl:"Azules"]"
+"28";""Promesa al destino", de Snargle Garradorada"
+"29";"Enlaces de puertas"
+"30";"+125 de daño de condición; +10 %% de duración de miedo"
+"31";"Jugadores en modo clasificatorio"
+"32";"¿Quieres salir de la visión y volver al Estanque Mágico?"
+"33";"Mantarraya"
+"34";"Empieza el desafío: Escolta de tanque"
+"35";"CAPÍTULO 2
 
 "No solemos dejar entrar a forasteros —dijo Makoto mientras envolvía a su pequeño amante asura con sus emplumados brazos—, así que tienes que jurarme que no le hablarás a nadie de lo que veas aquí."
 
@@ -48,71 +52,77 @@ Makoto soltó una risita completamente desprovista de alegría.
 "Tendría que matarte, claro está."
 
 En fin, hipótesis confirmada."
-"32";"Bolsa[s] de ingredientes de cocina básicos"
-"33";"Cofre de mención de la Legión de Sangre"
-"34";"Promesa al destino"
-"35";"Temporadas PvP"
-"36";"[M]Saqueador de la voz rota%str3%%str4%%str2%%str1%"
-"37";"Mochila[s] de alas de caminasueños"
-"38";"Diario 5 de "Forja de Acero""
-"39";"Tu primer ataque explota e inflige daño adicional a los enemigos cercanos."
-"40";"Atuendo de acechador del abismo"
-"41";"Rango final de misión: Tribuno"
-"42";"Daño de proyectil"
-"43";"Diario del reparaforjas Arngirn"
-"44";"Ganas 50 %% de hallazgo mágico."
-"45";"Diario 8 de "Cuevas de Escarchaoscura""
-"46";"Haz doble clic para aplicar esto a una herramienta de recolección."
-"47";"Desbloquea la ruta de recompensas para conseguir el diseño de garrabélica de jinete de clan."
-"48";"Glifo[s] de virtud"
-"49";"Esta bolsa contiene un diseño de planeador y un diseño de mochila a juego."
-"50";"Planeador de alas de caminasueños"
-"51";"[M]Arco compuesto de la voz rota%str3%%str4%%str2%%str1%"
-"52";"Calzas poderosas mejoradas"
-"53";"<c=@flavor>El destino los llamó... y ellos respondieron.</c>
+"36";"Bolsa[s] de ingredientes de cocina básicos"
+"37";"Cofre de mención de la Legión de Sangre"
+"38";"Desbloquea una nueva montura a tu elección."
+"39";"Promesa al destino"
+"40";"Temporadas PvP"
+"41";"[M]Saqueador de la voz rota%str3%%str4%%str2%%str1%"
+"42";"Mochila[s] de alas de caminasueños"
+"43";"Diario 5 de "Forja de Acero""
+"44";"Tu primer ataque explota e inflige daño adicional a los enemigos cercanos."
+"45";"Atuendo de acechador del abismo"
+"46";"Rango final de misión: Tribuno"
+"47";"Daño de proyectil"
+"48";"Diario del reparaforjas Arngirn"
+"49";"Ganas 50 %% de hallazgo mágico."
+"50";"Diario 8 de "Cuevas de Escarchaoscura""
+"51";"Haz doble clic para aplicar esto a una herramienta de recolección."
+"52";"Desbloquea la ruta de recompensas para conseguir el diseño de garrabélica de jinete de clan."
+"53";"Glifo[s] de virtud"
+"54";"Esta bolsa contiene un diseño de planeador y un diseño de mochila a juego."
+"55";"Planeador de alas de caminasueños"
+"56";"[M]Arco compuesto de la voz rota%str3%%str4%%str2%%str1%"
+"57";"Calzas poderosas mejoradas"
+"58";"<c=@flavor>El destino los llamó... y ellos respondieron.</c>
 
 Se encuentra en Halcón de Ébano."
-"54";"Capa[s] de acechador del abismo"
-"55";"Haz doble clic para abrir. Contiene cotas mejores que las normales de nivel 5."
-"56";"Recuperación de la red de puertas en el Ojo del Norte"
-"57";"Servicios del Ojo del Norte"
-"58";"Por fin, un avance. Los exploradores han recuperado pergaminos de las cámaras del Último Hierofante, el que buscaba dominar el poder de la némesis de Deldrimor, el Gran Destructor. Aunque por desgracia no tenemos el Tomo del Rubicón, no nos hace falta para apoderarnos de lo que necesitamos. La profecía es una falacia, determinamos nuestro propio futuro.
+"59";"Capa[s] de acechador del abismo"
+"60";"Consigue un diseño de montura a tu elección de los establos del León Negro. Haz clic derecho para previsualizar los diseños de monturas disponibles."
+"61";"Haz doble clic para abrir. Contiene cotas mejores que las normales de nivel 5."
+"62";"Recuperación de la red de puertas en el Ojo del Norte"
+"63";"Permiso[s] de adopción de monturas de criaturas curiosas"
+"64";"Servicios del Ojo del Norte"
+"65";"Por fin, un avance. Los exploradores han recuperado pergaminos de las cámaras del Último Hierofante, el que buscaba dominar el poder de la némesis de Deldrimor, el Gran Destructor. Aunque por desgracia no tenemos el Tomo del Rubicón, no nos hace falta para apoderarnos de lo que necesitamos. La profecía es una falacia, determinamos nuestro propio futuro.
 
 ¡La Cima de Piedra jamás cederá! Ni necesitamos que nos den una "bendición" ni estamos dispuestos a pagar su precio. La fuerza se gana, no se otorga.
 
 Me cuesta moverme, pero voy acostumbrándome. La piedra me rodea, pero me mantengo fuerte. No tengo miedo.
 
 Cuando los eruditos hayan planificado el ritual, no habrá vuelta atrás. Debemos trascender."
-"59";"Tengu para dos"
-"60";"<c=@flavor>Un ejemplar de la primera edición, autografiado y con dedicatoria del autor.</c>"
-"61";"Umbral de fuerza vital"
-"62";"Diario 7 de "Cuevas de Escarchaoscura""
-"63";"Llamarada de la Vigilia"
-"64";"Ganas estabilidad y te curas al eliminar aturdimientos."
-"65";"Caja de coleccionista"
-"66";"[M]Arco corto de la voz rota%str3%%str4%%str2%%str1%"
-"67";"Elemental de tierra invocado"
-"68";"Caperuza hecha en casa"
-"69";"Mandiletes de belitre"
-"70";"Mientras tienes furia, tus ataques infligen vulnerabilidad."
-"71";"Haz doble clic para abrir. Contiene guantes mejores que los normales de nivel 5."
-"72";"Haz doble clic para abrir. Contiene botas mejores que las normales de nivel 5."
-"73";"Arco con espada"
-"74";"Brazales de responsabilidad"
-"75";"Disponible por tiempo limitado.
+"66";"Grifo"
+"67";"Tengu para dos"
+"68";"Adopta a una nueva versión de tus monturas."
+"69";"<c=@flavor>Un ejemplar de la primera edición, autografiado y con dedicatoria del autor.</c>"
+"70";"Umbral de fuerza vital"
+"71";"Diario 7 de "Cuevas de Escarchaoscura""
+"72";"Llamarada de la Vigilia"
+"73";"Ganas estabilidad y te curas al eliminar aturdimientos."
+"74";"Caja de coleccionista"
+"75";"[M]Arco corto de la voz rota%str3%%str4%%str2%%str1%"
+"76";"Elemental de tierra invocado"
+"77";"Caperuza hecha en casa"
+"78";"Mandiletes de belitre"
+"79";"Mientras tienes furia, tus ataques infligen vulnerabilidad."
+"80";"Haz doble clic para abrir. Contiene guantes mejores que los normales de nivel 5."
+"81";"Haz doble clic para abrir. Contiene botas mejores que las normales de nivel 5."
+"82";"Arco con espada"
+"83";"Brazales de responsabilidad"
+"84";"Disponible por tiempo limitado.
 
 Cambia la apariencia de cualquier báculo. Esto también desbloqueará el diseño en el guardarropa de tu cuenta."
-"76";"Forja de Acero"
-"77";"Salida de la visión. Haz clic para despertar."
-"78";"Capa[s] tóxica[s]"
-"79";"¡Cosecha con<br>cualquier personaje<br>para siempre!"
-"80";"Recolectar madera"
-"81";"Distancia de evasión"
-"82";"<c=@flavor>Frío candente.</c>
+"85";"Forja de Acero"
+"86";"Salida de la visión. Haz clic para despertar."
+"87";"Capa[s] tóxica[s]"
+"88";"¡Cosecha con<br>cualquier personaje<br>para siempre!"
+"89";"Recolectar madera"
+"90";"Distancia de evasión"
+"91";"<c=@flavor>Frío candente.</c>
 
 Se encuentra en la Fortaleza de Jora, en la Marca de Bjora."
-"83";"El amor es ciego"
-"84";"El tratamiento es lento pero, en las forjas, hay una muy esperada sensación de triunfo. El coloso de la forja hace fosfatina a nuestros enemigos mientras sus hornos arden y, aunque la piedra permanece en nuestros cuerpos, nuestros pensamientos se han librado de sus grilletes.
+"92";"El amor es ciego"
+"93";"Saltarín"
+"94";"El tratamiento es lento pero, en las forjas, hay una muy esperada sensación de triunfo. El coloso de la forja hace fosfatina a nuestros enemigos mientras sus hornos arden y, aunque la piedra permanece en nuestros cuerpos, nuestros pensamientos se han librado de sus grilletes.
 
 
 
@@ -121,17 +131,18 @@ En cada fase notamos la transformación en nuestro interior. Aunque aceptamos a 
 
 
 Con todo, la Cima de Piedra no cederá. Somos los dueños de nuestra tierra y de todo lo que ella alberga."
-"85";"Forjadora de armaduras rúnicas"
-"86";"Botas poderosas mejoradas"
-"87";"Misión fracasada: El tanque ha sufrido daños irreparables."
-"88";"Guantes poderosos mejorados"
-"89";"1.ª temporada de liga PvP 2v2"
-"90";"Caqui (Repetible)"
-"91";"Recolectar hierbas"
-"92";"Rango final de misión: Soldado"
-"93";""Comandante de tu corazón", de Snargle Garradorada"
-"94";""Comandante de tu corazón", de Snargle Garradorada"
-"95";"CAPÍTULO 12
+"95";"Forjadora de armaduras rúnicas"
+"96";"Botas poderosas mejoradas"
+"97";"Escarabajo"
+"98";"Misión fracasada: El tanque ha sufrido daños irreparables."
+"99";"Guantes poderosos mejorados"
+"100";"1.ª temporada de liga PvP 2v2"
+"101";"Caqui (Repetible)"
+"102";"Recolectar hierbas"
+"103";"Rango final de misión: Soldado"
+"104";""Comandante de tu corazón", de Snargle Garradorada"
+"105";""Comandante de tu corazón", de Snargle Garradorada"
+"106";"CAPÍTULO 12
 
 Melonni, Dunkoro, Talkora... Koss había tenido muchos amantes a lo largo de su vida, pero siempre sentía que le faltaba algo, siempre había necesitado... más. Y ahí, por fin, estaba la solución.
 
@@ -140,49 +151,52 @@ Al fin y al cabo, ¿quién podría ser más que Koss?
 Koss miró con ansia a los ojos de su álter ego, que le devolvió una mirada cargada de parejo afecto. Por fin habían encontrado lo que les faltaba para sentirse completos: Koss, a un igual; y el álter ego, a un objetivo más digno que cualquier otro.
 
 Conforme Koss abrazaba a Koss, su amor se desplazaba más allá de la realidad. Desafiaba a las dimensiones. Su viaje juntos no había hecho más que empezar."
-"96";"Los avances son lentos. Hemos aprovechado los manantiales termales de la montaña para las fraguas, pero nos faltan subnúcleos para el coloso de la forja. Las bestias de hielo atacan nuestras puertas de noche y las hacen pedazos, pero da igual con cuántas acabemos, sus filas no parecen menguar.
+"107";"Los avances son lentos. Hemos aprovechado los manantiales termales de la montaña para las fraguas, pero nos faltan subnúcleos para el coloso de la forja. Las bestias de hielo atacan nuestras puertas de noche y las hacen pedazos, pero da igual con cuántas acabemos, sus filas no parecen menguar.
 
 La transformación se acelera. La piedra ya me llega al cuello y siento la llamada para unirme a la lucha junto a nuestros hermanos. Pero resistiré... Todos resistiremos. Solo hay una Cima.
 
 Los eruditos afirman comprender esta magia lo suficiente como para dominarla, bien para revertir el Rito del Gran Enano, bien para aprovecharlo. Podríamos transformarnos en algo nunca visto en la faz de Tyria. Pero también podríamos morir.
 
 Hemos aceptado el abrazo de la muerte y lo preferimos a la vida que Deldrimor nos depararía."
-"97";"Los diseños de aspecto sustituyen el aspecto de tu equipo y no tienen estadísticas propias."
-"98";"Diario del reparaforjas Arngirn"
-"99";"[F]Maza de armas de la voz rota%str3%%str4%%str2%%str1%"
-"100";"Herramienta de cosecha glacial"
-"101";""Tengu para dos", de Snargle Garradorada"
-"102";"<c=@flavor>La distancia no importa.</c>
+"108";"Los diseños de aspecto sustituyen el aspecto de tu equipo y no tienen estadísticas propias."
+"109";"Diario del reparaforjas Arngirn"
+"110";"[F]Maza de armas de la voz rota%str3%%str4%%str2%%str1%"
+"111";"Herramienta de cosecha glacial"
+"112";""Tengu para dos", de Snargle Garradorada"
+"113";"<c=@flavor>La distancia no importa.</c>
 
 Se encuentra en la base del Pacto en Dragoncaído."
-"103";"¡Ya está disponible la bolsa de aspecto de acechador del abismo!"
-"104";"Bailarinas de belitre"
-"105";"Haz doble clic para abrir. Contiene calzas mejores que las normales de nivel 5."
-"106";"Empieza el desafío: Horda de enemigos"
-"107";"<c=@flavor>Su mayor riqueza... ¡es una pasión ardiente!</c>
+"114";"¡Ya está disponible la bolsa de aspecto de acechador del abismo!"
+"115";"Bailarinas de belitre"
+"116";"Desbloquea una nueva montura al azar."
+"117";"Haz doble clic para abrir. Contiene calzas mejores que las normales de nivel 5."
+"118";"Empieza el desafío: Horda de enemigos"
+"119";"<c=@flavor>Su mayor riqueza... ¡es una pasión ardiente!</c>
 
 Prohibido por sedición contra el Rey Dios y sellado en el almacén de la Academia Vehtendi, en el Dominio de Vabbi."
-"108";"Otorga karma de bonificación al recolectar, además de lo que se recolecte normalmente."
-"109";"[M]Brasero de la voz rota%str3%%str4%%str2%%str1%"
-"110";"¡Cosecha con<br>cualquier personaje<br>para siempre!"
-"111";"Elemental de fuego invocado"
-"112";"Empieza el desafío: Jefe final"
-"113";"Cuevas de Escarchaoscura"
-"114";"Elección de tinte común"
-"115";"de virtud"
-"116";"+50 %% probabilidad de éxito crítico al fabricar"
-"117";"<c=@flavor>Un lancero del sol nunca lucha solo.</c>
+"120";"Otorga karma de bonificación al recolectar, además de lo que se recolecte normalmente."
+"121";"[M]Brasero de la voz rota%str3%%str4%%str2%%str1%"
+"122";"¡Cosecha con<br>cualquier personaje<br>para siempre!"
+"123";"Elemental de fuego invocado"
+"124";"Empieza el desafío: Jefe final"
+"125";"Permiso de adopción de monturas"
+"126";"Cuevas de Escarchaoscura"
+"127";"Elección de tinte común"
+"128";"de virtud"
+"129";"+50 %% probabilidad de éxito crítico al fabricar"
+"130";"<c=@flavor>Un lancero del sol nunca lucha solo.</c>
 
 Se encuentra en el Ojo del Norte."
-"118";"Pañuelo de belitre"
-"119";"Garrabélica de jinete de clan"
-"120";"El cantar de Svan"
-"121";"Atavío hecho en casa"
-"122";"Luego de encontrar una colección de obras suyas, vuelve a reunirte con Snargle Garradorada en el Ojo del Norte."
-"123";"Caja de aventurero"
-"124";"Contendiente de 2v2"
-"125";"Pase de portales a mapas iniciales"
-"126";"Puertas selladas
+"131";"Permiso[s] de selección de monturas de criaturas curiosas"
+"132";"Pañuelo de belitre"
+"133";"Garrabélica de jinete de clan"
+"134";"El cantar de Svan"
+"135";"Atavío hecho en casa"
+"136";"Luego de encontrar una colección de obras suyas, vuelve a reunirte con Snargle Garradorada en el Ojo del Norte."
+"137";"Caja de aventurero"
+"138";"Contendiente de 2v2"
+"139";"Pase de portales a mapas iniciales"
+"140";"Puertas selladas
 
 Fortalezas aseguradas
 
@@ -195,17 +209,17 @@ arder
 ceniza
 
 cima"
-"127";"Detén a Almorra Guardalma."
-"128";"Al usarlo, el pase de portales te llevará a uno de estos lugares de forma gratuita, pero también puedes ir al momento, pagando un coste, a cualquier punto de ruta desbloqueado haciendo clic sobre él en el mapa. A mayor distancia, mayor coste. Algunos pueden entrar "en disputa" con los eventos, lo que impedirá el viaje hasta que estos se resuelvan."
-"129";"Caja de explorador"
-"130";"Chirucas[pl:"Chirucas"] de Maguuma"
-"131";"Cristal[pl:"Cristales"] de profecía verde[s]"
-"132";"Esquirlas cristalinas de magia dracónica con vetas rojas.
+"141";"Detén a Almorra Guardalma."
+"142";"Al usarlo, el pase de portales te llevará a uno de estos lugares de forma gratuita, pero también puedes ir al momento, pagando un coste, a cualquier punto de ruta desbloqueado haciendo clic sobre él en el mapa. A mayor distancia, mayor coste. Algunos pueden entrar "en disputa" con los eventos, lo que impedirá el viaje hasta que estos se resuelvan."
+"143";"Caja de explorador"
+"144";"Chirucas[pl:"Chirucas"] de Maguuma"
+"145";"Cristal[pl:"Cristales"] de profecía verde[s]"
+"146";"Esquirlas cristalinas de magia dracónica con vetas rojas.
 
 Les interesan a los emisarios del Ojo del Norte."
-"133";"Superraptor proscrito"
-"134";"Formaciones cristalinas de magia dracónica con vetas verdes.
+"147";"Superraptor proscrito"
+"148";"Formaciones cristalinas de magia dracónica con vetas verdes.
 Les interesan a los emisarios del Ojo del Norte.
 Se consiguen en ataques prioritarios o combinando esquirlas."
-"135";"Esquirla[s] de profecía verde[s]"
-"136";"Punto de interés: Laboratorio Terranéxico"
+"149";"Esquirla[s] de profecía verde[s]"
+"150";"Punto de interés: Laboratorio Terranéxico"

@@ -3,39 +3,43 @@
 "2";"Toxic Boots Skin[s]"
 "3";"+50%% chance of crafting critical experience gain."
 "4";"Journal 2 in Forging Steel"
-"5";"Few have joined us, but we will be strong with the numbers we have.  A Forge Colossus has been exhumed, and several scouts have returned with plundered research. Our scholars are reconstructing the old texts to find a way to stop the stone affliction.
+"5";"Roller Beetle"
+"6";"Few have joined us, but we will be strong with the numbers we have.  A Forge Colossus has been exhumed, and several scouts have returned with plundered research. Our scholars are reconstructing the old texts to find a way to stop the stone affliction.
 
 My movement has become burdensome. The stone has progressed to my shoulder, making it difficult to wield an axe. If I can't fight, I may as well hurl myself into fire. Any fate would be better than this."
-"6";"%str1%%str2%Wand of the Broken Voice%str3%%str4%"
-"7";"Abyss Stalker Cape"
-"8";"Empty Vessel"
-"9";"[lbracket]Runic Armorsmith[rbracket]"
-"10";"Sword of Wrath"
-"11";"Vision Exit"
-"12";"Sword Wave"
-"13";"Koss on Koss: Unauthorized and Uncensored"
-"14";"Journal of Forgemender Arngirn"
-"15";"%str1%%str2%Warhammer of the Broken Voice%str3%%str4%"
-"16";"Explorer Boost"
-"17";"Journal of Forgemender Arngirn"
-"18";"Crafting Booster[s]"
-"19";"Exotic Black Lion Dye Canister[s]—Green"
-"20";"Journal 6 in Darkrime Delves"
-"21";"The Ebonlocke Covenant"
-"22";"Increase movement speed by 15%%.
+"7";"%str1%%str2%Wand of the Broken Voice%str3%%str4%"
+"8";"Abyss Stalker Cape"
+"9";"Empty Vessel"
+"10";"[lbracket]Runic Armorsmith[rbracket]"
+"11";"Sword of Wrath"
+"12";"Vision Exit"
+"13";"Sword Wave"
+"14";"Koss on Koss: Unauthorized and Uncensored"
+"15";"Journal of Forgemender Arngirn"
+"16";"%str1%%str2%Warhammer of the Broken Voice%str3%%str4%"
+"17";"Explorer Boost"
+"18";"Journal of Forgemender Arngirn"
+"19";"Consuming this item will grant you one random mount skin from the Black Lion Stables."
+"20";"Crafting Booster[s]"
+"21";"Exotic Black Lion Dye Canister[s]—Green"
+"22";"Griffon"
+"23";"Journal 6 in Darkrime Delves"
+"24";"The Ebonlocke Covenant"
+"25";"Increase movement speed by 15%%.
 Gain 10 seconds of swiftness when gathering.
 33%% chance at extra resources when gathering.
 Increase experience gained from kills by 50%%
 <c=@reminder>Will be removed if you enter competitive PvP or a raid.</c>"
-"23";"Unblockable Attacks per Hit"
-"24";"Exotic Black Lion Dye Canister[s]—Blue"
-"25";"Destiny's Pledge by Snargle Goldclaw"
-"26";"Gate Linking"
-"27";"+125 Condition Damage; +10%% Fear Duration"
-"28";"Ranked Players"
-"29";"Exit the vision and return to the Scrying Pool?"
-"30";"Challenge Begins: Tank Escort"
-"31";"CHAPTER 2
+"26";"Unblockable Attacks per Hit"
+"27";"Exotic Black Lion Dye Canister[s]—Blue"
+"28";"Destiny's Pledge by Snargle Goldclaw"
+"29";"Gate Linking"
+"30";"+125 Condition Damage; +10%% Fear Duration"
+"31";"Ranked Players"
+"32";"Exit the vision and return to the Scrying Pool?"
+"33";"Skimmer"
+"34";"Challenge Begins: Tank Escort"
+"35";"CHAPTER 2
 
 "We don't normally allow outsiders within our walls," Makoto said, enveloping her tiny asura lover in her feathered arms, "So you'll have to swear not to tell anyone what you see here."
 
@@ -44,84 +48,91 @@ Prapp gazed in awe at the wonders around him. "What happens if I slip up," he th
 Makoto chuckled, entirely mirthlessly. "I'll have to kill you, of course."
 
 Well, hypothesis confirmed."
-"32";"Bag[s] of Basic Cooking Ingredients"
-"33";"Blood Legion Commendation Chest"
-"34";"Destiny's Pledge"
-"35";"PvP Seasons"
-"36";"%str1%%str2%Reaver of the Broken Voice%str3%%str4%"
-"37";"Dreamwalker Wings Backpack[s]"
-"38";"Journal 5 in Forging Steel"
-"39";"Your first attack explodes, dealing extra damage to nearby enemies."
-"40";"Abyss Stalker Outfit"
-"41";"Mission Final Rank: Tribune"
-"42";"Projectile Damage"
-"43";"Journal of Forgemender Arngirn"
-"44";"You gain 50%% magic find."
-"45";"Journal 8 in Darkrime Delves"
-"46";"Double-click to apply this to a gathering tool."
-"47";"Unlocks the reward track for the Guildrider Warclaw skin."
-"48";"Glyph[s] of Virtue"
-"49";"This package contains a glider skin and a matching backpack skin."
-"50";"Dreamwalker Wings Glider"
-"51";"%str1%%str2%Greatbow of the Broken Voice%str3%%str4%"
-"52";"Enhanced Mighty Leggings"
-"53";"<c=@flavor>Destiny called. They answered.</c>
+"36";"Bag[s] of Basic Cooking Ingredients"
+"37";"Blood Legion Commendation Chest"
+"38";"Unlock a new mount of your choice."
+"39";"Destiny's Pledge"
+"40";"PvP Seasons"
+"41";"%str1%%str2%Reaver of the Broken Voice%str3%%str4%"
+"42";"Dreamwalker Wings Backpack[s]"
+"43";"Journal 5 in Forging Steel"
+"44";"Your first attack explodes, dealing extra damage to nearby enemies."
+"45";"Abyss Stalker Outfit"
+"46";"Mission Final Rank: Tribune"
+"47";"Projectile Damage"
+"48";"Journal of Forgemender Arngirn"
+"49";"You gain 50%% magic find."
+"50";"Journal 8 in Darkrime Delves"
+"51";"Double-click to apply this to a gathering tool."
+"52";"Unlocks the reward track for the Guildrider Warclaw skin."
+"53";"Glyph[s] of Virtue"
+"54";"This package contains a glider skin and a matching backpack skin."
+"55";"Dreamwalker Wings Glider"
+"56";"%str1%%str2%Greatbow of the Broken Voice%str3%%str4%"
+"57";"Enhanced Mighty Leggings"
+"58";"<c=@flavor>Destiny called. They answered.</c>
 Found in Ebonhawke."
-"54";"Abyss Stalker Cape[s]"
-"55";"Double-click to open. Contains chestpieces that are more powerful than standard level 5 chestpieces."
-"56";"Restoring the Gate Grid at the Eye of the North"
-"57";"Eye of the North Services"
-"58";"At last, a breakthrough. The scouts have recovered scrolls from the vaults of the Last Hierophant, the one who sought to harness the power of Deldrimor's nemesis, the Great Destroyer. Though we regretably lack the Tome of the Rubicon, we do not need it to seize what we need. Prophecy is a farce. We decide our future.
+"59";"Abyss Stalker Cape[s]"
+"60";"Gain a mount skin of your choice from the Black Lion Stables. Right-click to preview available mount skins."
+"61";"Double-click to open. Contains chestpieces that are more powerful than standard level 5 chestpieces."
+"62";"Restoring the Gate Grid at the Eye of the North"
+"63";"Curious Creatures Mount Adoption License[s]"
+"64";"Eye of the North Services"
+"65";"At last, a breakthrough. The scouts have recovered scrolls from the vaults of the Last Hierophant, the one who sought to harness the power of Deldrimor's nemesis, the Great Destroyer. Though we regretably lack the Tome of the Rubicon, we do not need it to seize what we need. Prophecy is a farce. We decide our future.
 
 The Stone Summit will never yield! We do not need a "blessing" given, nor will we pay its price. Strength is taken, not granted.
 
 My movements are labored, though I am slowly acclimating. The stone surrounds me, but I am strong. I feel no fear.
 
 Once the scholars have planned the ritual, there is no going back. We must transcend."
-"59";"It Takes Two to Tengu"
-"60";"<c=@flavor>A first edition, autographed with a personal note from the author.</c>"
-"61";"Life Force Threshold"
-"62";"Journal 7 in Darkrime Delves"
-"63";"Vigil Blaze"
-"64";"Gain stability and heal yourself when you break stuns."
-"65";"Collector's Box"
-"66";"%str1%%str2%Short Bow of the Broken Voice%str3%%str4%"
-"67";"Earth Elemental Summoned"
-"68";"Homespun Hood"
-"69";"Ragamuffin Grips"
-"70";"While you have fury, your attacks inflict vulnerability."
-"71";"Double-click to open. Contains gloves that are more powerful than standard level 5 gloves."
-"72";"Double-click to open. Contains boots that are more powerful than standard level 5 boots."
-"73";"Sword Arc"
-"74";"Duty-Bound Bracers"
-"75";"Available for a limited time.
+"66";"Griffon"
+"67";"It Takes Two to Tengu"
+"68";"Adopt a new version of your mounts."
+"69";"<c=@flavor>A first edition, autographed with a personal note from the author.</c>"
+"70";"Life Force Threshold"
+"71";"Journal 7 in Darkrime Delves"
+"72";"Vigil Blaze"
+"73";"Gain stability and heal yourself when you break stuns."
+"74";"Collector's Box"
+"75";"%str1%%str2%Short Bow of the Broken Voice%str3%%str4%"
+"76";"Earth Elemental Summoned"
+"77";"Homespun Hood"
+"78";"Ragamuffin Grips"
+"79";"While you have fury, your attacks inflict vulnerability."
+"80";"Double-click to open. Contains gloves that are more powerful than standard level 5 gloves."
+"81";"Double-click to open. Contains boots that are more powerful than standard level 5 boots."
+"82";"Sword Arc"
+"83";"Duty-Bound Bracers"
+"84";"Available for a limited time.
 
 Change the appearance of any existing staff. This will also unlock the skin for your account wardrobe."
-"76";"Forging Steel"
-"77";"Vision Exit. Click to awaken."
-"78";"Toxic Cape[s]"
-"79";"Harvesting for<br>any character<br>for all time!"
-"80";"Gather Lumber"
-"81";"Evade Distance"
-"82";"<c=@flavor>Icy hot.</c>
+"85";"Forging Steel"
+"86";"Vision Exit. Click to awaken."
+"87";"Toxic Cape[s]"
+"88";"Harvesting for<br>any character<br>for all time!"
+"89";"Gather Lumber"
+"90";"Evade Distance"
+"91";"<c=@flavor>Icy hot.</c>
 Found in Jora's Keep in Bjora Marches."
-"83";"Love Is Blind"
-"84";"The treatment is slow, but among the forges there is a long-awaited sense of triumph. The Forge Colossus tears our foes limb from limb as its furnaces burn, and although the stone remains on our bodies, our thoughts are freed from its shackles.
+"92";"Love Is Blind"
+"93";"Springer"
+"94";"The treatment is slow, but among the forges there is a long-awaited sense of triumph. The Forge Colossus tears our foes limb from limb as its furnaces burn, and although the stone remains on our bodies, our thoughts are freed from its shackles.
 
 With each phase, transformation can be felt within. Though we grudgingly accept our new bodies, we are bound for irreversible change. All has not been to plan, however. Some among us have not withstood the treatment. Their bodies were melted from within by fire, leaving behind nothing but ash. We mourn them, but their wills were perhaps not strong enough for the rites. The ritual priests propose the fallen may have been overwhelmed by a force connected to or perhaps superior to what we're harnessing. A being of pure and ancient fire.
 
 Regardless, the Stone Summit will not yield. We are the masters of our lands and all within them."
-"85";"Runic Armorsmith"
-"86";"Enhanced Mighty Boots"
-"87";"Mission Failed: The tank has sustained irreparable damage."
-"88";"Enhanced Mighty Gloves"
-"89";"PvP League 2v2 Season One"
-"90";"Persimmon (Repeatable)"
-"91";"Gather Herbs"
-"92";"Mission Final Rank: Soldier"
-"93";"Commander of Your Heart by Snargle Goldclaw"
-"94";"Commander of Your Heart by Snargle Goldclaw"
-"95";"CHAPTER 12
+"95";"Runic Armorsmith"
+"96";"Enhanced Mighty Boots"
+"97";"Roller Beetle"
+"98";"Mission Failed: The tank has sustained irreparable damage."
+"99";"Enhanced Mighty Gloves"
+"100";"PvP League 2v2 Season One"
+"101";"Persimmon (Repeatable)"
+"102";"Gather Herbs"
+"103";"Mission Final Rank: Soldier"
+"104";"Commander of Your Heart by Snargle Goldclaw"
+"105";"Commander of Your Heart by Snargle Goldclaw"
+"106";"CHAPTER 12
 
 Melonni, Dunkoro, Talkora. Koss has had many loves in his life, but something was always missing. He'd always needed...more. Here, finally, was the solution.
 
@@ -130,46 +141,49 @@ After all: Who could ever be MORE than Koss?
 Koss gazed longingly into the eyes of his doppelganger, who gazed back with equal affection. The completion each had sought, found. For Koss—an equal. For the doppelganger—a target more worthy than any other.
 
 As Koss embraced Koss, their love shifted beyond reality. It defied dimensions. And their journey together was just beginning."
-"96";"Progress is slow. We've harnessed the mountain's thermal springs for our furnaces, but we lack slave-cores for the Forged Colossus. The ice beasts assault our gates nightly, tearing them asunder, but their ranks seem to never thin no matter how many we fend off.
+"107";"Progress is slow. We've harnessed the mountain's thermal springs for our furnaces, but we lack slave-cores for the Forged Colossus. The ice beasts assault our gates nightly, tearing them asunder, but their ranks seem to never thin no matter how many we fend off.
 
 The transformation is accelerating. The stone is now at my neck, and I feel the call to join the fight with our brethren. But I will resist—we will ALL resist. There is only one Summit.
 
 The scholars claim to understand enough about its magic to harness it, either to undo the Rite of the Great Dwarf or perhaps to leverage it. We could transform into something never before seen on the face of Tyria. We could also die.
 
 We have made our peace with death, and would welcome it over the life that the Deldrimor would have for us."
-"97";"Appearance skins override the look of your equipment and have no stats of their own."
-"98";"Journal of Forgemender Arngirn"
-"99";"%str1%%str2%Flanged Mace of the Broken Voice%str3%%str4%"
-"100";"Glacial Harvesting Tool"
-"101";"It Takes Two to Tengu by Snargle Goldclaw"
-"102";"<c=@flavor>No matter the distance.</c>
+"108";"Appearance skins override the look of your equipment and have no stats of their own."
+"109";"Journal of Forgemender Arngirn"
+"110";"%str1%%str2%Flanged Mace of the Broken Voice%str3%%str4%"
+"111";"Glacial Harvesting Tool"
+"112";"It Takes Two to Tengu by Snargle Goldclaw"
+"113";"<c=@flavor>No matter the distance.</c>
 Found in the Pact base in Dragonfall."
-"103";"Abyss Stalker Appearance Package now available!"
-"104";"Ragamuffin Toeshoes"
-"105";"Double-click to open. Contains leggings that are more powerful than standard level 5 leggings."
-"106";"Challenge Begins: Horde of Foes"
-"107";"<c=@flavor>He's rich...with a burning passion!</c>
+"114";"Abyss Stalker Appearance Package now available!"
+"115";"Ragamuffin Toeshoes"
+"116";"Unlock a random new mount."
+"117";"Double-click to open. Contains leggings that are more powerful than standard level 5 leggings."
+"118";"Challenge Begins: Horde of Foes"
+"119";"<c=@flavor>He's rich...with a burning passion!</c>
 Banned for sedition against the God King and sealed in the warehouse of Vehtendi Academy in the Domain of Vabbi."
-"108";"Rewards bonus karma while gathering, in addition to the gathering results."
-"109";"%str1%%str2%Brazier of the Broken Voice%str3%%str4%"
-"110";"Harvesting for<br>any character<br>for all time!"
-"111";"Fire Elemental Summoned"
-"112";"Challenge Begins: Final Boss"
-"113";"Darkrime Delves"
-"114";"Choice of Common Dye"
-"115";"of Virtue"
-"116";"+50%% Crafting Critical Chance Boost"
-"117";"<c=@flavor>A Sunspear never fights alone.</c>
+"120";"Rewards bonus karma while gathering, in addition to the gathering results."
+"121";"%str1%%str2%Brazier of the Broken Voice%str3%%str4%"
+"122";"Harvesting for<br>any character<br>for all time!"
+"123";"Fire Elemental Summoned"
+"124";"Challenge Begins: Final Boss"
+"125";"Mount Adoption License"
+"126";"Darkrime Delves"
+"127";"Choice of Common Dye"
+"128";"of Virtue"
+"129";"+50%% Crafting Critical Chance Boost"
+"130";"<c=@flavor>A Sunspear never fights alone.</c>
 Found in the Eye of the North."
-"118";"Ragamuffin Bandana"
-"119";"Guildrider Warclaw"
-"120";"Svan Song"
-"121";"Homespun Garb"
-"122";"After finding a collection of his works, revisit Snargle Goldclaw in the Eye of the North."
-"123";"Adventurer's Box"
-"124";"2v2 Contender"
-"125";"Beginner Map Portal Note"
-"126";"Gates sealed
+"131";"Curious Creatures Mount Select License[s]"
+"132";"Ragamuffin Bandana"
+"133";"Guildrider Warclaw"
+"134";"Svan Song"
+"135";"Homespun Garb"
+"136";"After finding a collection of his works, revisit Snargle Goldclaw in the Eye of the North."
+"137";"Adventurer's Box"
+"138";"2v2 Contender"
+"139";"Beginner Map Portal Note"
+"140";"Gates sealed
 
 Fortresses secured
 
@@ -182,16 +196,16 @@ burning
 ash
 
 summit"
-"127";"Stop Almorra Soulkeeper."
-"128";"Using your Portal Note will take you to one of these places for free, but you can also instantly go to any unlocked waypoint for a fee just by clicking it on your world map. The greater the distance, the larger the fee. Some may even be "contested" by events, which block travel until they're resolved."
-"129";"Explorer's Box"
-"130";"Maguuma's Treads[pl:"Treads"]"
-"131";"Green Prophet Crystal[s]"
-"132";"Crystalline shards of dragon magic, veined with red.
+"141";"Stop Almorra Soulkeeper."
+"142";"Using your Portal Note will take you to one of these places for free, but you can also instantly go to any unlocked waypoint for a fee just by clicking it on your world map. The greater the distance, the larger the fee. Some may even be "contested" by events, which block travel until they're resolved."
+"143";"Explorer's Box"
+"144";"Maguuma's Treads[pl:"Treads"]"
+"145";"Green Prophet Crystal[s]"
+"146";"Crystalline shards of dragon magic, veined with red.
 Emissaries in the Eye of the North have interest in these."
-"133";"Super Outlaw Raptor"
-"134";"Crystalline formations of dragon magic, veined with green.
+"147";"Super Outlaw Raptor"
+"148";"Crystalline formations of dragon magic, veined with green.
 Emissaries in the Eye of the North have interest in these.
 Obtained from Priority Strikes or by combining shards."
-"135";"Green Prophet Shard[s]"
-"136";"Point of Interest: Terranexic Lab"
+"149";"Green Prophet Shard[s]"
+"150";"Point of Interest: Terranexic Lab"

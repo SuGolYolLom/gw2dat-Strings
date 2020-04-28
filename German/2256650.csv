@@ -3,41 +3,45 @@
 "2";"Skin[pl:"Skins"] für Toxische Stiefel"
 "3";"+50 %% Chance auf kritischen Erfahrungsgewinn beim Handwerk"
 "4";"Chronik 2 in "Stahlschmiede""
-"5";"Nur wenige haben sich uns angeschlossen, doch wir werden stark genug sein. Ein Schmiede-Koloss wurde ausgegraben und einige Späher sind mit geplünderten Forschungsarbeiten zurückgekehrt. Unsere Gelehrten rekonstruieren die alten Texte auf der Suche nach einem Weg, die Steinkrankheit aufzuhalten.
+"5";"Rollkäfer"
+"6";"Nur wenige haben sich uns angeschlossen, doch wir werden stark genug sein. Ein Schmiede-Koloss wurde ausgegraben und einige Späher sind mit geplünderten Forschungsarbeiten zurückgekehrt. Unsere Gelehrten rekonstruieren die alten Texte auf der Suche nach einem Weg, die Steinkrankheit aufzuhalten.
 
 
 
 Bewegung ist beschwerlich geworden für mich: Der Stein ist bis zu meiner Schulter vorgedrungen, was es schwierig macht, eine Axt zu schwingen. Wenn ich nicht kämpfen kann, kann ich mich genauso gut ins Feuer werfen. Jedes Schicksal wäre besser als dieses."
-"6";"[M]%str1%%str2%Zauberstab der Gebrochenen Stimme%str3%%str4%"
-"7";"Abgrundpirscher-Umhang"
-"8";"Leerer Körper"
-"9";"[lbracket]Runen-Rüstungsschmiedin[rbracket]"
-"10";"Schwert des Zorns"
-"11";"Vision verlassen"
-"12";"Schwertwelle"
-"13";"Koss über Koss: "Unautorisiert und unzensiert""
-"14";"Tagebuch des Schmiedetechnikers Arngirn"
-"15";"[M]%str1%%str2%Kriegshammer der Gebrochenen Stimme%str3%%str4%"
-"16";"Explorator-Verstärker"
-"17";"Tagebuch des Schmiedetechnikers Arngirn"
-"18";"Handwerksverstärker"
-"19";"Exotischer[pl:"Exotische"] Schwarzlöwen-Farbkanister: Grün"
-"20";"Chronik 6 in "Düsterfels-Höhlen""
-"21";"Der Ebonlocke-Bund"
-"22";"Erhöht die Bewegungsgeschwindigkeit um 15 %%.
+"7";"[M]%str1%%str2%Zauberstab der Gebrochenen Stimme%str3%%str4%"
+"8";"Abgrundpirscher-Umhang"
+"9";"Leerer Körper"
+"10";"[lbracket]Runen-Rüstungsschmiedin[rbracket]"
+"11";"Schwert des Zorns"
+"12";"Vision verlassen"
+"13";"Schwertwelle"
+"14";"Koss über Koss: "Unautorisiert und unzensiert""
+"15";"Tagebuch des Schmiedetechnikers Arngirn"
+"16";"[M]%str1%%str2%Kriegshammer der Gebrochenen Stimme%str3%%str4%"
+"17";"Explorator-Verstärker"
+"18";"Tagebuch des Schmiedetechnikers Arngirn"
+"19";"Beim Verbrauch dieses Gegenstands bekommt Ihr garantiert einen zufälligen Reittier-Skin aus den Schwarzlöwen-Stallungen."
+"20";"Handwerksverstärker"
+"21";"Exotischer[pl:"Exotische"] Schwarzlöwen-Farbkanister: Grün"
+"22";"Greif"
+"23";"Chronik 6 in "Düsterfels-Höhlen""
+"24";"Der Ebonlocke-Bund"
+"25";"Erhöht die Bewegungsgeschwindigkeit um 15 %%.
 Erhaltet 10 Sekunden Eile beim Sammeln.
 33 %% Chance auf zusätzliche Ressourcen beim Sammeln
 Erhöht erhaltene Erfahrungspunkte für besiegte Gegner um 50 %%.
 <c=@reminder>Wird entfernt, sobald Ihr an kompetitivem PvP oder an einem Schlachtzug teilnehmt.</c>"
-"23";"Unblockbare Angriffe pro Treffer"
-"24";"Exotischer[pl:"Exotische"] Schwarzlöwen-Farbkanister: Blau"
-"25";""Schicksalsschwur" von Snargle Goldklaue"
-"26";"Torverbindungen"
-"27";"+125 Zustandsschaden. +10 %% Zustandsdauer."
-"28";"Spieler mit Rangwertung"
-"29";"Die Vision verlassen und zum Spähbecken zurückkehren?"
-"30";"Herausforderung beginnt: "Panzer-Eskorte""
-"31";"KAPITEL 2
+"26";"Unblockbare Angriffe pro Treffer"
+"27";"Exotischer[pl:"Exotische"] Schwarzlöwen-Farbkanister: Blau"
+"28";""Schicksalsschwur" von Snargle Goldklaue"
+"29";"Torverbindungen"
+"30";"+125 Zustandsschaden. +10 %% Zustandsdauer."
+"31";"Spieler mit Rangwertung"
+"32";"Die Vision verlassen und zum Spähbecken zurückkehren?"
+"33";"Schweberochen"
+"34";"Herausforderung beginnt: "Panzer-Eskorte""
+"35";"KAPITEL 2
 
 "Normalerweise dulden wir keine Fremden innerhalb unserer Mauern," sagte Makoto und umfing ihren winzigen asurischen Geliebten mit ihren gefiederten Armen. "Also müsst Ihr schwören, dass Ihr keinem erzählt, was Ihr hier seht."
 
@@ -46,71 +50,77 @@ Ehrfürchtig starrte Prapp die Wunder an, die ihn umgaben. "Was wohl passiert, w
 Makoto kicherte völlig ohne Frohsinn. "Ich werde Euch natürlich töten müssen."
 
 Nun, Theorie bestätigt."
-"32";"Beutel mit Standard-Kochzutaten"
-"33";"Blut-Legion-Belobigungskiste"
-"34";"Schicksalsschwur"
-"35";"PvP-Saisons"
-"36";"[M]%str1%%str2%Spalter der Gebrochenen Stimme%str3%%str4%"
-"37";"Traumwandler-Flügel-Rucksack[pl:"Rucksäcke"]"
-"38";"Chronik 5 in "Stahlschmiede""
-"39";"Euer erster Angriff explodiert, was Gegnern in der Nähe zusätzlichen Schaden zufügt."
-"40";"Abgrundpirscher-Kleidungsset"
-"41";"Finaler Missionsrang: Tribun"
-"42";"Projektilschaden"
-"43";"Tagebuch des Schmiedetechnikers Arngirn"
-"44";"Magisches Gespür um 50 %% erhöht."
-"45";"Chronik 8 in "Düsterfels-Höhlen""
-"46";"Doppelklicken, um dies auf ein Sammelwerkzeug anzuwenden."
-"47";"Schaltet den Belohnungspfad: Skin für Gilden-Reiter-Kriegsklaue frei."
-"48";"Glyphe[pl:"Glyphen"] der Tugend"
-"49";"Diese Lieferung enthält einen Gleitschirm-Skin und einen passenden Rucksack-Skin."
-"50";"Traumwandler-Flügel-Gleitschirm"
-"51";"[M]%str1%%str2%Großbogen der Gebrochenen Stimme%str3%%str4%"
-"52";"Verbessertes mächtiges Beinkleid"
-"53";"<c=@flavor>Das Schicksal rief. Sie antworteten.</c>
+"36";"Beutel mit Standard-Kochzutaten"
+"37";"Blut-Legion-Belobigungskiste"
+"38";"Schaltet ein neues Reittier Eurer Wahl frei."
+"39";"Schicksalsschwur"
+"40";"PvP-Saisons"
+"41";"[M]%str1%%str2%Spalter der Gebrochenen Stimme%str3%%str4%"
+"42";"Traumwandler-Flügel-Rucksack[pl:"Rucksäcke"]"
+"43";"Chronik 5 in "Stahlschmiede""
+"44";"Euer erster Angriff explodiert, was Gegnern in der Nähe zusätzlichen Schaden zufügt."
+"45";"Abgrundpirscher-Kleidungsset"
+"46";"Finaler Missionsrang: Tribun"
+"47";"Projektilschaden"
+"48";"Tagebuch des Schmiedetechnikers Arngirn"
+"49";"Magisches Gespür um 50 %% erhöht."
+"50";"Chronik 8 in "Düsterfels-Höhlen""
+"51";"Doppelklicken, um dies auf ein Sammelwerkzeug anzuwenden."
+"52";"Schaltet den Belohnungspfad: Skin für Gilden-Reiter-Kriegsklaue frei."
+"53";"Glyphe[pl:"Glyphen"] der Tugend"
+"54";"Diese Lieferung enthält einen Gleitschirm-Skin und einen passenden Rucksack-Skin."
+"55";"Traumwandler-Flügel-Gleitschirm"
+"56";"[M]%str1%%str2%Großbogen der Gebrochenen Stimme%str3%%str4%"
+"57";"Verbessertes mächtiges Beinkleid"
+"58";"<c=@flavor>Das Schicksal rief. Sie antworteten.</c>
 
 Gefunden in Ebonfalke."
-"54";"Abgrundpirscher-Umhang[pl:"Umhänge"]"
-"55";"Zum Öffnen doppelklicken. Enthält kraftvolleren Brustschutz als Standard-Brustschutz der Stufe 5."
-"56";"Das Tor-Netzwerk im Auge des Nordens wird wiederhergestellt"
-"57";"Dienste Auge des Nordens"
-"58";"Endlich ein Durchbruch. Die Späher haben Schriftrollen aus den Gewölben des Letzten Hierophanten gefunden, dessen, der sich die Kraft des Erzfeinds der Deldrimor, des Großen Zerstörers, zu eigen machen wollte. Zwar fehlt uns bedauernswerterweise der Foliant des Rubikon, doch wir brauchen ihn auch nicht, um uns zu holen, was wir wollen. Von wegen "Prophezeiung": Unsere Zukunft bestimmen wir selbst.
+"59";"Abgrundpirscher-Umhang[pl:"Umhänge"]"
+"60";"Erhaltet einen Reittier-Skin Eurer Wahl aus den Schwarzlöwen-Stallungen. Führt einen Rechtsklick aus, um eine Vorschau der verfügbaren Reittier-Skins anzuzeigen."
+"61";"Zum Öffnen doppelklicken. Enthält kraftvolleren Brustschutz als Standard-Brustschutz der Stufe 5."
+"62";"Das Tor-Netzwerk im Auge des Nordens wird wiederhergestellt"
+"63";""Seltsame Kreaturen"-Reittier-Adoptionslizenz[pl:"Adoptionslizenzen"]"
+"64";"Dienste Auge des Nordens"
+"65";"Endlich ein Durchbruch. Die Späher haben Schriftrollen aus den Gewölben des Letzten Hierophanten gefunden, dessen, der sich die Kraft des Erzfeinds der Deldrimor, des Großen Zerstörers, zu eigen machen wollte. Zwar fehlt uns bedauernswerterweise der Foliant des Rubikon, doch wir brauchen ihn auch nicht, um uns zu holen, was wir wollen. Von wegen "Prophezeiung": Unsere Zukunft bestimmen wir selbst.
 
 Die vom Steingipfel werden niemals nachgeben! Wir brauchen keinen "Segen" und wir werden auch nicht dafür bezahlen. Stärke nimmt man sich, sie wird einem nicht verliehen.
 
 Ich bewege mich noch mühsam, obwohl ich mich allmählich eingewöhne. Der Stein umgibt mich, doch ich bin stark. Ich verspüre keine Furcht.
 
 Wenn die Gelehrten das Ritual erst geplant haben, gibt es keinen Weg zurück: Wir müssen hindurch."
-"59";"Tengu-Paare: Zu zweit sieht man mehr"
-"60";"<c=@flavor>Eine Erstausgabe, handsigniert mit einer persönlichen Widmung des Autors.</c>"
-"61";"Lebenskraftschwelle"
-"62";"Chronik 7 in "Düsterfels-Höhlen""
-"63";"Wachsamen-Feuersbrunst"
-"64";"Erhaltet Stabilität und heilt Euch selbst, wenn Ihr Betäubung aufhebt."
-"65";"Sammler-Kiste"
-"66";"[M]%str1%%str2%Kurzbogen der Gebrochenen Stimme%str3%%str4%"
-"67";"Erd-Elementar herbeigerufen"
-"68";"Selbstgewebte Kapuze"
-"69";"Lumpenpack-Greifer"
-"70";"Während Ihr Wut habt, fügen Eure Angriffe Verwundbarkeit zu."
-"71";"Zum Öffnen doppelklicken. Enthält kraftvollere Handschuhe als Standard-Handschuhe der Stufe 5."
-"72";"Zum Öffnen doppelklicken. Enthält kraftvollere Stiefel als Standard-Stiefel der Stufe 5."
-"73";"Schwertbogen"
-"74";"Pflichtschuldiger Handschutz"
-"75";"Nur für kurze Zeit erhältlich.
+"66";"Greif"
+"67";"Tengu-Paare: Zu zweit sieht man mehr"
+"68";"Adoptiert eine neue Version Eurer Reittiere."
+"69";"<c=@flavor>Eine Erstausgabe, handsigniert mit einer persönlichen Widmung des Autors.</c>"
+"70";"Lebenskraftschwelle"
+"71";"Chronik 7 in "Düsterfels-Höhlen""
+"72";"Wachsamen-Feuersbrunst"
+"73";"Erhaltet Stabilität und heilt Euch selbst, wenn Ihr Betäubung aufhebt."
+"74";"Sammler-Kiste"
+"75";"[M]%str1%%str2%Kurzbogen der Gebrochenen Stimme%str3%%str4%"
+"76";"Erd-Elementar herbeigerufen"
+"77";"Selbstgewebte Kapuze"
+"78";"Lumpenpack-Greifer"
+"79";"Während Ihr Wut habt, fügen Eure Angriffe Verwundbarkeit zu."
+"80";"Zum Öffnen doppelklicken. Enthält kraftvollere Handschuhe als Standard-Handschuhe der Stufe 5."
+"81";"Zum Öffnen doppelklicken. Enthält kraftvollere Stiefel als Standard-Stiefel der Stufe 5."
+"82";"Schwertbogen"
+"83";"Pflichtschuldiger Handschutz"
+"84";"Nur für kurze Zeit erhältlich.
 
 Verändert das Aussehen jedes existierenden Stabs. Dieser Gegenstand schaltet den Skin auch für Eure Account-Garderobe frei."
-"76";"Stahlschmiede"
-"77";"Vision verlassen. Klicken, um zu erwachen."
-"78";"Toxischer[pl:"Toxische"] Umhang[pl:"Umhänge"]"
-"79";"Ernte für<br>jeden beliebigen Charakter<br>für alle Zeit!"
-"80";"Holz sammeln"
-"81";"Ausweichen-Distanz"
-"82";"<c=@flavor>Heiß wie Eis.</c>
+"85";"Stahlschmiede"
+"86";"Vision verlassen. Klicken, um zu erwachen."
+"87";"Toxischer[pl:"Toxische"] Umhang[pl:"Umhänge"]"
+"88";"Ernte für<br>jeden beliebigen Charakter<br>für alle Zeit!"
+"89";"Holz sammeln"
+"90";"Ausweichen-Distanz"
+"91";"<c=@flavor>Heiß wie Eis.</c>
 
 Gefunden in Joras Feste in den Bjora-Sümpfen."
-"83";"Liebe macht blind"
-"84";"Die Behandlung schreitet langsam voran, aber unter den Schmieden existiert ein lang ersehntes Gefühl des Triumphs. Der Schmiede-Koloss zerreißt unsere Gegner, während seine Öfen brennen, und obwohl der Stein noch immer unsere Körper bedeckt, sind unsere Gedanken frei von seinen Fesseln.
+"92";"Liebe macht blind"
+"93";"Springer"
+"94";"Die Behandlung schreitet langsam voran, aber unter den Schmieden existiert ein lang ersehntes Gefühl des Triumphs. Der Schmiede-Koloss zerreißt unsere Gegner, während seine Öfen brennen, und obwohl der Stein noch immer unsere Körper bedeckt, sind unsere Gedanken frei von seinen Fesseln.
 
 
 
@@ -119,17 +129,18 @@ Mit jeder Phase spüren wir die Verwandlung in uns. Zwar nehmen wir unsere neuen
 
 
 Wie dem auch sei, der Steingipfel wird nicht nachgeben. Wir sind die Herren unserer Länder und all dessen, was sich in ihnen befindet."
-"85";"Runen-Rüstungsschmiedin"
-"86";"Verbesserte mächtige Stiefel"
-"87";"Mission fehlgeschlagen: Der Panzer hat irreparablen Schaden genommen."
-"88";"Verbesserte mächtige Handschuhe"
-"89";"Erste PvP-Liga-2v2-Saison"
-"90";"Persimone (wiederholbar)"
-"91";"Kräuter sammeln"
-"92";"Finaler Missionsrang: Soldat[f:"Soldatin"]"
-"93";""Kommandeur Eures Herzens" von Snargle Goldklaue"
-"94";""Kommandeur Eures Herzens" von Snargle Goldklaue"
-"95";"KAPITEL 12
+"95";"Runen-Rüstungsschmiedin"
+"96";"Verbesserte mächtige Stiefel"
+"97";"Rollkäfer"
+"98";"Mission fehlgeschlagen: Der Panzer hat irreparablen Schaden genommen."
+"99";"Verbesserte mächtige Handschuhe"
+"100";"Erste PvP-Liga-2v2-Saison"
+"101";"Persimone (wiederholbar)"
+"102";"Kräuter sammeln"
+"103";"Finaler Missionsrang: Soldat[f:"Soldatin"]"
+"104";""Kommandeur Eures Herzens" von Snargle Goldklaue"
+"105";""Kommandeur Eures Herzens" von Snargle Goldklaue"
+"106";"KAPITEL 12
 
 Melonni, Dunkoro, Talkora. Koss hatte viel geliebt in diesem Leben, doch etwas hatte immer gefehlt. Er hatte immer ... mehr gebraucht. Hier war endlich die Lösung.
 
@@ -138,49 +149,52 @@ Immerhin: Wer konnte jemals MEHR sein als Koss?
 Voller Verlangen blickte Koss seinem Doppelgänger in die Augen, der mit gleicher Zuneigung zurückblickte. Die Erfüllung, die beide gesucht hatten: Hier war sie. Für Koss: jemand Ebenbürtiges. Für den Doppelgänger: ein Ziel, würdiger als jedes andere.
 
 Als Koss und Koss sich umarmten, wurde ihre Liebe irreal. Sie trotze den Dimensionen. Und ihre gemeinsame Reise hatte gerade erst begonnen."
-"96";"Es geht langsam voran. Wir nutzen die Thermalquellen des Berges für unsere Öfen, doch es fehlt Sklavenmaterial für den Schmiede-Koloss. Die Eisbestien greifen unsere Tore jede Nacht an und reißen sie auf, doch egal, wie viele von ihnen wir auch abwehren, es scheinen niemals weniger zu werden.
+"107";"Es geht langsam voran. Wir nutzen die Thermalquellen des Berges für unsere Öfen, doch es fehlt Sklavenmaterial für den Schmiede-Koloss. Die Eisbestien greifen unsere Tore jede Nacht an und reißen sie auf, doch egal, wie viele von ihnen wir auch abwehren, es scheinen niemals weniger zu werden.
 
 Die Verwandlung schreitet schneller voran. Der Stein reicht jetzt bis zu meinem Hals, und ich spüre den Ruf, mich dem Kampf mit unseren Brüdern anzuschließen. Doch ich werde widerstehen – wir werden ALLE widerstehen. Es gibt nur einen Gipfel.
 
 Die Gelehrten behaupten, sie wüssten genug von seiner Magie, um sie nutzen zu können, entweder um den Ritus des Großen Zwerges rückgängig oder sich am Ende zunutze zu machen. Wir könnten uns in etwas in Tyria nie zuvor Gesehenes verwandeln. Und wir könnten sterben.
 
 Mit dem Tod haben wir unseren Frieden geschlossen und würden ihn eher willkommen heißen als das Leben, das die Deldrimor für uns vorgesehen haben."
-"97";"Diese Skins ersetzen das Erscheinungsbild Eurer Ausrüstung und haben keine eigenen Werte."
-"98";"Tagebuch des Schmiedetechnikers Arngirn"
-"99";"[M]%str1%%str2%Blatt-Streitkolben der Gebrochenen Stimme%str3%%str4%"
-"100";"Gletscher-Erntewerkzeug"
-"101";""Tengu-Paare: Zu zweit sieht man mehr" von Snargle Goldklaue"
-"102";"<c=@flavor>Egal, wie weit ...</c>
+"108";"Diese Skins ersetzen das Erscheinungsbild Eurer Ausrüstung und haben keine eigenen Werte."
+"109";"Tagebuch des Schmiedetechnikers Arngirn"
+"110";"[M]%str1%%str2%Blatt-Streitkolben der Gebrochenen Stimme%str3%%str4%"
+"111";"Gletscher-Erntewerkzeug"
+"112";""Tengu-Paare: Zu zweit sieht man mehr" von Snargle Goldklaue"
+"113";"<c=@flavor>Egal, wie weit ...</c>
 
 Gefunden im Basislager des Pakts in Drachensturz."
-"103";"Jetzt gibt es das Abgrundpirscher-Erscheinungsbildpaket!"
-"104";"Lumpenpack-Zehenschuhe"
-"105";"Zum Öffnen doppelklicken. Enthält ein kraftvolleres Beinkleid als Standard-Beinkleider der Stufe 5."
-"106";"Herausforderung beginnt: "Feindliche Horde""
-"107";"<c=@flavor>Er ist reich ... an brennender Leidenschaft!</c>
+"114";"Jetzt gibt es das Abgrundpirscher-Erscheinungsbildpaket!"
+"115";"Lumpenpack-Zehenschuhe"
+"116";"Schaltet ein zufälliges neues Reittier frei."
+"117";"Zum Öffnen doppelklicken. Enthält ein kraftvolleres Beinkleid als Standard-Beinkleider der Stufe 5."
+"118";"Herausforderung beginnt: "Feindliche Horde""
+"119";"<c=@flavor>Er ist reich ... an brennender Leidenschaft!</c>
 
 Verboten wegen Aufruhrs gegen den Gott-König und im Lagerhaus der Vehtendi-Akademie in der Domäne Vaabi versiegelt."
-"108";"Erhaltet beim Sammeln zusätzlich zu Eurem Sammelertrag Bonuskarma als Belohnung."
-"109";"[F]%str1%%str2%Flammenschale der Gebrochenen Stimme%str3%%str4%"
-"110";"Ernte für<br>jeden beliebigen Charakter<br>für alle Zeit!"
-"111";"Feuer-Elementar herbeigerufen"
-"112";"Herausforderung beginnt: "Finaler Boss""
-"113";"Düsterfels-Höhlen"
-"114";"Auswahl: Gewöhnliche Farbe"
-"115";"der Tugend"
-"116";"+50 %% Verstärkung für kritische Chance bei Handwerk"
-"117";"<c=@flavor>Ein Sonnenspeer kämpft niemals allein.</c>
+"120";"Erhaltet beim Sammeln zusätzlich zu Eurem Sammelertrag Bonuskarma als Belohnung."
+"121";"[F]%str1%%str2%Flammenschale der Gebrochenen Stimme%str3%%str4%"
+"122";"Ernte für<br>jeden beliebigen Charakter<br>für alle Zeit!"
+"123";"Feuer-Elementar herbeigerufen"
+"124";"Herausforderung beginnt: "Finaler Boss""
+"125";"Reittier-Adoptionslizenz"
+"126";"Düsterfels-Höhlen"
+"127";"Auswahl: Gewöhnliche Farbe"
+"128";"der Tugend"
+"129";"+50 %% Verstärkung für kritische Chance bei Handwerk"
+"130";"<c=@flavor>Ein Sonnenspeer kämpft niemals allein.</c>
 
 Gefunden im Auge des Nordens."
-"118";"Lumpenpack-Bandana"
-"119";"Gilden-Reiter-Kriegsklaue"
-"120";"Schwanengesang"
-"121";"Selbstgewebtes Gewand"
-"122";"Nachdem Ihr eine Sammlung seiner Werke gefunden habt, trefft Snargle Goldklaue erneut im Auge des Nordens."
-"123";"Abenteurer-Kiste"
-"124";"2v2-Streiter"
-"125";"Portal-Notiz Starterkarte"
-"126";"Tore versiegelt
+"131";""Seltsame Kreaturen"-Reittier-Auswahllizenz[pl:"Auswahllizenzen"]"
+"132";"Lumpenpack-Bandana"
+"133";"Gilden-Reiter-Kriegsklaue"
+"134";"Schwanengesang"
+"135";"Selbstgewebtes Gewand"
+"136";"Nachdem Ihr eine Sammlung seiner Werke gefunden habt, trefft Snargle Goldklaue erneut im Auge des Nordens."
+"137";"Abenteurer-Kiste"
+"138";"2v2-Streiter"
+"139";"Portal-Notiz Starterkarte"
+"140";"Tore versiegelt
 
 Festungen gesichert
 
@@ -193,17 +207,17 @@ brennt
 Asche
 
 Gipfel"
-"127";"Haltet Almorra Seelenhüter auf."
-"128";"Wenn Ihr Eure Portal-Notiz benutzt, werdet Ihr gratis an einen dieser Orte gebracht, aber Ihr könnt gegen Gebühr auch sofort zu jeder freigeschalteten Wegmarke reisen, indem Ihr auf das Symbol auf der Karte klickt. Je weiter die gewünschte Wegmarke entfernt ist, desto höher fällt die Gebühr aus. Einige Wegmarken können durch Ereignisse im betreffenden Gebiet "umkämpft" sein. Zu einer umkämpften Wegmarke könnt Ihr nicht reisen, bis das Ereignis abgehandelt ist."
-"129";"Explorator-Kiste"
-"130";"Maguuma-Treter"
-"131";"Grüner[pl:"Grüne"] Propheten-Kristall[pl:"Kristalle"]"
-"132";"Kristalline Scherben der Drachenmagie, rot geädert.
+"141";"Haltet Almorra Seelenhüter auf."
+"142";"Wenn Ihr Eure Portal-Notiz benutzt, werdet Ihr gratis an einen dieser Orte gebracht, aber Ihr könnt gegen Gebühr auch sofort zu jeder freigeschalteten Wegmarke reisen, indem Ihr auf das Symbol auf der Karte klickt. Je weiter die gewünschte Wegmarke entfernt ist, desto höher fällt die Gebühr aus. Einige Wegmarken können durch Ereignisse im betreffenden Gebiet "umkämpft" sein. Zu einer umkämpften Wegmarke könnt Ihr nicht reisen, bis das Ereignis abgehandelt ist."
+"143";"Explorator-Kiste"
+"144";"Maguuma-Treter"
+"145";"Grüner[pl:"Grüne"] Propheten-Kristall[pl:"Kristalle"]"
+"146";"Kristalline Scherben der Drachenmagie, rot geädert.
 
 Gesandte im Auge des Nordens haben Interesse daran."
-"133";"Super-Gesetzlosen-Raptor"
-"134";"Kristalline Formationen der Drachenmagie, grün geädert.
+"147";"Super-Gesetzlosen-Raptor"
+"148";"Kristalline Formationen der Drachenmagie, grün geädert.
 Gesandte im Auge des Nordens haben Interesse daran.
 Erhaltet Ihr bei Prioritätsangriffen oder durch die Kombination von Scherben."
-"135";"Grüne Propheten-Scherbe[pl:"Scherben"]"
-"136";"Sehenswürdigkeit: Terranexik-Labor"
+"149";"Grüne Propheten-Scherbe[pl:"Scherben"]"
+"150";"Sehenswürdigkeit: Terranexik-Labor"

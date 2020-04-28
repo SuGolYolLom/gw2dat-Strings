@@ -33,66 +33,72 @@ La Super Adventure Box se cerrará cuando acabe el Festival Super Adventure, ¡a
 "24";"<c=@flavor>"La patrulla que efectuó una investigación posterior al incidente encontró a la cachorra escondida cerca de los cadáveres de quienes suponen eran sus padres, la llevó a Grothmar y la incorporó al fahrar."</c>"
 "25";"Armas borelaes restauradas de repuesto"
 "26";"Infliges más daño a los enemigos que tengan un porcentaje de salud inferior al tuyo. Impactar con una <c=@abilitytype>explosión</c> te cura durante unos pocos segundos."
-"27";"Ganas fuerza vital cada intervalo hasta el umbral cuando no estás en sudario. Ganas protección al entrar en sudario."
-"28";"Una versión mejorada del arma poderosa normal."
-"29";"Seleccionador de desafíos"
-"30";"Bloqueo elemental"
-"31";"<c=@flavor>Dos corazones se encuentran en los gélidos túneles de las Picosescalofriantes.</c>
+"27";"Adopta a una nueva versión de tus monturas."
+"28";"Ganas fuerza vital cada intervalo hasta el umbral cuando no estás en sudario. Ganas protección al entrar en sudario."
+"29";"Una versión mejorada del arma poderosa normal."
+"30";"Chacal"
+"31";"Seleccionador de desafíos"
+"32";"Bloqueo elemental"
+"33";"<c=@flavor>Dos corazones se encuentran en los gélidos túneles de las Picosescalofriantes.</c>
 
 Se encuentra en la Gruta, en los Picos del Trueno."
-"32";"[M]Artefacto de la voz rota%str3%%str4%%str2%%str1%"
-"33";"Empieza el desafío: Enemigos poderosos"
-"34";"Empléalo[s] para conseguir el tinte León azul, exclusivo de los cofres del León Negro."
-"35";"<c=@flavor>El amor florece en la línea del frente de batalla contra la amenaza del dragón anciano.</c>
+"34";"[M]Artefacto de la voz rota%str3%%str4%%str2%%str1%"
+"35";"Empieza el desafío: Enemigos poderosos"
+"36";"Empléalo[s] para conseguir el tinte León azul, exclusivo de los cofres del León Negro."
+"37";"Mantarraya"
+"38";"<c=@flavor>El amor florece en la línea del frente de batalla contra la amenaza del dragón anciano.</c>
 
 Se encuentra en el campamento del Pacto de los Acantilados de Jahai."
-"36";"Un mensajero ha regresado de las negociaciones de paz. Los otros clanes de la Cima han aceptado reunificarse con Deldrimor. No podemos ceder ante tal debilidad, jamás nos prestaremos a sus maquinaciones. Mejor que forjemos nuestro propio camino a que nos sometamos a ideologías que socavan los cimientos de nuestro ser.
+"39";"Un mensajero ha regresado de las negociaciones de paz. Los otros clanes de la Cima han aceptado reunificarse con Deldrimor. No podemos ceder ante tal debilidad, jamás nos prestaremos a sus maquinaciones. Mejor que forjemos nuestro propio camino a que nos sometamos a ideologías que socavan los cimientos de nuestro ser.
 
 El proceso de dejar constancia de mis ideas se está volviendo cada vez más difícil. La piedra ha avanzado hasta las muñecas. Por más que me resista, no se puede escapar del Rito."
-"37";"Morrión de responsabilidad"
-"38";"Acero forjado"
-"39";"Caja[pl:"Cajas"] de botín de guardia de la puerta veterano"
-"40";"Conexiones en la Niebla"
-"41";"Potenciador[pl:"Potenciadores"] de explorador"
-"42";"Pantuflas de responsabilidad"
-"43";"Un romance kralkatórrido"
-"44";"Rugido potenciador"
-"45";"Diario del reparaforjas Arngirn"
-"46";"Rango final de misión: Legionario[f:"Legionaria"]"
-"47";"Una versión mejorada de la armadura hecha en casa estándar."
-"48";"[M]Heraldo de la voz rota%str3%%str4%%str2%%str1%"
-"49";"Protegemuslos de responsabilidad"
-"50";"Atontamiento sobre umbral de salud"
-"51";"Ganas furia al inhabilitar a un enemigo.<br><c=@reminder>Las inhabilitaciones incluyen aturdimiento, atontamiento, rechazo, atracción, derribo, hundimiento, flotar, lanzamiento, provocación y miedo.</c>"
-"52";"Potenciador de hallazgo mágico"
-"53";"Potenciador[pl:"Potenciadores"] de karma"
-"54";"Carácter explosivo"
-"55";"Pantalones hechos en casa"
-"56";"Haz doble clic para abrir.
+"40";"Morrión de responsabilidad"
+"41";"Acero forjado"
+"42";"Caja[pl:"Cajas"] de botín de guardia de la puerta veterano"
+"43";"Conexiones en la Niebla"
+"44";"Potenciador[pl:"Potenciadores"] de explorador"
+"45";"Saltarín"
+"46";"Pantuflas de responsabilidad"
+"47";"Un romance kralkatórrido"
+"48";"Rugido potenciador"
+"49";"Diario del reparaforjas Arngirn"
+"50";"Adopta a una nueva versión de tus monturas."
+"51";"Rango final de misión: Legionario[f:"Legionaria"]"
+"52";"Una versión mejorada de la armadura hecha en casa estándar."
+"53";"[M]Heraldo de la voz rota%str3%%str4%%str2%%str1%"
+"54";"Protegemuslos de responsabilidad"
+"55";"Atontamiento sobre umbral de salud"
+"56";"Ganas furia al inhabilitar a un enemigo.<br><c=@reminder>Las inhabilitaciones incluyen aturdimiento, atontamiento, rechazo, atracción, derribo, hundimiento, flotar, lanzamiento, provocación y miedo.</c>"
+"57";"Potenciador de hallazgo mágico"
+"58";"Potenciador[pl:"Potenciadores"] de karma"
+"59";"Carácter explosivo"
+"60";"Pantalones hechos en casa"
+"61";"Haz doble clic para abrir.
 Las armas de esta caja desbloquean un viaje para conseguir varias versiones de sus aspectos."
-"57";"Atuendo[s] de acechador del abismo"
-"58";"Las pasiones de Faren"
-"59";"Manoplas hechas en casa"
-"60";"Virtud inspiradora"
-"61";"Herramienta de cosecha glacial"
-"62";"¡Ya está disponible la capa tóxica!"
-"63";"Vender"
-"64";"Una versión mejorada de la armadura de responsabilidad estándar."
-"65";"Misión de ataque del día"
-"66";"Comandante de tu corazón"
-"67";"[M]Montante de la voz rota%str3%%str4%%str2%%str1%"
-"68";"[M]Revólver de la voz rota%str3%%str4%%str2%%str1%"
-"69";"<c=@flavor>El amor es un campo de batalla.</c>
+"62";"Atuendo[s] de acechador del abismo"
+"63";"Las pasiones de Faren"
+"64";"Manoplas hechas en casa"
+"65";"Virtud inspiradora"
+"66";"Herramienta de cosecha glacial"
+"67";"¡Ya está disponible la capa tóxica!"
+"68";"Vender"
+"69";"Una versión mejorada de la armadura de responsabilidad estándar."
+"70";"Raptor"
+"71";"Misión de ataque del día"
+"72";"Comandante de tu corazón"
+"73";"[M]Montante de la voz rota%str3%%str4%%str2%%str1%"
+"74";"[M]Revólver de la voz rota%str3%%str4%%str2%%str1%"
+"75";"<c=@flavor>El amor es un campo de batalla.</c>
 
 Material confiscado en la Cárcel del Valle de Grothmar."
-"70";"Bolsa de aspecto de acechador del abismo"
-"71";"Infliges daño aumentado al activar una virtud."
-"72";"Haz doble clic para abrir. Contiene armas de mano principal y a dos manos mejores que las normales de nivel 10."
-"73";"Concentración furibunda"
-"74";"Escudo de descarga"
-"75";"[M]Filo de la voz rota%str3%%str4%%str2%%str1%"
-"76";"[F]Aguja de la voz rota%str3%%str4%%str2%%str1%"
-"77";"Dedicado a lord Faren, un generoso mecenas.
+"76";"Bolsa de aspecto de acechador del abismo"
+"77";"Infliges daño aumentado al activar una virtud."
+"78";"Haz doble clic para abrir. Contiene armas de mano principal y a dos manos mejores que las normales de nivel 10."
+"79";"Concentración furibunda"
+"80";"Escudo de descarga"
+"81";"[M]Filo de la voz rota%str3%%str4%%str2%%str1%"
+"82";"[F]Aguja de la voz rota%str3%%str4%%str2%%str1%"
+"83";"Dedicado a lord Faren, un generoso mecenas.
 
 CAPÍTULO 1
 
@@ -103,19 +109,19 @@ Sí, amigos míos, esa es la verdad: no fueron las espadas las que pusieron fin 
 "Nadie puede saber que sigues vivo —dijo Faren mientras una lágrima le corría por la mejilla—. No creerían en ti como hago yo."
 
 "Lo sé, mi caballero de brillante armadura —le respondió el dragón en un susurro—. Pero debes dejarme, pues tienes más vidas que salvar... y más amor que dar.""
-"78";"[M]Bastión de la voz rota%str3%%str4%%str2%%str1%"
-"79";"Diario 4 de "Forja de Acero""
-"80";"Puede conseguirse del pelahuesos en el Sagrario del Cuervo.
+"84";"[M]Bastión de la voz rota%str3%%str4%%str2%%str1%"
+"85";"Diario 4 de "Forja de Acero""
+"86";"Puede conseguirse del pelahuesos en el Sagrario del Cuervo.
 
 Berghild ofrece armadura de hombros a cambio en el Ojo del Norte."
-"81";"Haz doble clic para elegir a qué zona quieres teletransportarte. El teletransporte consume una carga de las 5 del objeto. <c=@Warning>Este objeto no se puede utilizar en combate.</c>"
-"82";"Mecánico Ninn"
-"83";"Este tomo está tan gastado que apenas resulta legible, pero la capa de cuero conserva la sinopsis:
+"87";"Haz doble clic para elegir a qué zona quieres teletransportarte. El teletransporte consume una carga de las 5 del objeto. <c=@Warning>Este objeto no se puede utilizar en combate.</c>"
+"88";"Mecánico Ninn"
+"89";"Este tomo está tan gastado que apenas resulta legible, pero la capa de cuero conserva la sinopsis:
 
 Tras el devastador rechazo por parte de su reina, el capitán Rogan Fackeray juró que jamás volvería a amar. Pero, cuando el deber hace que acabe en una celda de una sola cama compartida con el apuesto y aguerrido tribuno Gritlock, el juramento de Rogan se ve puesto a prueba. Del autor del superventas "Un romance kralkatórrido", llega un sensual baile entre humano y charr que va más allá de los límites inexplorados del deseo entre especies."
-"84";"Al inhabilitar a un enemigo, lo incapacitas.<br><c=@reminder>Las inhabilitaciones incluyen aturdimiento, atontamiento, rechazo, atracción, derribo, hundimiento, flotar, lanzamiento, provocación y miedo.</c>"
-"85";"Vender objetos"
-"86";"%str4% %str1%, a petición de tus aliados, el Consejo Arcano de Rata Sum ha enviado un equipo para reactivar la puerta asura del Ojo del Norte. Me complace anunciarte que la puerta principal ya se ha incorporado a la red moderna y que se ha establecido un punto de ruta. Adjunto los detalles de acceso y un marcador de guía.
+"90";"Al inhabilitar a un enemigo, lo incapacitas.<br><c=@reminder>Las inhabilitaciones incluyen aturdimiento, atontamiento, rechazo, atracción, derribo, hundimiento, flotar, lanzamiento, provocación y miedo.</c>"
+"91";"Vender objetos"
+"92";"%str4% %str1%, a petición de tus aliados, el Consejo Arcano de Rata Sum ha enviado un equipo para reactivar la puerta asura del Ojo del Norte. Me complace anunciarte que la puerta principal ya se ha incorporado a la red moderna y que se ha establecido un punto de ruta. Adjunto los detalles de acceso y un marcador de guía.
 
 
 
@@ -124,30 +130,33 @@ Tras el devastador rechazo por parte de su reina, el capitán Rogan Fackeray jur
 
 
 —Mecánico Ninn"
-"87";"Rango final de misión: Centurión"
-"88";"[lbracket]Enlaces de puertas[rbracket]"
-"89";""Las pasiones de Faren", de Snargle Garradorada"
-"90";"Título[s]: Élite de 2v2"
-"91";"Haz doble clic para abrir. Contiene un saco de 10 casillas y 3 potenciadores de explorador."
-"92";"Entrada explosiva"
-"93";"Diario del reparaforjas Arngirn"
-"94";"Haz doble clic para abrir. Contiene yelmos mejores que los normales de nivel 5."
-"95";"Tónico de salud"
-"96";"Atontamiento contra uso de habilidad"
-"97";"Diario del reparaforjas Arngirn"
-"98";"Empléalo[s] para conseguir el tinte León verde, exclusivo de los cofres del León Negro."
-"99";"Combo[s] de planeador y mochila de alas de caminasueños"
-"100";"Cetro de esquirlapiedra"
-"101";"Alpargatas hechas en casa"
-"102";"Determinación deslumbrante"
-"103";"Guadaña de caminasueños"
-"104";"Yelmo poderoso mejorado"
-"105";"Armas de alas oscuras"
-"106";"El diseño de garra de Maguuma ya está disponible"
-"107";"<c=@flavor>"Algunos de la escuadra empiezan a mirarse mal. Hay que acallar los susurros."</c>"
-"108";"Haz doble clic para abrir. Contiene un arma poderosa mejorada de nivel 10 a elegir, 3 desbloqueadores de tintes a elegir, 5 cargas de transmutación y un pase de dos semanas para la terraza real."
-"109";"Elección de arma poderosa mejorada de nivel 10"
-"110";"CAPÍTULO 35
+"93";"Rango final de misión: Centurión"
+"94";"[lbracket]Enlaces de puertas[rbracket]"
+"95";""Las pasiones de Faren", de Snargle Garradorada"
+"96";"Título[s]: Élite de 2v2"
+"97";"Haz doble clic para abrir. Contiene un saco de 10 casillas y 3 potenciadores de explorador."
+"98";"Entrada explosiva"
+"99";"Consigue un diseño de montura al azar de los establos del León Negro. Haz clic derecho para previsualizar los diseños de monturas disponibles."
+"100";"Diario del reparaforjas Arngirn"
+"101";"Haz doble clic para abrir. Contiene yelmos mejores que los normales de nivel 5."
+"102";"Al consumir este objeto conseguirás un diseño para montura al azar de los establos del León Negro."
+"103";"Tónico de salud"
+"104";"Atontamiento contra uso de habilidad"
+"105";"Diario del reparaforjas Arngirn"
+"106";"Empléalo[s] para conseguir el tinte León verde, exclusivo de los cofres del León Negro."
+"107";"Combo[s] de planeador y mochila de alas de caminasueños"
+"108";"Cetro de esquirlapiedra"
+"109";"Alpargatas hechas en casa"
+"110";"Determinación deslumbrante"
+"111";"Guadaña de caminasueños"
+"112";"Yelmo poderoso mejorado"
+"113";"Armas de alas oscuras"
+"114";"El diseño de garra de Maguuma ya está disponible"
+"115";"<c=@flavor>"Algunos de la escuadra empiezan a mirarse mal. Hay que acallar los susurros."</c>"
+"116";"Haz doble clic para abrir. Contiene un arma poderosa mejorada de nivel 10 a elegir, 3 desbloqueadores de tintes a elegir, 5 cargas de transmutación y un pase de dos semanas para la terraza real."
+"117";"Elección de arma poderosa mejorada de nivel 10"
+"118";"Al consumir este objeto conseguirás un diseño para montura al azar de los establos del León Negro."
+"119";"CAPÍTULO 35
 
 "No creas que no me he dado cuenta —dice el comandante del Pacto, y te da un vuelco el corazón—. De cómo me has seguido en pos de mil y un peligros. De lo crucial que has sido contra los resurgidos y los mordrem. Tenerte a mi lado no tiene precio."
 
@@ -158,9 +167,10 @@ Pero, luego, el comandante se te acerca. "También me he dado cuenta de cómo me
 "Así que... —prosigue el comandante mientras te toma la mano— quería proponerte... otra clase de pacto. Un pacto para toda la vida. Contigo."
 
 Casi al instante, una bandada de níveas gaviotas alza el vuelo."
-"111";"Vida eterna"
-"112";"¡Ya está disponible la capa de acechador del abismo!"
-"113";"CAPÍTULO 35
+"120";"Vida eterna"
+"121";"¡Ya está disponible la capa de acechador del abismo!"
+"122";"Caja de selección de permisos de adopción de monturas"
+"123";"CAPÍTULO 35
 
 "No creas que no me he dado cuenta —dice la comandante del Pacto, y te da un vuelco el corazón—. De cómo me has seguido en pos de mil y un peligros. De lo crucial que has sido contra los resurgidos y los mordrem. Tenerte a mi lado no tiene precio."
 
@@ -171,52 +181,56 @@ Pero, luego, la comandante se te acerca. "También me he dado cuenta de cómo me
 "Así que... —prosigue la comandante mientras te toma la mano— quería proponerte... otra clase de pacto. Un pacto para toda la vida. Contigo."
 
 Casi al instante, una bandada de níveas gaviotas alza el vuelo."
-"114";"Habla con Snargle Garradorada."
-"115";"Capa[s] tóxica[s]"
-"116";"Capa tóxica"
-"117";"Capa de belitre"
-"118";"Al inhabilitar a un enemigo, ganas una bendición en función de tu sintonía actual."
-"119";"Cota poderosa mejorada"
-"120";"Los ataques de la bestia de hielo han remitido, lo que supone un descanso muy necesario para los guardias. Pero los noto inquietos. Han estado peleándose entre ellos. Llevamos a uno ante los sacerdotes en busca de consejo, pero no respondió a sus servicios. Cuando lo dejamos ir, volvió en silencio a su puesto como si no hubiera pasado nada.
+"124";"Habla con Snargle Garradorada."
+"125";"Capa[s] tóxica[s]"
+"126";"Capa tóxica"
+"127";"Capa de belitre"
+"128";"Al inhabilitar a un enemigo, ganas una bendición en función de tu sintonía actual."
+"129";"Cota poderosa mejorada"
+"130";"Los ataques de la bestia de hielo han remitido, lo que supone un descanso muy necesario para los guardias. Pero los noto inquietos. Han estado peleándose entre ellos. Llevamos a uno ante los sacerdotes en busca de consejo, pero no respondió a sus servicios. Cuando lo dejamos ir, volvió en silencio a su puesto como si no hubiera pasado nada.
 
 El ambiente se ha enfriado. Hablamos poco. Algo nos quema por dentro.
 
 Todo esto pasará. Como nos acostumbramos a la piedra, debemos acostumbrarnos al fuego."
-"121";"Brigantina de responsabilidad"
-"122";"Pantalones de vestir de belitre"
-"123";"Diario del reparaforjas Arngirn"
-"124";"Elemental de agua invocado"
-"125";"Se eliminan condiciones al esquivar."
-"126";"El diseño de manto de Maguuma ya está disponible"
-"127";"Visita el Ojo del Norte."
-"128";"Potenciador[pl:"Potenciadores"] de hallazgo mágico"
-"129";"Rango final de misión: Imperator[f:"Imperatrix"]"
-"130";"Haz doble clic para abrir. Contiene un pase de portales válido para 5 teletransportes gratis a mapas iniciales, 1000 de karma y 3 potenciadores heroicos."
-"131";"Haz doble clic para abrir. Contiene un desbloqueador de tintes de una de las gamas de colores elegidas."
-"132";"Se desbloquea al completar el logro "Ruta de recompensas de diseño de garrabélica de jinete de clan"."
-"133";"Sus palabras sobre nuestro destino no son más que una excusa para la corrupción en que se han sumido. No seremos sus soldados. Nuestra transformación no nos convierte en "hermanos". No tenemos nada en común, aparte de la raza. No saben lo que hacen. No nos representan.
+"131";"Brigantina de responsabilidad"
+"132";"Pantalones de vestir de belitre"
+"133";"Diario del reparaforjas Arngirn"
+"134";"Elemental de agua invocado"
+"135";"Se eliminan condiciones al esquivar."
+"136";"El diseño de manto de Maguuma ya está disponible"
+"137";"Visita el Ojo del Norte."
+"138";"Adopta a una nueva versión de tus monturas."
+"139";"Potenciador[pl:"Potenciadores"] de hallazgo mágico"
+"140";"Rango final de misión: Imperator[f:"Imperatrix"]"
+"141";"Haz doble clic para abrir. Contiene un pase de portales válido para 5 teletransportes gratis a mapas iniciales, 1000 de karma y 3 potenciadores heroicos."
+"142";"Raptor"
+"143";"Haz doble clic para abrir. Contiene un desbloqueador de tintes de una de las gamas de colores elegidas."
+"144";"Se desbloquea al completar el logro "Ruta de recompensas de diseño de garrabélica de jinete de clan"."
+"145";"Sus palabras sobre nuestro destino no son más que una excusa para la corrupción en que se han sumido. No seremos sus soldados. Nuestra transformación no nos convierte en "hermanos". No tenemos nada en común, aparte de la raza. No saben lo que hacen. No nos representan.
 
 La Cima permanece sola en lo más alto.
 
 Según pasan los días, noto cómo se va asentando la piedra. Cuesta moverse. Si este es mi destino, lo controlaré. Si no podemos revertir el Rito, al menos sacaremos ventaja de él.
 
 He enviado exploradores a lugares clave. Tenemos que aprender todo lo posible sobre cómo invertir la transformación. Es la única forma."
-"134";"Munición recuperada"
-"135";"Diseño[s] de cetro de esquirlapiedra"
-"136";"[F]Cuchilla de la voz rota%str3%%str4%%str2%%str1%"
-"137";"Ruta de recompensas de diseño de garrabélica de jinete de clan"
-"138";"Los diseños de aspecto sustituyen el aspecto de tu equipo y no tienen estadísticas propias."
-"139";""Koss sobre Koss: Sin censura", de Snargle Garradorada"
-"140";"Diario 1 de "Forja de Acero""
-"141";"[lbracket]Servicios[rbracket]"
-"142";"Una versión mejorada de la armadura de belitre estándar."
-"143";"Diario 3 de "Forja de Acero""
-"144";"Elemental de aire invocado"
-"145";"Diseño[s] de báculo guadaña de caminasueños"
-"146";"Capa de acechador del abismo"
-"147";"<c=@flavor>Una ciudad prohibida. Un amor prohibido.</c>
+"146";"Munición recuperada"
+"147";"Diseño[s] de cetro de esquirlapiedra"
+"148";"Al consumir este objeto conseguirás un diseño para montura al azar de los establos del León Negro."
+"149";"[F]Cuchilla de la voz rota%str3%%str4%%str2%%str1%"
+"150";"Ruta de recompensas de diseño de garrabélica de jinete de clan"
+"151";"Los diseños de aspecto sustituyen el aspecto de tu equipo y no tienen estadísticas propias."
+"152";""Koss sobre Koss: Sin censura", de Snargle Garradorada"
+"153";"Diario 1 de "Forja de Acero""
+"154";"[lbracket]Servicios[rbracket]"
+"155";"Una versión mejorada de la armadura de belitre estándar."
+"156";"Diario 3 de "Forja de Acero""
+"157";"Elemental de aire invocado"
+"158";"Diseño[s] de báculo guadaña de caminasueños"
+"159";"Capa de acechador del abismo"
+"160";"<c=@flavor>Una ciudad prohibida. Un amor prohibido.</c>
 
 Se encuentra en Arco del León."
-"148";"[M]Mosquete de la voz rota%str3%%str4%%str2%%str1%"
-"149";"Carácter contenido"
-"150";"El embate absoluto"
+"161";"Chacal"
+"162";"[M]Mosquete de la voz rota%str3%%str4%%str2%%str1%"
+"163";"Carácter contenido"
+"164";"El embate absoluto"
